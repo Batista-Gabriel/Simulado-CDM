@@ -1,0 +1,542 @@
+[
+  {
+    "id": "EMD-001",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que significa evangelizar?",
+    "alternativas": [
+      "Contar as boas novas para quem não conhece e explicá-las para quem não entende",
+      "Convidar pessoas para frequentarem reuniões religiosas",
+      "Ensinar exclusivamente doutrinas teológicas complexas",
+      "Realizar grandes eventos evangelísticos"
+    ],
+    "correta": 0,
+    "explicacao": "Baseado no trecho da página 3 que afirma que evangelizar é contar a notícia sobre a salvação para quem não a conhece e explicá-la para quem não a entende.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-002",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "De acordo com a apostila, quem pode ser considerado um evangelista?",
+    "alternativas": [
+      "Somente pastores ordenados",
+      "Apenas missionários enviados para outros países",
+      "Todo aquele que fala do evangelho com intenção de converter o ouvinte aos caminhos de Cristo",
+      "Somente líderes que pregam para multidões"
+    ],
+    "correta": 2,
+    "explicacao": "A página 3 afirma que todo aquele que fala do evangelho para alguém, buscando converter o ouvinte aos caminhos de Cristo, é um evangelista.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-003",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que a expressão “A hora vem e agora é” indica?",
+    "alternativas": [
+      "Uma referência ao passado",
+      "A ideia de urgência e cumprimento de algo esperado",
+      "Uma instrução para esperar o momento certo",
+      "Um símbolo relacionado ao templo"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 3, a apostila explica que a expressão denota urgência, algo esperado por muito tempo que agora chegou.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-004",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual exemplo é utilizado para mostrar o impacto do evangelismo pessoal?",
+    "alternativas": [
+      "A multiplicação dos pães",
+      "A pregação no templo de Jerusalém",
+      "A conversa de Jesus com uma mulher que buscava água em um poço",
+      "O sermão pregado para multidões"
+    ],
+    "correta": 2,
+    "explicacao": "A página 4 destaca a conversa de Jesus com a mulher junto ao poço como exemplo de evangelismo pessoal com grande impacto.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "EMD-005",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual deve ser a máxima de qualquer estratégia evangelística?",
+    "alternativas": [
+      "Crescimento numérico das igrejas",
+      "Realização de grandes eventos",
+      "Formação de líderes religiosos",
+      "Salvação de pessoas"
+    ],
+    "correta": 3,
+    "explicacao": "Na página 5, a apostila afirma que independentemente da estratégia utilizada, a máxima deve ser a salvação de pessoas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-006",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "De acordo com a apostila, quem convence o evangelizado?",
+    "alternativas": [
+      "O evangelista",
+      "A igreja local",
+      "Deus",
+      "Os argumentos humanos"
+    ],
+    "correta": 2,
+    "explicacao": "A página 5 reforça que as pessoas evangelizam, porém é Deus quem convence o evangelizado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-007",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, por que ameaças relacionadas ao inferno possuem pouco efeito positivo no evangelismo?",
+    "alternativas": [
+      "Porque são proibidas",
+      "Porque o convencimento não acontece por argumentos humanos, mas pelo Espírito Santo",
+      "Porque afastam líderes religiosos",
+      "Porque não existem referências bíblicas"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 5, a apostila afirma que o convencimento vem pelo Espírito Santo e não por argumentos humanos ou ameaças.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-008",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual deve ser a postura do evangelizador diante das pessoas?",
+    "alternativas": [
+      "Agir como juiz",
+      "Agir como debatedor",
+      "Colocar-se como evangelizador e não juiz",
+      "Priorizar correções públicas"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 6, a apostila orienta que devemos nos colocar no lugar de evangelizadores e não de juízes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EMD-009",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, onde começa a obra de um evangelista?",
+    "alternativas": [
+      "Na igreja local",
+      "Nos grandes eventos",
+      "Nas redes sociais",
+      "Primeiro nele mesmo"
+    ],
+    "correta": 3,
+    "explicacao": "A página 6 conclui que a obra do evangelista começa primeiro nele mesmo, em consonância entre palavras e atitudes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EMD-010",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, como são conhecidos atualmente muitos dos que vivem dedicados ao ministério evangelístico?",
+    "alternativas": [
+      "Profetas locais",
+      "Pregadores itinerantes",
+      "Missionários diplomados",
+      "Conselheiros ministeriais"
+    ],
+    "correta": 1,
+    "explicacao": "A página 7 afirma que muitos vocacionados ao ministério evangelístico são conhecidos como pregadores itinerantes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Evangelismo",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "EMD-011",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, quando falamos de missões no âmbito da igreja, estamos nos referindo a quê?",
+    "alternativas": [
+      "Levar a mensagem de Cristo a todos os povos",
+      "Organizar eventos religiosos locais",
+      "Criar novas denominações religiosas",
+      "Administrar patrimônios eclesiásticos"
+    ],
+    "correta": 0,
+    "explicacao": "A página 3 afirma que missões, no contexto da igreja, refere-se a levar a mensagem de Cristo a todos os povos, cumprindo o 'ide'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-012",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual característica diferencia missões do evangelismo?",
+    "alternativas": [
+      "Missões são realizadas apenas em igrejas",
+      "Evangelismo exige viagens internacionais",
+      "Missões representam uma vocação para um chamado específico de Deus",
+      "Evangelismo só ocorre em grupos grandes"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, a apostila diferencia missões do evangelismo afirmando que missões são uma vocação específica para um chamado de Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "EMD-013",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que normalmente pode resultar de uma obra missionária?",
+    "alternativas": [
+      "A criação de escolas bíblicas",
+      "A implantação de uma igreja local",
+      "A formação de seminários",
+      "A construção de centros comunitários"
+    ],
+    "correta": 1,
+    "explicacao": "A página 4 afirma que não é incomum que a obra missionária resulte na implantação de uma igreja local.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "EMD-014",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, como também são chamadas as atividades evangelísticas realizadas nas adjacências da igreja local?",
+    "alternativas": [
+      "Evangelismo institucional",
+      "Evangelismo pastoral",
+      "Missões urbanas ou locais",
+      "Missões regionais"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, a apostila afirma que evangelismo de rua, visitas e eventos realizados pela igreja local são chamados de missões urbanas ou locais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "EMD-015",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, quando um missionário atravessa barreiras culturais para anunciar o evangelho, ele está realizando qual tipo de missão?",
+    "alternativas": [
+      "Missão regional",
+      "Missão local",
+      "Missão institucional",
+      "Missão transcultural"
+    ],
+    "correta": 3,
+    "explicacao": "A página 5 explica que missões transculturais acontecem quando o missionário atravessa barreiras culturais e até nações para levar o evangelho.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-016",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que representa a Janela 10/40?",
+    "alternativas": [
+      "Uma região entre América do Sul e África",
+      "Uma faixa geográfica entre os graus 10 e 40 ao norte da linha do equador",
+      "Uma estratégia de evangelismo urbano",
+      "Uma divisão entre igrejas locais e missionárias"
+    ],
+    "correta": 1,
+    "explicacao": "A página 5 define a Janela 10/40 como uma faixa geográfica entre os graus 10 e 40 ao norte da linha do equador.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-017",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, quem pertence à Igreja Perseguida?",
+    "alternativas": [
+      "Cristãos que vivem somente em países pobres",
+      "Cristãos que negam a própria fé",
+      "Cristãos que têm direitos negados por escolherem seguir a Jesus",
+      "Missionários que vivem fora do país"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 6, a apostila afirma que cristãos cujos direitos são negados por seguirem Jesus são considerados parte da Igreja Perseguida.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EMD-018",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que Paulo considerava mais importante do que prisões ou sofrimentos?",
+    "alternativas": [
+      "Retornar à igreja local",
+      "Completar a missão recebida do Senhor Jesus",
+      "Expandir cidades missionárias",
+      "Fundar novas denominações"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 6, a apostila explica que Paulo priorizava completar a missão recebida do Senhor acima dos sofrimentos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EMD-019",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual atitude tomaram os jovens moravianos para alcançar escravos que nunca ouviriam o evangelho?",
+    "alternativas": [
+      "Compraram a ilha",
+      "Construíram uma igreja próxima",
+      "Se ofereceram como escravos para sempre",
+      "Enviaram cartas evangelísticas"
+    ],
+    "correta": 2,
+    "explicacao": "A página 7 relata que os jovens moravianos se ofereceram como escravos permanentes para alcançar os escravos da ilha.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "EMD-020",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que é necessário mesmo para quem não possui um chamado específico para missões transculturais?",
+    "alternativas": [
+      "Aprender idiomas estrangeiros",
+      "Mudar para outro país",
+      "Ter um coração missionário",
+      "Fundar novas igrejas"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 8, a apostila afirma que mesmo quem não possui chamado específico deve ter um coração missionário.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Missões",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "EMD-021",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que significa discipular alguém?",
+    "alternativas": [
+      "Ensinar práticas e conduzir alguém no aprendizado da fé",
+      "Somente transmitir conteúdos teóricos",
+      "Preparar exclusivamente líderes religiosos",
+      "Supervisionar atividades da igreja"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 3, a apostila afirma que discipular tem ligação direta com o ensino de uma prática e consiste em guiar alguém até a maturidade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-022",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual comparação é utilizada para explicar o discipulado?",
+    "alternativas": [
+      "Construir uma casa",
+      "Seguir as lanternas de outro carro em meio à neblina",
+      "Aprender a nadar",
+      "Subir uma montanha"
+    ],
+    "correta": 1,
+    "explicacao": "A página 3 compara discipular com seguir as lanternas de outro carro na neblina, representando guiar e acompanhar alguém.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-023",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, quem pode discipular outra pessoa?",
+    "alternativas": [
+      "Qualquer frequentador da igreja",
+      "Somente pastores",
+      "Alguém que também seja discípulo e tenha amadurecido na fé",
+      "Apenas professores bíblicos"
+    ],
+    "correta": 2,
+    "explicacao": "A página 3 afirma que só pode discipular quem também é discípulo e amadureceu nos fundamentos da fé.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-024",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, quais são os três tempos normalmente presentes na trajetória de um crente salvo?",
+    "alternativas": [
+      "Conversão, batismo e liderança",
+      "Aprender, ensinar e multiplicar",
+      "Ser salvo, permanecer salvo e tomar posse plena da salvação",
+      "Arrependimento, comunhão e ministério"
+    ],
+    "correta": 2,
+    "explicacao": "A página 3 descreve três tempos: ser salvo, permanecer salvo e tomar posse plena da salvação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "EMD-025",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual característica diferenciava o ensino de Jesus?",
+    "alternativas": [
+      "Era baseado apenas em textos antigos",
+      "Era exclusivamente teórico",
+      "Era ensinado com autoridade e prática",
+      "Era realizado somente em templos"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, a apostila destaca que Jesus ensinava com autoridade e mostrava na prática aquilo que ensinava.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "EMD-026",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, quais são os pilares do discipulado?",
+    "alternativas": [
+      "Ensinar, corrigir e supervisionar",
+      "Integrar, edificar e multiplicar",
+      "Orar, jejuar e evangelizar",
+      "Liderar, servir e administrar"
+    ],
+    "correta": 1,
+    "explicacao": "A página 5 identifica o trinômio integrar, edificar e multiplicar como o modus operandi do discipulado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-027",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual é um dos maiores desafios enfrentados pela igreja atual no discipulado?",
+    "alternativas": [
+      "Falta de prédios",
+      "Escassez de líderes regionais",
+      "Integração dos novos convertidos",
+      "Ausência de materiais impressos"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 5, a apostila afirma que a integração dos novos convertidos é um dos maiores desafios atuais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "EMD-028",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o discipulador deve entender que ele não é o quê?",
+    "alternativas": [
+      "Um professor",
+      "Um exemplo",
+      "Um líder espiritual",
+      "O dono do discipulando"
+    ],
+    "correta": 3,
+    "explicacao": "A página 6 afirma que o discipulador não é dono do discipulando, mas alguém usado por Deus para ensinar e acompanhar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EMD-029",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, qual departamento realiza o primeiro contato com alguém que aceitou a Cristo?",
+    "alternativas": [
+      "Departamento de missões",
+      "UNA (Uma Nova Aliança)",
+      "Escola bíblica",
+      "Departamento infantil"
+    ],
+    "correta": 1,
+    "explicacao": "A página 6 afirma que o departamento UNA realiza o primeiro contato e acolhimento ao novo convertido.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EMD-030",
+    "disciplina": "Evangelismo, Missões e Discipulado",
+    "enunciado": "Segundo a apostila, o que o novo convertido deve enxergar em seu discipulador?",
+    "alternativas": [
+      "Uma autoridade inquestionável",
+      "Um administrador eficiente",
+      "Um referencial e exemplo de vida cristã",
+      "Um especialista acadêmico"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 6, a apostila ensina que o discipulador deve ser um referencial e exemplo de vida espiritual para o novo convertido.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Discipulado",
+      "pagina": 6
+    }
+  }
+]

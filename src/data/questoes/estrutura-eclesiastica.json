@@ -1,0 +1,597 @@
+[
+  {
+    "id": "EEC-001",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, qual versículo foi citado para explicar como convém andar na casa de Deus?",
+    "alternativas": [
+      "1 Timóteo 3:14-15",
+      "Mateus 28:19",
+      "Hebreus 13:17",
+      "João 3:16"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila cita: “se tardar, para que saibas como convém andar na casa de Deus...” em 1 Timóteo 3:14-15.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "EEC-002",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Quem fundou a Assembleia de Deus da Penha, segundo a apostila?",
+    "alternativas": [
+      "Pr. José Santos",
+      "Pr. Augusto Costa",
+      "Pr. José Pimentel de Carvalho",
+      "Pr. Sebastião Ferreira Pinto"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que a Assembleia de Deus da Penha foi fundada pelo Pr. José Pimentel de Carvalho.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "EEC-003",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Quantas congregações existiam no campo da Assembleia de Deus na Penha em 1964?",
+    "alternativas": [
+      "5 congregações",
+      "7 congregações",
+      "10 congregações",
+      "12 congregações"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila informa que em 1964 o campo contava com apenas sete congregações.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "EEC-004",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Em qual endereço foi inaugurado o templo da igreja em 1996?",
+    "alternativas": [
+      "Rua Coimbra, 1191",
+      "Rua Montevidéu, 1191",
+      "Rua 12, 1191",
+      "Rua Proletária, 1191"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila registra que o templo inaugurado em 1996 estava localizado na Rua Montevidéu, 1191.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "EEC-005",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Quantos membros a igreja possuía ao final do ministério do Pastor José Santos?",
+    "alternativas": [
+      "10 mil membros",
+      "12 mil membros",
+      "15 mil membros",
+      "20 mil membros"
+    ],
+    "correta": 2,
+    "explicacao": "Segundo a apostila, ao final do ministério do Pastor José Santos havia cerca de 15 mil membros.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "EEC-006",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Quem assumiu a liderança da igreja em 2 de março de 2010?",
+    "alternativas": [
+      "Pr. José Mathias",
+      "Pr. Gilberto Malafaia",
+      "Pr. Silas Lima Malafaia",
+      "Pr. Augusto Costa"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que o Pastor Silas Lima Malafaia assumiu a liderança em 2 de março de 2010.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "EEC-007",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Quem foi a primeira pastora consagrada da ADVEC?",
+    "alternativas": [
+      "Pra. Albertina Malafaia",
+      "Pra. Elizete Malafaia",
+      "Pra. Antonieta Rosa",
+      "Ir. Maria Leal"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila informa que a primeira pastora consagrada da ADVEC foi Pra. Antonieta Rosa.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "EEC-008",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Qual é o número de igrejas informado na seção 'Hoje'?",
+    "alternativas": ["89", "105", "133", "152"],
+    "correta": 3,
+    "explicacao": "Na seção 'Hoje', a apostila informa que existem 152 igrejas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "EEC-009",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Qual dos itens abaixo NÃO aparece entre os cinco pilares fundamentais apresentados?",
+    "alternativas": ["Unidade", "Oração", "Prosperidade", "Autoridade"],
+    "correta": 2,
+    "explicacao": "Os cinco pilares listados são Unidade, Visão, Autoridade, Palavra de Deus e Oração.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 15
+    }
+  },
+  {
+    "id": "EEC-010",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, a igreja é comparada a quê no tema Unidade?",
+    "alternativas": ["Uma família", "Um exército", "Um corpo", "Uma escola"],
+    "correta": 2,
+    "explicacao": "A apostila afirma: “A igreja é um corpo (1 Cor 12:12)”.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 16
+    }
+  },
+  {
+    "id": "EEC-011",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Qual objetivo faz parte da visão da ADVEC?",
+    "alternativas": [
+      "Reduzir departamentos",
+      "Ganhar almas para Cristo",
+      "Criar novos sacramentos",
+      "Eliminar congregações"
+    ],
+    "correta": 1,
+    "explicacao": "Entre os objetivos da visão da ADVEC está “Ganhar almas para Cristo”.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 17
+    }
+  },
+  {
+    "id": "EEC-012",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a seção sobre autoridade, qualquer organização sem princípio de autoridade tende a quê?",
+    "alternativas": [
+      "Prosperar rapidamente",
+      "Se autodestruir",
+      "Se tornar independente",
+      "Expandir naturalmente"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que qualquer organização sem princípio de autoridade se autodestrói.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 18
+    }
+  },
+  {
+    "id": "EEC-013",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, o que sustenta os cristãos no pilar Palavra de Deus?",
+    "alternativas": ["A tradição", "A liderança", "A palavra", "Os dons"],
+    "correta": 2,
+    "explicacao": "A apostila afirma: “É a palavra que nos sustenta”.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 19
+    }
+  },
+  {
+    "id": "EEC-014",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Como a oração é descrita na apostila?",
+    "alternativas": [
+      "Como obrigação religiosa",
+      "Como nosso combustível espiritual",
+      "Como tradição histórica",
+      "Como disciplina opcional"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila declara que a oração é o nosso combustível espiritual.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 20
+    }
+  },
+  {
+    "id": "EEC-015",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Qual sistema de governo é atribuído à ADVEC?",
+    "alternativas": [
+      "Presbiteral",
+      "Congregacional",
+      "Episcopal",
+      "Democrático"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que o sistema de governo da ADVEC é classificado como episcopal.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 22
+    }
+  },
+  {
+    "id": "EEC-016",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Qual cargo aparece listado na diretoria da ADVEC?",
+    "alternativas": [
+      "Superintendente regional",
+      "Administrador",
+      "Coordenador distrital",
+      "Bispo auxiliar"
+    ],
+    "correta": 1,
+    "explicacao": "Na estrutura organizacional da diretoria aparece o cargo de administrador.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 23
+    }
+  },
+  {
+    "id": "EEC-017",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Qual departamento é direcionado às crianças?",
+    "alternativas": ["CONNECT", "RENOVO", "INTERLIGADOS KIDS", "UNA"],
+    "correta": 2,
+    "explicacao": "A apostila identifica INTERLIGADOS KIDS como departamento para crianças.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 24
+    }
+  },
+  {
+    "id": "EEC-018",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a estrutura das filiais, qual função deve existir com pelo menos um integrante?",
+    "alternativas": ["Vice-dirigente", "Dirigente", "Tesoureiro", "Pastor"],
+    "correta": 2,
+    "explicacao": "A apostila informa que deve existir pelo menos um tesoureiro nas filiais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 25
+    }
+  },
+  {
+    "id": "EEC-019",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo 1 Timóteo 3 citado na apostila, qual característica é exigida dos diáconos?",
+    "alternativas": [
+      "Serem neófitos",
+      "Serem honestos",
+      "Serem solteiros",
+      "Serem ricos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila cita que os diáconos devem ser honestos, entre outras qualificações.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 26
+    }
+  },
+  {
+    "id": "EEC-020",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a base doutrinária apresentada, como deve ser realizado o batismo bíblico?",
+    "alternativas": [
+      "Por aspersão",
+      "Por imersão em águas",
+      "Somente simbólico",
+      "Por derramamento"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila declara que o batismo bíblico é efetuado por imersão em águas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 30
+    }
+  },
+  {
+    "id": "EEC-021",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a base doutrinária da ADVEC, a Bíblia Sagrada é considerada o quê?",
+    "alternativas": [
+      "Um livro histórico importante",
+      "Uma tradição religiosa",
+      "Única regra infalível de fé e prática",
+      "Um guia complementar"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que a Bíblia Sagrada é a única regra infalível de fé e prática para a vida e caráter cristão.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 27
+    }
+  },
+  {
+    "id": "EEC-022",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a base doutrinária apresentada, Deus subsiste eternamente em quantas pessoas distintas?",
+    "alternativas": [
+      "Uma pessoa",
+      "Duas pessoas",
+      "Três pessoas",
+      "Quatro pessoas"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila declara que Deus subsiste eternamente em três pessoas distintas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 27
+    }
+  },
+  {
+    "id": "EEC-023",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Como a apostila descreve Jesus Cristo?",
+    "alternativas": [
+      "Somente homem",
+      "Somente Deus",
+      "Plenamente Deus e plenamente Homem",
+      "Criatura exaltada"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que Jesus Cristo é plenamente Deus e plenamente Homem.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 28
+    }
+  },
+  {
+    "id": "EEC-024",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, qual é uma das funções atribuídas ao Espírito Santo?",
+    "alternativas": [
+      "Criar novos mandamentos",
+      "Convencer o mundo do pecado, da justiça e do juízo",
+      "Substituir a Palavra de Deus",
+      "Eliminar o livre-arbítrio"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o Espírito Santo convence o mundo do pecado, da justiça e do juízo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 28
+    }
+  },
+  {
+    "id": "EEC-025",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, o que pode restaurar o homem a Deus?",
+    "alternativas": [
+      "Boas obras apenas",
+      "Arrependimento e fé na obra expiatória e redentora de Jesus Cristo",
+      "Conhecimento teológico",
+      "Participação em cultos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que somente o arrependimento e a fé na obra expiatória e redentora de Jesus Cristo podem restaurar o homem a Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 29
+    }
+  },
+  {
+    "id": "EEC-026",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, a necessidade absoluta do novo nascimento ocorre mediante o quê?",
+    "alternativas": [
+      "Obediência à tradição",
+      "Graça de Deus mediante a fé em Jesus Cristo",
+      "Participação ministerial",
+      "Experiência emocional"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o novo nascimento ocorre pela graça de Deus mediante a fé em Jesus Cristo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 29
+    }
+  },
+  {
+    "id": "EEC-027",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, a Igreja é definida como o quê?",
+    "alternativas": [
+      "Uma organização social",
+      "O corpo de Cristo",
+      "Uma associação religiosa local",
+      "Um movimento histórico"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que a Igreja é o corpo de Cristo, coluna e firmeza da verdade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 30
+    }
+  },
+  {
+    "id": "EEC-028",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a base doutrinária, a vida santa e irrepreensível é possível por obra de quem?",
+    "alternativas": [
+      "Da disciplina pessoal",
+      "Do Espírito Santo",
+      "Dos líderes da igreja",
+      "Dos sacramentos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o Espírito Santo capacita os cristãos a viverem vida santa e irrepreensível.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 30
+    }
+  },
+  {
+    "id": "EEC-029",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, qual evidência física acompanha o batismo no Espírito Santo?",
+    "alternativas": [
+      "Profecias constantes",
+      "Falar em outras línguas",
+      "Sonhos frequentes",
+      "Jejum prolongado"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o batismo no Espírito Santo é demonstrado pela evidência física do falar em outras línguas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 31
+    }
+  },
+  {
+    "id": "EEC-030",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, a segunda vinda de Cristo ocorrerá em quantas fases distintas?",
+    "alternativas": ["Uma fase", "Duas fases", "Três fases", "Quatro fases"],
+    "correta": 1,
+    "explicacao": "A apostila afirma que a segunda vinda de Cristo ocorrerá em duas fases distintas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 31
+    }
+  },
+  {
+    "id": "EEC-031",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, diante de qual tribunal comparecerão todos os cristãos arrebatados?",
+    "alternativas": [
+      "Tribunal dos Apóstolos",
+      "Tribunal Celestial",
+      "Tribunal de Cristo",
+      "Grande Trono Branco"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que todos os cristãos arrebatados comparecerão ante o Tribunal de Cristo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 32
+    }
+  },
+  {
+    "id": "EEC-032",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, quem comparecerá ao Juízo Final?",
+    "alternativas": [
+      "Somente líderes religiosos",
+      "Todos os ímpios",
+      "Somente os anjos caídos",
+      "Apenas os vivos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que no Juízo Final comparecerão todos os ímpios.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 32
+    }
+  },
+  {
+    "id": "EEC-033",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a apostila, o casamento foi instituído por Deus como união entre quem?",
+    "alternativas": [
+      "Duas pessoas independentemente do sexo",
+      "Um homem e uma mulher",
+      "Somente líderes religiosos",
+      "Qualquer união reconhecida civilmente"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o casamento foi instituído por Deus como união entre um homem e uma mulher.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 32
+    }
+  },
+  {
+    "id": "EEC-034",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo 2 Timóteo 2:15 citado na apostila, como deve ser o obreiro aprovado?",
+    "alternativas": [
+      "Aquele que evita responsabilidades",
+      "Aquele que maneja bem a palavra da verdade",
+      "Aquele que conhece várias religiões",
+      "Aquele que fala em público"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila cita que o obreiro aprovado é aquele que maneja bem a palavra da verdade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 33
+    }
+  },
+  {
+    "id": "EEC-035",
+    "disciplina": "Estrutura Eclesiástica",
+    "enunciado": "Segundo a seção sobre autoridade, antes de pedir contas do serviço realizado, Deus pedirá conta de quê?",
+    "alternativas": [
+      "Dos resultados financeiros",
+      "Da fidelidade e obediência ao líder",
+      "Da quantidade de membros",
+      "Da frequência aos cultos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que Deus pedirá conta da fidelidade e obediência ao líder.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Estrutura Eclesiástica",
+      "pagina": 18
+    }
+  }
+]

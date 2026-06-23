@@ -1,0 +1,347 @@
+[
+  {
+    "id": "OAP-001",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, o que compõe a equação do obreiro aprovado por Deus?",
+    "alternativas": [
+      "Caráter + Dom + Chamado + Tempo",
+      "Conhecimento + Carisma + Recursos + Tempo",
+      "Posição + Influência + Dom + Riqueza",
+      "Experiência + Cargo + Popularidade + Tempo"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila apresenta explicitamente a equação: 'CARÁTER + DOM + CHAMADO + TEMPO = Obreiro Aprovado'. Página 4.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OAP-002",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "De acordo com a apostila, posição sem caráter resulta em quê?",
+    "alternativas": [
+      "Imaturidade",
+      "Ineficiência",
+      "Irresponsabilidade",
+      "Violência"
+    ],
+    "correta": 2,
+    "explicacao": "A seção sobre desequilíbrio na equação afirma: 'POSIÇÃO SEM CARÁTER = IRRESPONSABILIDADE'. Página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "OAP-003",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, posição sem dom produz qual consequência?",
+    "alternativas": [
+      "Violência",
+      "Ineficiência",
+      "Irresponsabilidade",
+      "Maturidade"
+    ],
+    "correta": 1,
+    "explicacao": "O material afirma: 'POSIÇÃO SEM DOM = INEFICIÊNCIA'. Página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "OAP-004",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Qual consequência a apostila associa à posição sem chamado?",
+    "alternativas": ["Violência", "Negligência", "Exaltação", "Imaturidade"],
+    "correta": 0,
+    "explicacao": "Na seção 'Desequilíbrio na Equação' consta: 'POSIÇÃO SEM CHAMADO = VIOLÊNCIA'. Página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "OAP-005",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, posição sem o tempo de Deus resulta em:",
+    "alternativas": ["Sabedoria", "Imaturidade", "Prudência", "Eficiência"],
+    "correta": 1,
+    "explicacao": "O texto afirma: 'POSIÇÃO SEM O TEMPO DE DEUS = IMATURIDADE'. Página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "OAP-006",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Qual dos itens abaixo faz parte do que o obreiro precisa saber?",
+    "alternativas": [
+      "Quanto tempo trabalhar",
+      "Para quem você trabalha",
+      "Como arrecadar recursos",
+      "Como alcançar fama"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila lista: 'Para quem você trabalha, Onde você trabalha, Como você deve trabalhar'. Página 6.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "OAP-007",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, Deus é apresentado como aquele que:",
+    "alternativas": [
+      "Premia apenas líderes",
+      "Tudo vê",
+      "Age somente na igreja",
+      "Depende dos homens"
+    ],
+    "correta": 1,
+    "explicacao": "Na seção 'Para quem você trabalha?' consta: 'DEUS QUE TUDO VÊ'. Página 7.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "OAP-008",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Qual é o significado atribuído à palavra grega 'Ekklesia' na apostila?",
+    "alternativas": [
+      "Casa de oração",
+      "Comunidade local",
+      "Chamados para fora",
+      "Templo sagrado"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma que a palavra grega 'Ekklesia' significa: 'Chamados para fora'. Página 8.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "OAP-009",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, a igreja cristã é formada por pessoas:",
+    "alternativas": [
+      "Separadas apenas pela tradição",
+      "Divinamente chamadas e separadas do mundo",
+      "Escolhidas por votação",
+      "Ligadas somente por cultura"
+    ],
+    "correta": 1,
+    "explicacao": "O material descreve a igreja como um grupo de pessoas 'divinamente chamadas e separadas do mundo'. Página 8.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "OAP-010",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "A apostila afirma que a igreja é simultaneamente:",
+    "alternativas": [
+      "Temporal e eterna",
+      "Humana e divina",
+      "Organismo e Organização",
+      "Pequena e grande"
+    ],
+    "correta": 2,
+    "explicacao": "O texto diz: 'A igreja é simultaneamente, Organismo e Organização'. Página 9.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "OAP-011",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Quando Cristo instituiu sua igreja, segundo a apostila, Ele tinha em mente:",
+    "alternativas": [
+      "Uma instituição política",
+      "Um organismo vivo",
+      "Uma organização financeira",
+      "Um sistema hierárquico"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma: 'Ele tinha em mente um organismo vivo'. Página 9.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "OAP-012",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, qual é o objetivo desse corpo criado por Cristo?",
+    "alternativas": [
+      "Expandir patrimônio",
+      "Chegar à maturidade",
+      "Controlar a sociedade",
+      "Criar tradições"
+    ],
+    "correta": 1,
+    "explicacao": "O material afirma que esse corpo deveria 'se desenvolver, atingir a maturidade'. Página 9.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "OAP-013",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, a igreja não é:",
+    "alternativas": [
+      "Um organismo vivo",
+      "Uma invenção humana",
+      "Uma reunião de pessoas",
+      "Uma comunidade"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma explicitamente: 'A Igreja não é invenção humana'. Página 10.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "OAP-014",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "De acordo com a apostila, a igreja não é:",
+    "alternativas": [
+      "Importante",
+      "Qualquer lugar",
+      "Uma comunidade",
+      "Um organismo"
+    ],
+    "correta": 1,
+    "explicacao": "Na lista apresentada, consta: 'A Igreja não é qualquer lugar'. Página 10.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "OAP-015",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Como os cristãos devem ser considerados, segundo a citação usada na apostila?",
+    "alternativas": [
+      "Como administradores políticos",
+      "Como servos de Cristo e encarregados dos mistérios de Deus",
+      "Como autoridades absolutas",
+      "Como proprietários da igreja"
+    ],
+    "correta": 1,
+    "explicacao": "A página cita: 'que todos nos considerem como servos de Cristo e encarregados dos mistérios de Deus'. Página 11.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "OAP-016",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, a igreja de Cristo não é para:",
+    "alternativas": [
+      "Servir pessoas",
+      "Nos servir e nos locupletar",
+      "Evangelizar",
+      "Cultuar a Deus"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma: 'A igreja de Cristo não é para nos servir e nem nos locupletar'. Página 11.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "OAP-017",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Qual contraste aparece na lista sobre o tipo de obreiro?",
+    "alternativas": [
+      "Forte ou fraco",
+      "Rico ou pobre",
+      "Fiel ou infiel",
+      "Jovem ou velho"
+    ],
+    "correta": 2,
+    "explicacao": "A lista inclui o contraste: 'Fiel ou infiel?'. Página 12.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "OAP-018",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo a apostila, qual opção aparece relacionada ao uso dos talentos?",
+    "alternativas": [
+      "Ignora talento ou esconde talento",
+      "Enterra talento ou multiplica talento",
+      "Compra talento ou vende talento",
+      "Cria talento ou perde talento"
+    ],
+    "correta": 1,
+    "explicacao": "O texto apresenta a pergunta: 'Enterra talento ou multiplica talento?'. Página 12.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "OAP-019",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Qual dos itens abaixo aparece como um dos pilares da ADVEC?",
+    "alternativas": ["Prosperidade", "Estratégia", "Palavra", "Experiência"],
+    "correta": 2,
+    "explicacao": "A página apresenta os pilares da ADVEC: 'PALAVRA, UNIDADE, VISÃO, AUTORIDADE'. Página 13.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "OAP-020",
+    "disciplina": "O Obreiro Aprovado ",
+    "enunciado": "Segundo o versículo apresentado na apostila, o obreiro aprovado é aquele que:",
+    "alternativas": [
+      "Busca reconhecimento humano",
+      "Não tem de que se envergonhar e maneja bem a palavra da verdade",
+      "Ocupa posições elevadas",
+      "Trabalha apenas na igreja"
+    ],
+    "correta": 1,
+    "explicacao": "A citação afirma: 'obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade'. Página 3.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Obreiro Aprovado ",
+      "pagina": 3
+    }
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "id": "FML-001",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, qual é o resultado quando um líder coloca sua família em primeiro lugar?",
+    "alternativas": [
+      "A comunidade se beneficia",
+      "A família perde importância",
+      "O ministério deixa de existir",
+      "A igreja se enfraquece automaticamente"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que quando um líder coloca sua família em primeiro lugar, a comunidade se beneficia.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FML-002",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o que aconteceu com a humanidade como consequência do pecado?",
+    "alternativas": [
+      "Nosso corpo, alma e espírito foram contaminados",
+      "Apenas o corpo foi afetado",
+      "Somente as emoções foram alteradas",
+      "Nada mudou na natureza humana"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila declara que corpo, alma e espírito foram contaminados como consequência do pecado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FML-003",
+    "disciplina": "Família",
+    "enunciado": "De acordo com a apostila, o que transforma famílias imperfeitas em famílias saudáveis?",
+    "alternativas": [
+      "A graça perfeita de Deus por meio de Jesus",
+      "A tradição familiar",
+      "A prosperidade financeira",
+      "O esforço humano isolado"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que a graça de Deus tem poder para transformar famílias imperfeitas em saudáveis.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FML-004",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, qual foi o segredo das famílias bíblicas imperfeitas citadas?",
+    "alternativas": [
+      "Colocaram sua fé em ação e confiaram nas promessas de Deus",
+      "Evitaram qualquer erro",
+      "Possuíam riqueza abundante",
+      "Nunca enfrentaram problemas"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila destaca que essas famílias confiaram nas promessas de Deus e colocaram sua fé em ação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FML-005",
+    "disciplina": "Família",
+    "enunciado": "De acordo com a apostila, como ocorre o processo diário de santificação?",
+    "alternativas": [
+      "Por meio da Palavra, oração, jejum e comunhão",
+      "Somente por conhecimento teórico",
+      "Apenas frequentando cultos",
+      "Exclusivamente por esforço pessoal"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que a santificação diária ocorre através da Palavra, oração, jejum e comunhão.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "FML-006",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, qual é o primeiro campo de treinamento espiritual e emocional?",
+    "alternativas": ["A família", "A escola", "O trabalho", "A sociedade"],
+    "correta": 0,
+    "explicacao": "A apostila afirma que a família é o primeiro campo de treinamento espiritual e emocional.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "FML-007",
+    "disciplina": "Família",
+    "enunciado": "Segundo o texto, qual seria a função de Satanás nesta terra?",
+    "alternativas": [
+      "Destruir as famílias",
+      "Criar divisões políticas",
+      "Impedir o crescimento econômico",
+      "Controlar governos"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila declara explicitamente que a função de Satanás é destruir as famílias.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "FML-008",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, quando a família pastoral não está bem, o que pode acontecer?",
+    "alternativas": [
+      "A saúde espiritual da igreja também é afetada",
+      "Nada muda no ministério",
+      "Apenas a vida financeira sofre",
+      "Somente os filhos são impactados"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que problemas na família pastoral afetam também a saúde espiritual da igreja.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "FML-009",
+    "disciplina": "Família",
+    "enunciado": "Qual família bíblica é apresentada como exemplo de consequências negativas por problemas familiares?",
+    "alternativas": [
+      "A família do sacerdote Eli",
+      "A família de José",
+      "A família de Noé",
+      "A família de Ló"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila usa a família de Eli como exemplo de consequências graves para família e povo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "FML-010",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o que os desertos ou pressões podem representar na vida cristã?",
+    "alternativas": [
+      "Treinamento para crescimento espiritual, emocional e material",
+      "Castigos sem propósito",
+      "Sinais de abandono divino",
+      "Fim do propósito de Deus"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que desertos funcionam como treinamento para crescimento.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "FML-011",
+    "disciplina": "Família",
+    "enunciado": "Segundo o texto, qual é o segredo para atravessar os desertos da vida?",
+    "alternativas": [
+      "Não murmurar e confiar em Deus",
+      "Evitar qualquer dificuldade",
+      "Buscar isolamento",
+      "Depender apenas da própria força"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que o segredo é confiar, sem murmurar, como Abraão e Sara.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "FML-012",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, Abraão e Sara são apresentados como modelo de quê?",
+    "alternativas": [
+      "Família judaico-cristã",
+      "Modelo econômico",
+      "Modelo político",
+      "Família perfeita"
+    ],
+    "correta": 0,
+    "explicacao": "O texto descreve Abraão e Sara como modelo de família judaico-cristã.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "FML-013",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, quais três decisões moldam o futuro de uma pessoa?",
+    "alternativas": [
+      "Salvação, profissão e casamento",
+      "Dinheiro, profissão e amizades",
+      "Estudos, trabalho e viagens",
+      "Família, política e patrimônio"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que salvação, profissão e casamento definem o futuro.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "FML-014",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o que é fundamental para o sucesso do chamado ministerial?",
+    "alternativas": [
+      "Harmonia no casamento",
+      "Popularidade",
+      "Boa condição financeira",
+      "Quantidade de membros"
+    ],
+    "correta": 0,
+    "explicacao": "O texto declara que a harmonia no casamento é fundamental para o sucesso ministerial.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "FML-015",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o temor ao Senhor é descrito como essencial para quê?",
+    "alternativas": [
+      "A saúde do relacionamento conjugal",
+      "Apenas para liderança pastoral",
+      "Sucesso financeiro",
+      "Crescimento empresarial"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que essa sabedoria é essencial para a saúde conjugal.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "FML-016",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o que poderia ocorrer quando o ministério não é equilibrado com responsabilidades familiares?",
+    "alternativas": [
+      "Ressentimento, revolta e afastamento da fé",
+      "Maior crescimento automático da igreja",
+      "Somente dificuldades financeiras",
+      "Nenhum impacto nos filhos"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila aponta ressentimento, revolta e afastamento como possíveis consequências.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "FML-017",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o que fica mais marcado na memória dos filhos?",
+    "alternativas": [
+      "O exemplo dos pais",
+      "Os presentes recebidos",
+      "As regras impostas",
+      "As cobranças familiares"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que o exemplo cristão dos pais fica gravado nos corações dos filhos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "FML-018",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, o que é mais importante durante as férias em família?",
+    "alternativas": [
+      "Tempo de qualidade com a família",
+      "Viajar para lugares caros",
+      "Comprar muitos presentes",
+      "Evitar qualquer descanso"
+    ],
+    "correta": 0,
+    "explicacao": "O texto enfatiza tempo de qualidade, e não necessariamente o melhor lugar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "FML-019",
+    "disciplina": "Família",
+    "enunciado": "Segundo a conclusão da apostila, o que deve ser a maior motivação?",
+    "alternativas": [
+      "O amor",
+      "Reconhecimento",
+      "Crescimento ministerial",
+      "Popularidade"
+    ],
+    "correta": 0,
+    "explicacao": "A conclusão afirma: 'Permita que o amor seja sua maior motivação.'",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "FML-020",
+    "disciplina": "Família",
+    "enunciado": "Segundo a apostila, qual deve ser a marca da vida cristã seguindo o exemplo de Jesus?",
+    "alternativas": [
+      "Servir aos outros",
+      "Buscar posição social",
+      "Evitar responsabilidades",
+      "Priorizar reconhecimento pessoal"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que Jesus veio para servir e que essa também deve ser nossa marca.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Família",
+      "pagina": 8
+    }
+  }
+]

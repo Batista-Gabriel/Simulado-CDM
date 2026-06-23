@@ -1,0 +1,352 @@
+[
+  {
+    "id": "HMT-001",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, qual é o objetivo da hermenêutica bíblica?",
+    "alternativas": [
+      "Tornar o texto bíblico claro e compreensível por meio da explicação do seu sentido original",
+      "Criar novas interpretações para adaptar a Bíblia ao contexto atual",
+      "Substituir o estudo bíblico pela experiência pessoal",
+      "Eliminar a necessidade de contexto histórico"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que a hermenêutica visa tornar o texto bíblico claro e compreensível mediante a explicação do sentido original.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "HMT-002",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, o que pode acontecer se alguém possuir o Espírito, mas não depender dele ao ler a Palavra?",
+    "alternativas": [
+      "As interpretações sempre deixarão a desejar",
+      "O estudo histórico se torna desnecessário",
+      "A interpretação se torna automática",
+      "A leitura se torna exclusivamente acadêmica"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que sem depender do Espírito Santo as interpretações deixarão a desejar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "HMT-003",
+    "disciplina": "Hermenêutica",
+    "enunciado": "O que exige a chamada “regra de ouro” da interpretação?",
+    "alternativas": [
+      "Tratar qualquer texto ou autor com a mesma cortesia desejada para os próprios escritos",
+      "Interpretar apenas textos de difícil compreensão",
+      "Dar prioridade às interpretações pessoais",
+      "Ignorar autores humanos e focar apenas no leitor"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila define a regra de ouro como tratar textos e autores com a mesma cortesia desejada para si.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "HMT-004",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, qual é uma das razões para aprender a interpretar corretamente as Escrituras?",
+    "alternativas": [
+      "Porque o erro escraviza e a verdade liberta",
+      "Porque elimina a necessidade de estudo",
+      "Porque substitui a pregação",
+      "Porque reduz a importância da doutrina"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que a busca pela interpretação correta está ligada à busca da verdade, que liberta.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "HMT-005",
+    "disciplina": "Hermenêutica",
+    "enunciado": "De acordo com a apostila, o principal objeto de estudo do cristão deve ser:",
+    "alternativas": [
+      "As Escrituras, chamadas de palavra da verdade",
+      "Somente livros históricos",
+      "A tradição oral",
+      "A opinião de comentaristas"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila destaca que a mensagem de Paulo evidencia que as Escrituras devem ser o principal objeto de estudo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "HMT-006",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a explicação sobre 2Tm 2.15, o que significa “manejar bem” a Palavra?",
+    "alternativas": [
+      "Cortar em linha reta",
+      "Ler rapidamente",
+      "Memorizar textos bíblicos",
+      "Repetir interpretações tradicionais"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila explica que manejar significa literalmente cortar em linha reta.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "HMT-007",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Na explicação de Neemias 8, o termo hebraico SEKEL transmite qual ideia?",
+    "alternativas": [
+      "Prudência, discernimento, entendimento e bom senso",
+      "Exclusivamente sabedoria acadêmica",
+      "Apenas memorização",
+      "Autoridade política"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila associa SEKEL às ideias de prudência, discernimento, entendimento e bom senso.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "HMT-008",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, o hermeneuta deve preocupar-se em fazer o quê?",
+    "alternativas": [
+      "A ponte entre a verdade da Palavra de Deus e a realidade da vida",
+      "Separar totalmente passado e presente",
+      "Evitar aplicações contemporâneas",
+      "Priorizar apenas o significado moderno"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que o hermeneuta deve construir uma ponte entre a verdade bíblica e a realidade atual.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "HMT-009",
+    "disciplina": "Hermenêutica",
+    "enunciado": "O que a Regra da Interpretação Contextual propõe?",
+    "alternativas": [
+      "Compreender o texto dentro do contexto histórico, cultural e literário",
+      "Interpretar apenas pela experiência pessoal",
+      "Usar somente traduções modernas",
+      "Evitar estudos históricos"
+    ],
+    "correta": 0,
+    "explicacao": "A regra contextual é definida como compreender o texto em seu contexto histórico, cultural e literário.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "HMT-010",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, o que a Regra da Analogia da Fé orienta?",
+    "alternativas": [
+      "Interpretar passagens menos claras à luz das mais claras",
+      "Ignorar textos difíceis",
+      "Priorizar experiências pessoais",
+      "Usar somente o Novo Testamento"
+    ],
+    "correta": 0,
+    "explicacao": "A regra afirma que passagens menos claras devem ser interpretadas pelas mais claras.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "HMT-011",
+    "disciplina": "Hermenêutica",
+    "enunciado": "O que a Regra Espiritual reconhece como necessário?",
+    "alternativas": [
+      "A iluminação do Espírito Santo",
+      "Conhecimento exclusivo do hebraico",
+      "Experiência ministerial longa",
+      "Estudos filosóficos"
+    ],
+    "correta": 0,
+    "explicacao": "A regra espiritual destaca a necessidade da iluminação do Espírito Santo para compreensão verdadeira.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "HMT-012",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, por que a Bíblia é considerada difícil de entender?",
+    "alternativas": [
+      "Porque é um livro antigo",
+      "Porque possui poucos autores",
+      "Porque não possui contexto histórico",
+      "Porque foi escrita em um único período"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que um dos maiores motivos é o fato de ser um livro antigo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "HMT-013",
+    "disciplina": "Hermenêutica",
+    "enunciado": "A distância temporal se refere principalmente a quê?",
+    "alternativas": [
+      "Ao intervalo entre os textos antigos e o mundo atual",
+      "À distância entre idiomas",
+      "À localização geográfica dos autores",
+      "À dificuldade financeira de estudar"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila descreve a distância temporal como a separação entre os textos antigos e o mundo pós-moderno.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "HMT-014",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, o mundo bíblico era essencialmente:",
+    "alternativas": ["Agrário", "Industrial", "Digital", "Mercantil urbano"],
+    "correta": 0,
+    "explicacao": "O texto afirma que o mundo bíblico era essencialmente agrário.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "HMT-015",
+    "disciplina": "Hermenêutica",
+    "enunciado": "O que a distância geográfica pode dificultar segundo a apostila?",
+    "alternativas": [
+      "Imaginar e compreender locais mencionados na Bíblia",
+      "Entender apenas idiomas originais",
+      "Memorizar versículos",
+      "Traduzir textos modernos"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que muitos leitores não possuem referência visual ou mental dos locais bíblicos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "HMT-016",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Quais idiomas a apostila cita como línguas originais bíblicas?",
+    "alternativas": [
+      "Hebraico, aramaico e grego helenístico",
+      "Latim, hebraico e árabe",
+      "Grego clássico, latim e siríaco",
+      "Hebraico e português"
+    ],
+    "correta": 0,
+    "explicacao": "A distância idiomática é explicada citando hebraico, aramaico e grego helenístico.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "HMT-017",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo o passo a passo apresentado, quantas vezes no mínimo o texto deve ser lido?",
+    "alternativas": ["10 vezes", "3 vezes", "2 vezes", "20 vezes"],
+    "correta": 0,
+    "explicacao": "A apostila recomenda ler o texto no mínimo dez vezes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "HMT-018",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, ao trabalhar um texto do Antigo Testamento, ele deve ser interpretado à luz de quê?",
+    "alternativas": [
+      "Do Novo Testamento",
+      "Dos comentaristas modernos",
+      "Da tradição oral",
+      "Da filosofia antiga"
+    ],
+    "correta": 0,
+    "explicacao": "O passo 7 afirma que textos do Antigo Testamento devem ser interpretados à luz do Novo Testamento.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 14
+    }
+  },
+  {
+    "id": "HMT-019",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, qual é o limite máximo de palavras para escrever o resumo do texto?",
+    "alternativas": [
+      "16 palavras",
+      "10 palavras",
+      "20 palavras",
+      "25 palavras"
+    ],
+    "correta": 0,
+    "explicacao": "O passo 15 orienta expressar o resumo em no máximo 16 palavras.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 15
+    }
+  },
+  {
+    "id": "HMT-020",
+    "disciplina": "Hermenêutica",
+    "enunciado": "Segundo a apostila, uma prática que resulta em falácias hermenêuticas é:",
+    "alternativas": [
+      "Negligenciar o contexto",
+      "Ler traduções diferentes",
+      "Pesquisar contexto histórico",
+      "Analisar o gênero literário"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que negligenciar o contexto é uma das práticas que produzem falácias interpretativas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Hermenêutica",
+      "pagina": 16
+    }
+  }
+]

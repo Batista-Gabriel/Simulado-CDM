@@ -1,0 +1,352 @@
+[
+  {
+    "id": "APL-001",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, qual é o significado básico do termo apologética cristã?",
+    "alternativas": [
+      "A defesa da fé cristã frente aos ataques dos opositores",
+      "A substituição da teologia pela filosofia",
+      "A rejeição da argumentação racional",
+      "A criação de novas doutrinas cristãs"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que apologética deriva de 'apologia', que significa defesa, e define apologética cristã como defesa da fé cristã frente aos ataques dos opositores.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "APL-002",
+    "disciplina": "Apologética",
+    "enunciado": "Qual dos itens abaixo é apresentado como um dos três objetivos básicos da apologética cristã?",
+    "alternativas": [
+      "Eliminar todas as divergências religiosas",
+      "Mostrar aos incrédulos a veracidade da fé cristã",
+      "Substituir a evangelização pela pesquisa",
+      "Priorizar apenas debates filosóficos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila apresenta três interesses básicos da apologética, incluindo mostrar aos incrédulos a veracidade da fé cristã.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "APL-003",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, qual instrumento apologético lida com a estrutura, sentido e validade das proposições linguísticas ou matemáticas?",
+    "alternativas": ["Pesquisa", "Argumentação", "Lógica", "Retórica"],
+    "correta": 2,
+    "explicacao": "A apostila descreve a lógica como o instrumento que lida com estrutura, sentido e validade das proposições linguísticas ou matemáticas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "APL-004",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, o que significa cosmovisão?",
+    "alternativas": [
+      "Sistema político dominante",
+      "Conjunto de regras religiosas",
+      "Visão científica absoluta",
+      "A visão de mundo"
+    ],
+    "correta": 3,
+    "explicacao": "A definição apresentada afirma que cosmovisão é a forma como uma pessoa enxerga e compreende o mundo ao seu redor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "APL-005",
+    "disciplina": "Apologética",
+    "enunciado": "Qual princípio lógico é definido como: 'Algo não pode ser e não ser, ao mesmo tempo'?",
+    "alternativas": [
+      "Princípio da Não Contradição",
+      "Princípio da Identidade",
+      "Princípio da Autoridade",
+      "Princípio do Terceiro Excluído"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila apresenta explicitamente esta definição como sendo o Princípio da Não Contradição.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "APL-006",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, qual característica da verdade afirma que ela independe de tempo, lugar e ponto de vista?",
+    "alternativas": ["Imutável", "Absoluta", "Descritiva", "Revelada"],
+    "correta": 1,
+    "explicacao": "O texto afirma que a verdade é absoluta porque independe de variáveis externas ou internas, tempo, lugar ou ponto de vista.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "APL-007",
+    "disciplina": "Apologética",
+    "enunciado": "O que o exclusivismo religioso afirma, segundo a apostila?",
+    "alternativas": [
+      "Toda religião é verdadeira",
+      "A religião depende da experiência individual",
+      "Apenas uma religião pode ser verdadeira",
+      "Nenhuma religião pode ser comprovada"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila define exclusivismo religioso como a ideia de que apenas uma religião pode ser verdadeira.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "APL-008",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, qual é a relação entre fé e razão?",
+    "alternativas": [
+      "São incompatíveis",
+      "São inimigas",
+      "Devem permanecer separadas",
+      "Não estão em conflito"
+    ],
+    "correta": 3,
+    "explicacao": "O texto afirma explicitamente que fé e razão não são opositoras e não estão em conflito.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "APL-009",
+    "disciplina": "Apologética",
+    "enunciado": "Qual é a terceira premissa do argumento cosmológico apresentado na apostila?",
+    "alternativas": [
+      "Logo, o universo tem uma causa",
+      "O universo é eterno",
+      "Tudo existe sem causa",
+      "A matéria é infinita"
+    ],
+    "correta": 0,
+    "explicacao": "A terceira premissa apresentada é: 'Logo, o universo tem uma causa'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "APL-010",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, a causa primeira não poderia ser material porque:",
+    "alternativas": [
+      "A matéria era eterna",
+      "A matéria ainda não existia",
+      "A matéria surgiu por acaso",
+      "A matéria é infinita"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que a causa primeira não poderia ser material porque a matéria ainda não existia.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "APL-011",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, qual fator torna possível a vida dentro da discussão sobre ajuste fino?",
+    "alternativas": [
+      "O acaso absoluto",
+      "A estrutura regular do universo",
+      "A ausência de leis físicas",
+      "Somente a evolução biológica"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que a estrutura regular do universo permite a realidade observada e torna possível a vida.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "APL-012",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, a apologética cristã constitui-se em um convite contínuo para quê?",
+    "alternativas": [
+      "Abandonar investigações científicas",
+      "Evitar debates acadêmicos",
+      "Estudo e perscrutação científica contínua",
+      "Substituir ciência por tradição"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma explicitamente que apologética cristã constitui um contínuo convite ao estudo e investigação científica honesta.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "APL-013",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo Stephen Meyer citado na apostila, qual conceito está incluído na definição de evolução?",
+    "alternativas": [
+      "Imutabilidade biológica",
+      "Mudança ao longo do tempo",
+      "Ausência de ancestralidade",
+      "Negação da mutação"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila lista 'mudança ao longo do tempo' como um dos conceitos principais associados ao termo evolução.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "APL-014",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, quais são as duas categorias principais de males que assolam a humanidade?",
+    "alternativas": [
+      "Espiritual e físico",
+      "Natural e moral",
+      "Individual e coletivo",
+      "Temporal e eterno"
+    ],
+    "correta": 1,
+    "explicacao": "O texto distingue duas categorias principais: mal natural e mal moral.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 17
+    }
+  },
+  {
+    "id": "APL-015",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, o que explica a origem dos males dentro da doutrina do pecado original?",
+    "alternativas": [
+      "Apenas catástrofes naturais",
+      "O pecado da desobediência original",
+      "Somente fatores genéticos",
+      "A ausência de livre-arbítrio"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que a doutrina do pecado original ensina que o pecado da desobediência original transmitiu-se à espécie humana.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 18
+    }
+  },
+  {
+    "id": "APL-016",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, a família é entendida como:",
+    "alternativas": [
+      "Uma construção exclusivamente cultural",
+      "Uma unidade social secundária",
+      "A primeira e mais importante unidade socializadora",
+      "Uma estrutura opcional"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma que a família é não somente a primeira, mas também a mais importante unidade socializadora.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 19
+    }
+  },
+  {
+    "id": "APL-017",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo Myer Pearlman citado na apostila, doutrina cristã pode ser definida como:",
+    "alternativas": [
+      "Práticas religiosas tradicionais",
+      "Verdades fundamentais da Bíblia dispostas em forma sistemática",
+      "Experiências espirituais individuais",
+      "Conjunto de costumes cristãos"
+    ],
+    "correta": 1,
+    "explicacao": "A definição apresentada por Pearlman afirma que doutrina cristã são verdades fundamentais da Bíblia organizadas sistematicamente.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 22
+    }
+  },
+  {
+    "id": "APL-018",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, o que aconteceria se a Bíblia Sagrada não fosse confiável?",
+    "alternativas": [
+      "Nada mudaria para a teologia",
+      "Apenas o Antigo Testamento seria afetado",
+      "Somente a prática pastoral seria impactada",
+      "Toda estrutura teológica cristã enfraqueceria ou desapareceria"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma explicitamente que sem a confiabilidade da Bíblia, toda estrutura teológica cristã enfraquece ou desaparece.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 23
+    }
+  },
+  {
+    "id": "APL-019",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, aproximadamente quantos autores participaram da escrita da Bíblia?",
+    "alternativas": [
+      "12 autores",
+      "25 autores",
+      "Cerca de 40 autores",
+      "Mais de 100 autores"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma que a Bíblia foi escrita por cerca de 40 autores ao longo de aproximadamente 15 séculos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 24
+    }
+  },
+  {
+    "id": "APL-020",
+    "disciplina": "Apologética",
+    "enunciado": "Segundo a apostila, o que significa Trinitarianismo?",
+    "alternativas": [
+      "Existência de três deuses independentes",
+      "Existência de um único Deus eternamente existente em três pessoas",
+      "Manifestação de Deus em apenas um modo",
+      "Negação da divindade de Cristo"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila define trinitarianismo como a existência de um único Deus eternamente existente em três pessoas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Apologética",
+      "pagina": 28
+    }
+  }
+]

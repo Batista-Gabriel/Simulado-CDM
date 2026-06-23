@@ -1,0 +1,357 @@
+[
+  {
+    "id": "CEIN-001",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, quando uma pessoa está exercendo liderança?",
+    "alternativas": [
+      "Quando influencia, transforma ou discipula alguém",
+      "Somente quando ocupa cargo ministerial",
+      "Apenas quando lidera grandes grupos",
+      "Somente quando possui formação teológica"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que sempre que alguém passa conceitos, influencia, transforma ou discipula outra pessoa, está exercendo liderança. Baseado na página 2.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "CEIN-002",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Na expressão 'ser exemplo na palavra', o que Paulo está enfatizando segundo a apostila?",
+    "alternativas": [
+      "Memorizar versículos bíblicos",
+      "Compromisso com as próprias palavras",
+      "Aprender idiomas bíblicos",
+      "Falar apenas durante cultos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila explica que ser exemplo na palavra refere-se ao compromisso com as próprias palavras e não à memorização bíblica. Baseado na página 3.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "CEIN-003",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, ser exemplo no procedimento refere-se principalmente a quê?",
+    "alternativas": [
+      "A quantidade de conhecimento bíblico",
+      "À capacidade de ensinar",
+      "Ao modo de vida e comportamento",
+      "À habilidade administrativa"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila define procedimento como modo de vida, conduta geral e comportamento diante das pessoas. Baseado na página 3.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "CEIN-004",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, ser exemplo no amor envolve:",
+    "alternativas": [
+      "Buscar reconhecimento público",
+      "Priorizar apenas a família",
+      "Agir com altruísmo e cuidado com o próximo",
+      "Evitar ajudar pessoas desconhecidas"
+    ],
+    "correta": 2,
+    "explicacao": "O texto relaciona amor com cuidado, oração, ajuda ao próximo e altruísmo. Baseado na página 3.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "CEIN-005",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, demonstrar exemplo na fé significa:",
+    "alternativas": [
+      "Nunca enfrentar dificuldades",
+      "Evitar responsabilidades",
+      "Ser alguém tomado pela ansiedade",
+      "Demonstrar confiança em Deus mesmo nas dificuldades"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma que o líder deve demonstrar confiança em Deus e não ser dominado pela ansiedade ou desânimo. Baseado nas páginas 3 e 4.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "CEIN-006",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "A apostila afirma que caráter e princípios morais são:",
+    "alternativas": [
+      "Exatamente iguais",
+      "Diferentes, embora relacionados",
+      "Opostos entre si",
+      "Irrelevantes para liderança"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma explicitamente que há relação entre ambos, mas caráter e princípios são diferentes. Baseado na página 4.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "CEIN-007",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, boa reputação garante bom caráter?",
+    "alternativas": [
+      "Sim, sempre",
+      "Somente para líderes religiosos",
+      "Não, é apenas evidência e não prova",
+      "Somente quando há reconhecimento público"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que boa reputação pode ser evidência, mas nunca prova definitiva de caráter. Baseado na página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "CEIN-008",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, caráter e talento são:",
+    "alternativas": [
+      "Sinônimos",
+      "Complementares obrigatórios",
+      "Dependentes entre si",
+      "Coisas totalmente diferentes"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma explicitamente que caráter e talento são coisas totalmente diferentes. Baseado na página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "CEIN-009",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo Myles Munroe citado na apostila, caráter é:",
+    "alternativas": [
+      "Uma habilidade adquirida",
+      "O complexo de características mentais e éticas que individualizam alguém",
+      "A reputação construída ao longo da vida",
+      "Um conjunto de talentos"
+    ],
+    "correta": 1,
+    "explicacao": "A definição apresentada por Munroe descreve caráter como conjunto de características mentais e éticas. Baseado na página 5.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "CEIN-010",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, integridade transmite a ideia de:",
+    "alternativas": [
+      "Popularidade",
+      "Autoridade",
+      "Inteireza e constância",
+      "Capacidade financeira"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila define integridade como inteireza, algo completo, intacto e constante. Baseado na página 6.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "CEIN-011",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, ser íntegro significa:",
+    "alternativas": [
+      "Ser admirado publicamente",
+      "Ser a mesma pessoa em qualquer circunstância",
+      "Evitar conflitos",
+      "Possuir boa reputação"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que ser íntegro é ser a mesma pessoa em qualquer lugar e circunstância. Baseado na página 6.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "CEIN-012",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, o caráter é descrito como o quê da credibilidade do líder?",
+    "alternativas": ["Resultado", "Reflexo", "Berço", "Consequência"],
+    "correta": 2,
+    "explicacao": "A apostila cita Munroe dizendo que o caráter é o berço da credibilidade do líder. Baseado na página 7.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "CEIN-013",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, a credibilidade é considerada:",
+    "alternativas": [
+      "O patrimônio social mais importante do líder",
+      "Algo secundário",
+      "Dependente apenas da oratória",
+      "Uma consequência do talento"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que credibilidade é a moeda de troca social mais importante do líder. Baseado na página 7.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "CEIN-014",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, qual problema é considerado incontornável no ministério?",
+    "alternativas": [
+      "Falta de recursos",
+      "Problemas administrativos",
+      "Falta de talento",
+      "Falta de caráter"
+    ],
+    "correta": 3,
+    "explicacao": "O texto afirma explicitamente que a falta de caráter é um problema incontornável no ministério. Baseado na página 8.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "CEIN-015",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, crises são importantes porque:",
+    "alternativas": [
+      "Sempre podem ser evitadas",
+      "Revelam o caráter sob pressão",
+      "São consequência exclusiva do pecado",
+      "Eliminam a necessidade de experiência"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que a pressão revela os elos fracos e expõe falhas de caráter. Baseado na página 9.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "CEIN-016",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, fundamento evoca quais ideias?",
+    "alternativas": [
+      "Popularidade, influência e riqueza",
+      "Profundidade, invisibilidade e firmeza",
+      "Autoridade, carisma e comunicação",
+      "Talento, experiência e conhecimento"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila apresenta três ideias ligadas a fundamento: profundidade, invisibilidade e firmeza. Baseado na página 9.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "CEIN-017",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, essência é importante porque:",
+    "alternativas": [
+      "Deus se impressiona com aparências",
+      "Importa mais o exterior",
+      "É o que realmente importa na ótica de Deus",
+      "Substitui a necessidade de caráter"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma claramente que essência é o que realmente importa na ótica de Deus. Baseado na página 10.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "CEIN-018",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, qual frase resume a motivação correta?",
+    "alternativas": [
+      "Buscar reconhecimento humano",
+      "Produzir resultados a qualquer custo",
+      "Fazer tudo para glória de Deus",
+      "Priorizar crescimento pessoal"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila utiliza 1 Coríntios 10.31 para destacar que tudo deve ser feito para glória de Deus. Baseado na página 11.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "CEIN-019",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a apostila, Deus olha principalmente para:",
+    "alternativas": [
+      "Os resultados",
+      "A aparência",
+      "A reputação",
+      "O coração e a motivação"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma que Deus olha para o coração, relacionando isso à motivação. Baseado na página 11.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "CEIN-020",
+    "disciplina": "Caráter, Ética e Integridade ",
+    "enunciado": "Segundo a conclusão da apostila, o que permite suportar provações e alcançar o propósito?",
+    "alternativas": [
+      "Apenas experiência ministerial",
+      "Reconhecimento público",
+      "Caráter aprofundado ao longo dos anos",
+      "Grande quantidade de conhecimento"
+    ],
+    "correta": 2,
+    "explicacao": "A conclusão afirma que o caráter aprofundado ao longo dos anos permite suportar provações e alcançar o propósito. Baseado na página 12.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Caráter, Ética e Integridade ",
+      "pagina": 12
+    }
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "id": "SIO-001",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a definição apresentada pela apostila, o que caracteriza saúde?",
+    "alternativas": [
+      "Apenas a ausência de doenças",
+      "Somente o bem-estar físico",
+      "Um estado de completo bem-estar físico, mental e social",
+      "Ter capacidade física para trabalhar"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que saúde é definida pela OMS como um estado de completo bem-estar físico, mental e social, não apenas ausência de doença (página 2).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "SIO-002",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "De acordo com a apostila, por que o corpo possui importância espiritual para o cristão?",
+    "alternativas": [
+      "Porque representa riqueza material",
+      "Porque é considerado templo do Espírito Santo",
+      "Porque permite maior produtividade",
+      "Porque evita envelhecimento"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o corpo é chamado de santuário de Deus e templo do Espírito Santo, enfatizando sua importância espiritual (página 2).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "SIO-003",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, qual comportamento contribui para uma vida mais saudável?",
+    "alternativas": [
+      "Dormir pouco para produzir mais",
+      "Evitar exercícios físicos",
+      "Fazer escolhas corretas relacionadas ao estilo de vida",
+      "Consumir alimentos industrializados frequentemente"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que muitos problemas de saúde resultam do estilo de vida e que fazer escolhas corretas ajuda a ter uma vida melhor (página 3).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "SIO-005",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Qual é a recomendação semanal da OMS para atividade física moderada a intensa, segundo a apostila?",
+    "alternativas": [
+      "50 a 100 minutos",
+      "100 a 150 minutos",
+      "150 a 300 minutos",
+      "300 a 500 minutos"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila informa que a recomendação é praticar entre 150 e 300 minutos semanais de atividade física moderada a intensa (página 4).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "SIO-006",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, comportamento sedentário envolve atividades realizadas principalmente em qual condição?",
+    "alternativas": [
+      "Sempre praticando exercícios leves",
+      "Em pé realizando esforço físico",
+      "Sentado, reclinado ou deitado gastando pouca energia",
+      "Executando atividades esportivas"
+    ],
+    "correta": 2,
+    "explicacao": "O Guia citado define comportamento sedentário como atividades realizadas sentado, reclinado ou deitado, gastando pouca energia (página 4).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "SIO-007",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Qual afirmação sobre atividade física e sedentarismo é apresentada na apostila?",
+    "alternativas": [
+      "Exercício compensa totalmente o sedentarismo",
+      "Sedentarismo só prejudica idosos",
+      "Atividade física elimina qualquer risco cardiovascular",
+      "Reduzir comportamento sedentário é tão importante quanto praticar atividade física"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila destaca que praticar atividade física não compensa totalmente o sedentarismo e reduzir tempo sedentário é igualmente importante (página 5).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "SIO-008",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Qual recomendação prática é apresentada para interromper longos períodos sedentários?",
+    "alternativas": [
+      "Dormir após duas horas sentado",
+      "Movimentar-se por pelo menos 5 minutos a cada hora",
+      "Praticar musculação diariamente",
+      "Evitar levantar durante o trabalho"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila recomenda movimentar-se por pelo menos cinco minutos a cada hora em comportamento sedentário (página 6).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "SIO-009",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Como a apostila define obesidade segundo a OMS?",
+    "alternativas": [
+      "Qualquer aumento de peso corporal",
+      "Excesso de gordura corporal que pode causar prejuízos à saúde",
+      "Apenas IMC acima de 25",
+      "Doença exclusivamente genética"
+    ],
+    "correta": 1,
+    "explicacao": "A OMS é citada definindo obesidade como excesso de gordura corporal capaz de causar prejuízos à saúde (página 6).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "SIO-010",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, ambientes obesogênicos favorecem principalmente:",
+    "alternativas": [
+      "Escolhas alimentares saudáveis",
+      "Hábitos ativos permanentes",
+      "Escolhas pouco saudáveis e comportamento sedentário",
+      "Maior consumo de água"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que ambientes obesogênicos promovem escolhas alimentares pouco saudáveis e comportamentos sedentários (página 7).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "SIO-011",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo o relatório citado do UNICEF, qual problema afeta mais de 4 milhões de crianças menores de 5 anos na América Latina e Caribe?",
+    "alternativas": [
+      "Desnutrição severa",
+      "Excesso de peso",
+      "Anemia",
+      "Sedentarismo clínico"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o excesso de peso afeta mais de 4 milhões de crianças menores de 5 anos na região (página 7).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "SIO-012",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, crianças com sobrepeso possuem maior risco de:",
+    "alternativas": [
+      "Desenvolver apenas doenças respiratórias",
+      "Ter maior altura na fase adulta",
+      "Continuar obesas e desenvolver doenças crônicas",
+      "Necessitar menos atividade física"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila informa que crianças com sobrepeso possuem maior risco de permanecer com essas condições e desenvolver doenças crônicas (página 8).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "SIO-013",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo estudo citado na apostila, reduzir carne vermelha e ultraprocessados e aumentar legumes e grãos integrais pode:",
+    "alternativas": [
+      "Eliminar completamente doenças",
+      "Diminuir necessidade de exercícios",
+      "Aumentar expectativa de vida",
+      "Substituir tratamento médico"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila cita estudo indicando que mudanças alimentares podem aumentar significativamente a expectativa de vida (página 9).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "SIO-014",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, o azeite de oliva foi classificado como:",
+    "alternativas": [
+      "Sem efeito relevante",
+      "Prejudicial à saúde",
+      "Alimento de efeito protetor",
+      "Substituto obrigatório da carne"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que o azeite de oliva desempenha papel protetor da saúde (página 10).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "SIO-015",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, frituras eram na dieta judaica dos tempos bíblicos:",
+    "alternativas": [
+      "Prática comum",
+      "Principal método culinário",
+      "Reservadas a festas religiosas",
+      "Não eram prática comum"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma que alimentos eram preparados crus, cozidos ou assados, e frituras não constituíam prática comum (página 12).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "SIO-016",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, qual comportamento é associado cientificamente à obesidade e outros problemas de saúde?",
+    "alternativas": [
+      "Hiperfagia",
+      "Jejum periódico",
+      "Consumo moderado de água",
+      "Caminhadas diárias"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila relaciona comportamento hiperfágico, ou comer em excesso, à obesidade e outros problemas de saúde (página 12).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "SIO-017",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a conclusão da apostila, o termo cristão significa:",
+    "alternativas": [
+      "Pessoa religiosa",
+      "Seguidor da tradição judaica",
+      "Imitador de Cristo",
+      "Membro de igreja"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma explicitamente que o significado da palavra cristão é imitador de Cristo (página 13).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "SIO-018",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, a importação da cultura de fast foods está relacionada ao aumento de:",
+    "alternativas": [
+      "Doenças cardiovasculares e metabólicas",
+      "Doenças infecciosas",
+      "Problemas auditivos",
+      "Doenças genéticas"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila relaciona a cultura de fast foods ao crescimento de doenças cardiovasculares e metabólicas (página 13).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "SIO-019",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a apostila, qual comportamento é frequentemente inferiorizado, apesar de fortemente destacado pelas Escrituras?",
+    "alternativas": ["Leitura", "Sedentarismo", "Trabalho", "Descanso"],
+    "correta": 1,
+    "explicacao": "A apostila afirma que sedentarismo, gula e obesidade frequentemente são inferiorizados apesar da relevância apresentada nas Escrituras (página 14).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 14
+    }
+  },
+  {
+    "id": "SIO-020",
+    "disciplina": "A Saúde Integral do Obreiro",
+    "enunciado": "Segundo a conclusão da apostila, qual reflexão final é proposta ao leitor?",
+    "alternativas": [
+      "Abandonar completamente tecnologias",
+      "Considerar sedentarismo, obesidade e glutonaria como pautas importantes para a caminhada cristã",
+      "Praticar apenas dietas restritivas",
+      "Substituir fé por ciência"
+    ],
+    "correta": 1,
+    "explicacao": "A conclusão propõe refletir sobre sedentarismo, obesidade e glutonaria como questões importantes que podem impactar a caminhada cristã (página 14).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila A Saúde Integral do Obreiro",
+      "pagina": 14
+    }
+  }
+]

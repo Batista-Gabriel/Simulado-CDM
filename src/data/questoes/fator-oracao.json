@@ -1,0 +1,352 @@
+[
+  {
+    "id": "OFO-001",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o que é teologia da oração?",
+    "alternativas": [
+      "O estudo bíblico e espiritual sobre a comunicação do homem com Deus",
+      "A prática exclusiva de realizar jejuns prolongados",
+      "O estudo histórico das religiões antigas",
+      "A repetição diária de orações decoradas"
+    ],
+    "correta": 0,
+    "explicacao": "Baseado na página 2, a apostila define teologia da oração como o estudo bíblico e espiritual sobre a comunicação do homem com Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "OFO-002",
+    "disciplina": "Fator Oração",
+    "enunciado": "De acordo com a apostila, como o dia deve começar?",
+    "alternativas": [
+      "Com atividades profissionais",
+      "Com o devocional diário e oração",
+      "Com exercícios físicos obrigatoriamente",
+      "Com reuniões ministeriais"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 2, o material afirma que o dia deverá começar com o devocional diário (oração).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "OFO-003",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo Efésios 5.16 citado na apostila, por que devemos remir o tempo?",
+    "alternativas": [
+      "Porque o tempo é curto",
+      "Porque devemos trabalhar mais",
+      "Porque os dias são maus",
+      "Porque devemos descansar"
+    ],
+    "correta": 2,
+    "explicacao": "Página 2: o texto afirma 'remindo o tempo porque os dias são maus', relacionando o uso sábio do tempo à vida espiritual.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "OFO-004",
+    "disciplina": "Fator Oração",
+    "enunciado": "Qual elemento faz parte da disciplina na vida de oração segundo a apostila?",
+    "alternativas": [
+      "Evitar momentos de solitude",
+      "Tempo de qualidade",
+      "Falar apenas em público",
+      "Orar somente em cultos"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 2, a disciplina na vida de oração envolve tempo de qualidade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "OFO-005",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, por que devemos possuir um local adequado para oração?",
+    "alternativas": [
+      "Para impressionar outras pessoas",
+      "Para aumentar o volume da oração",
+      "Para termos liberdade para falar com Deus",
+      "Para realizar reuniões frequentes"
+    ],
+    "correta": 2,
+    "explicacao": "Página 3: a apostila afirma que devemos possuir um local adequado onde tenhamos liberdade para falar com Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-006",
+    "disciplina": "Fator Oração",
+    "enunciado": "Qual significado a apostila atribui à expressão 'orai sem cessar'?",
+    "alternativas": [
+      "Nunca dormir",
+      "Participar de cultos diariamente",
+      "Viver em constante conexão com Deus",
+      "Falar continuamente sem parar"
+    ],
+    "correta": 2,
+    "explicacao": "Página 3: o material explica que 'orai sem cessar' significa viver em constante conexão com Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-007",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o que Deus busca na oração?",
+    "alternativas": [
+      "Discursos elaborados",
+      "Palavras difíceis",
+      "Um coração sincero e derramado",
+      "Orações longas"
+    ],
+    "correta": 2,
+    "explicacao": "Página 3: Deus não está buscando discurso perfeito, mas coração sincero e derramado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-008",
+    "disciplina": "Fator Oração",
+    "enunciado": "Quem teve sua oração condenada por Jesus segundo a apostila?",
+    "alternativas": [
+      "Os escribas",
+      "Os publicanos",
+      "Os fariseus hipócritas",
+      "Os discípulos"
+    ],
+    "correta": 2,
+    "explicacao": "Página 3: a apostila afirma que Jesus condenou a oração hipócrita dos fariseus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-009",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo Jo 15.5 citado na apostila, o que demonstra dependência de Deus na oração?",
+    "alternativas": [
+      "Reconhecer nossas limitações",
+      "Buscar independência espiritual",
+      "Orar somente em dificuldades",
+      "Evitar decisões pessoais"
+    ],
+    "correta": 0,
+    "explicacao": "Página 3: depender de Deus significa viver conscientes de que precisamos Dele para tudo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-010",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, nós temos apenas uma forma de falar com Deus. Qual é?",
+    "alternativas": ["Louvor", "Jejum", "Oração", "Silêncio"],
+    "correta": 2,
+    "explicacao": "Página 3: a apostila afirma que Deus fala de várias formas, mas nós temos apenas uma: oração.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-011",
+    "disciplina": "Fator Oração",
+    "enunciado": "Como a apostila define a oração em relação à comunicação com Deus?",
+    "alternativas": [
+      "Um ritual obrigatório",
+      "Um monólogo religioso",
+      "Um diálogo pessoal com Deus",
+      "Uma repetição de frases"
+    ],
+    "correta": 2,
+    "explicacao": "Página 3 afirma que oração não é monólogo, mas diálogo pessoal com Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OFO-012",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o tempo dedicado à oração define o quê?",
+    "alternativas": [
+      "A quantidade de bênçãos",
+      "O grau de intimidade com o céu",
+      "O número de respostas imediatas",
+      "A posição ministerial"
+    ],
+    "correta": 1,
+    "explicacao": "Página 4: o tempo dedicado à oração define o grau de intimidade que teremos com o céu.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-013",
+    "disciplina": "Fator Oração",
+    "enunciado": "Como as orações devem ser segundo a apostila?",
+    "alternativas": ["Tradicionais", "Breves", "Cristocêntricas", "Coletivas"],
+    "correta": 2,
+    "explicacao": "Página 4 afirma que a oração deverá ser sempre cristocêntrica.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-014",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o que significa orar em nome de Jesus?",
+    "alternativas": [
+      "Usar uma fórmula religiosa",
+      "Reconhecer que só temos acesso a Deus por Ele",
+      "Orar apenas em público",
+      "Realizar cultos específicos"
+    ],
+    "correta": 1,
+    "explicacao": "Página 4: orar em nome de Jesus significa reconhecer que só temos acesso a Deus por Ele.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-015",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, por que devemos finalizar as orações utilizando o nome de Jesus?",
+    "alternativas": [
+      "Porque é tradição",
+      "Porque aumenta o tempo de oração",
+      "Porque significa orar debaixo da autoridade Dele",
+      "Porque é obrigatório em cultos"
+    ],
+    "correta": 2,
+    "explicacao": "Página 4 afirma que orar em nome de Jesus é orar debaixo da autoridade Dele.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-016",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo Tg 5.16 citado na apostila, a oração de um justo pode muito em quê?",
+    "alternativas": [
+      "Suas palavras",
+      "Seus efeitos",
+      "Seu conhecimento",
+      "Sua fama"
+    ],
+    "correta": 1,
+    "explicacao": "Página 4 cita: 'A oração de um justo pode muito em seus efeitos'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-017",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o crescimento espiritual da igreja está ligado diretamente a quê?",
+    "alternativas": [
+      "Estrutura física",
+      "Programações semanais",
+      "Vida de oração do pastor",
+      "Quantidade de membros"
+    ],
+    "correta": 2,
+    "explicacao": "Página 4 afirma que o crescimento espiritual da igreja está diretamente ligado à vida de oração do pastor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-018",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o que não pode afastar o pastor da vida diária de oração?",
+    "alternativas": [
+      "Somente o trabalho",
+      "Somente a família",
+      "As demandas da igreja, família e vida social",
+      "Somente o ministério"
+    ],
+    "correta": 2,
+    "explicacao": "Página 4 ressalta que igreja, família e vida social não podem afastar o pastor da oração diária.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "OFO-019",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, qual ferramenta deve ser utilizada em nossas orações?",
+    "alternativas": [
+      "Experiências pessoais",
+      "Palavra de Deus",
+      "Tradições antigas",
+      "Livros devocionais"
+    ],
+    "correta": 1,
+    "explicacao": "Página 5 afirma que devemos usar a Palavra de Deus como ferramenta em nossas orações.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "OFO-020",
+    "disciplina": "Fator Oração",
+    "enunciado": "Segundo a apostila, o que acontece quando oramos fundamentados na Palavra?",
+    "alternativas": [
+      "Recebemos respostas imediatas",
+      "A oração torna-se mais longa",
+      "A oração alinha-se com a vontade de Deus",
+      "Passamos a depender menos de Deus"
+    ],
+    "correta": 2,
+    "explicacao": "Página 5 afirma que orações fundamentadas na Palavra alinham-se com a vontade de Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fator Oração",
+      "pagina": 5
+    }
+  }
+]

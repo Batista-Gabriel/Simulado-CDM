@@ -1,0 +1,342 @@
+[
+  {
+    "id": "VM-001",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, qual é o significado derivado do termo latino 'Vocare'?",
+    "alternativas": [
+      "Ação de chamar",
+      "Ação de ensinar",
+      "Ação de liderar",
+      "Ação de servir"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que vocação vem do termo latino 'Vocare' e significa 'ação de chamar'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "VM-002",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "De acordo com a apostila, qual dos termos abaixo aparece como significado de ministrar?",
+    "alternativas": ["Competir", "Servir", "Dominar", "Ensinar"],
+    "correta": 1,
+    "explicacao": "A apostila lista entre os significados de ministrar o termo 'Servir'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "VM-003",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo o texto, qual fator está entre os motivos que enfraqueceram a busca pela realização da vocação ministerial?",
+    "alternativas": [
+      "Excesso de formação acadêmica",
+      "Falta de informação, apoio e formação adequada",
+      "Grande valorização ministerial",
+      "Excesso de oportunidades ministeriais"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que falta de informação, apoio, formação adequada e treinamento contribuíram para enfraquecer a busca pela vocação ministerial.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "VM-004",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo as considerações preliminares, o que Jesus priorizou ao chamar os primeiros discípulos?",
+    "alternativas": [
+      "Títulos acadêmicos",
+      "Preparação científica",
+      "Fé, amor e disponibilidade",
+      "Experiência política"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma que Jesus buscou pessoas com fé, amor no coração e disponibilidade, não preparo científico.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "VM-005",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, onde aconteceu o chamado dos primeiros discípulos?",
+    "alternativas": [
+      "Em ambiente religioso exclusivo",
+      "No templo principal",
+      "No cotidiano, onde estavam",
+      "Durante festas religiosas"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que o chamado ocorreu no cotidiano, junto ao mar da Galileia, onde eles estavam trabalhando.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "VM-006",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "De acordo com a apostila, seguir Jesus significa:",
+    "alternativas": [
+      "Somente concordar com sua doutrina",
+      "Aceitar tradições religiosas",
+      "Ir atrás dEle voluntariamente e caminhar com Ele",
+      "Frequentar reuniões religiosas"
+    ],
+    "correta": 2,
+    "explicacao": "O texto explica que seguir Jesus significa caminhar com Ele voluntariamente e viver para Ele.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "VM-007",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, para qual propósito os discípulos foram chamados como 'pescadores de homens'?",
+    "alternativas": [
+      "Administrar templos",
+      "Preparar a humanidade para o acontecimento final",
+      "Criar escolas religiosas",
+      "Construir organizações sociais"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que a tarefa dos discípulos era preparar a humanidade para o acontecimento final.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "VM-008",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, quem conduziu Simão Pedro até Jesus?",
+    "alternativas": ["João Batista", "Felipe", "Tiago", "André"],
+    "correta": 3,
+    "explicacao": "A apostila informa que Simão Pedro foi conduzido até Jesus por seu irmão André.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "VM-009",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, qual profissão Mateus exercia antes de ser chamado?",
+    "alternativas": ["Pescador", "Sacerdote", "Coletor de impostos", "Escriba"],
+    "correta": 2,
+    "explicacao": "A apostila afirma que Mateus trabalhava como coletor de impostos em Cafarnaum.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "VM-010",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo o texto, a frase 'Deus não chama os capacitados, mas capacita os chamados' aparece em qual contexto?",
+    "alternativas": [
+      "Deus capacita pessoas em áreas específicas",
+      "Todo chamado exige diploma",
+      "Somente líderes recebem dons",
+      "Capacitação substitui experiência"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que Deus capacita pessoas de forma específica e introduz essa frase nesse contexto.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "VM-011",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, o mestre é alguém que:",
+    "alternativas": [
+      "Apenas transmite conteúdos",
+      "Reproduz modelo e inspira",
+      "Depende apenas de títulos acadêmicos",
+      "Atua somente em sala de aula"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que ser mestre é mais do que transmitir conhecimento: é reproduzir modelo e inspirar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "VM-012",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Qual é a principal função do evangelista segundo a apostila?",
+    "alternativas": [
+      "Administrar igrejas",
+      "Apresentar as pessoas a Jesus",
+      "Treinar líderes políticos",
+      "Produzir materiais didáticos"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que a função principal do evangelista é apresentar pessoas a Jesus e mostrar o caminho da salvação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "VM-013",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, uma característica marcante do pastor é:",
+    "alternativas": [
+      "Evitar contato constante com pessoas",
+      "Preferir trabalhar sozinho",
+      "Amar, cuidar e se importar com pessoas",
+      "Dedicar-se apenas à administração"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que o pastor recebeu capacitação especial para amar, cuidar e se importar com pessoas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "VM-014",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, qual é a razão principal que leva milhares de pessoas ao trabalho pastoral?",
+    "alternativas": [
+      "Reconhecimento social",
+      "Retorno financeiro",
+      "Chamado de Deus",
+      "Influência familiar"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma explicitamente que a razão é única: o chamado de Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 14
+    }
+  },
+  {
+    "id": "VM-015",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, quem toma a iniciativa em todo chamado?",
+    "alternativas": [
+      "A igreja local",
+      "O próprio indivíduo",
+      "A família",
+      "Deus"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma que em todo chamado a iniciativa sempre é de Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 15
+    }
+  },
+  {
+    "id": "VM-016",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, qual motivação é considerada inadequada para o ministério?",
+    "alternativas": [
+      "Desejo de servir",
+      "Convicção do chamado",
+      "Busca por benefícios materiais",
+      "Dedicação ao Reino"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma que motivação econômica é frustrante e inadequada para o ministério.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 17
+    }
+  },
+  {
+    "id": "VM-017",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, a obediência ao modelo e à direção espiritual produz o quê?",
+    "alternativas": [
+      "Popularidade",
+      "Proteção",
+      "Reconhecimento público",
+      "Autonomia total"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que a obediência ao modelo e à direção protege o vocacionado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 18
+    }
+  },
+  {
+    "id": "VM-018",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, o ministério deve ser exercido:",
+    "alternativas": [
+      "Somente durante cultos",
+      "Em horários específicos",
+      "Em qualquer hora e lugar",
+      "Somente em ambientes religiosos"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que o ministério não possui hora específica e é exercido em qualquer hora e lugar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 19
+    }
+  },
+  {
+    "id": "VM-019",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, qual vem em segundo lugar na escala de prioridades do cristão?",
+    "alternativas": ["Trabalho", "Igreja", "Família", "Ministério"],
+    "correta": 2,
+    "explicacao": "O texto afirma que Deus vem primeiro, família em segundo e igreja posteriormente.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 21
+    }
+  },
+  {
+    "id": "VM-020",
+    "disciplina": "Vocação Ministerial",
+    "enunciado": "Segundo a apostila, qual conselho é dado sobre descanso?",
+    "alternativas": [
+      "Evitar férias para produzir mais",
+      "Descansar apenas quando necessário",
+      "Descansar, recuperar energias e ter tempo de qualidade",
+      "Reduzir relacionamentos para descansar"
+    ],
+    "correta": 2,
+    "explicacao": "O texto orienta descansar, tirar férias, recuperar energias e ter tempo de qualidade com família e amigos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Vocação Ministerial",
+      "pagina": 26
+    }
+  }
+]

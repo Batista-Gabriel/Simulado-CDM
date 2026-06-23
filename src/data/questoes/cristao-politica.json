@@ -1,0 +1,342 @@
+[
+  {
+    "id": "OCP-001",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, de qual expressão grega deriva o termo política?",
+    "alternativas": ["Politeía", "Logos", "Ethos", "Demos"],
+    "correta": 0,
+    "explicacao": "A apostila afirma que o termo política deriva do grego antigo 'politeía', relacionado aos procedimentos da pólis.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "OCP-002",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "De acordo com a apostila, qual frase resume a ideia de que relações humanas envolvem influência e poder?",
+    "alternativas": [
+      "Tudo é política",
+      "A política é opcional",
+      "Somente governos fazem política",
+      "Religião substitui política"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila conclui que onde existem pessoas há relações mútuas de influência e poder, resumindo isso em 'Tudo é política'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "OCP-003",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, pensar que política não é um assunto bíblico é considerado:",
+    "alternativas": [
+      "Um erro",
+      "Uma virtude",
+      "Uma neutralidade",
+      "Uma tradição"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma explicitamente: 'Pensar que política não é um assunto bíblico é um erro'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "OCP-004",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a estratégia apresentada na apostila, qual é o primeiro estágio do enfraquecimento cultural descrito?",
+    "alternativas": [
+      "Um levante cultural anti-igreja",
+      "Substituição total da religião",
+      "Fim das eleições",
+      "Criação de novos partidos"
+    ],
+    "correta": 0,
+    "explicacao": "A lista apresentada descreve como primeiro estágio 'Um levante cultural anti-igreja'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "OCP-005",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Ao chamar os cristãos de sal e luz, segundo a apostila, Jesus queria enfatizar qual responsabilidade?",
+    "alternativas": [
+      "Ser influência em um mundo corrompido",
+      "Evitar contato social",
+      "Abandonar a sociedade",
+      "Atuar apenas dentro da igreja"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que ser sal e luz significa influenciar um mundo considerado corrompido e em trevas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "OCP-006",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Quais são os quatro elementos principais do Estado segundo a apostila?",
+    "alternativas": [
+      "Povo, Território, Governo e Finalidade",
+      "Povo, Economia, Exército e Igreja",
+      "Território, Cultura, Religião e Comércio",
+      "Poder, Moeda, Justiça e Educação"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma explicitamente que o Estado é constituído por Povo, Território, Governo e Finalidade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "OCP-007",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, o exercício da cidadania ocorre principalmente por meio de:",
+    "alternativas": ["Voto", "Protestos", "Tribunais", "Redes sociais"],
+    "correta": 0,
+    "explicacao": "A apostila afirma que o exercício da cidadania se dá principalmente pelo voto.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "OCP-008",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, onde está o campo de batalha e atuação do cristão?",
+    "alternativas": [
+      "Fora da igreja exercendo influência",
+      "Exclusivamente dentro da igreja",
+      "Somente na política eleitoral",
+      "Somente em funções religiosas"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que o campo de batalha do cristão é fora da igreja, exercendo influência e ocupando posições estratégicas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "OCP-009",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "De acordo com a apostila, influência consiste em:",
+    "alternativas": [
+      "Capacidade de persuadir pessoas",
+      "Capacidade financeira",
+      "Controle militar",
+      "Controle jurídico"
+    ],
+    "correta": 0,
+    "explicacao": "O texto define influência como a capacidade de persuadir pessoas através de estratégias de comunicação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "OCP-010",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, a palavra 'Kosmos' pode significar:",
+    "alternativas": [
+      "Organização, mundo ou habitantes da terra",
+      "Somente planeta Terra",
+      "Somente religião",
+      "Apenas universo físico"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila apresenta diferentes significados possíveis para Kosmos, incluindo organização, mundo e habitantes da terra.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "OCP-011",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Qual resposta a apostila dá para a pergunta 'O cristão deve participar da política?'",
+    "alternativas": [
+      "Sim",
+      "Não",
+      "Somente em eleições",
+      "Somente líderes religiosos"
+    ],
+    "correta": 0,
+    "explicacao": "O texto responde explicitamente: 'A resposta é clara: SIM!'",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 16
+    }
+  },
+  {
+    "id": "OCP-012",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, políticas públicas são medidas adotadas por políticos com qual finalidade?",
+    "alternativas": [
+      "Atingir o bem comum ou cumprir promessa eleitoral",
+      "Eliminar eleições",
+      "Criar partidos políticos",
+      "Substituir a Constituição"
+    ],
+    "correta": 0,
+    "explicacao": "A definição apresentada afirma que políticas públicas visam o bem comum ou o cumprimento de promessas eleitorais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 17
+    }
+  },
+  {
+    "id": "OCP-013",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, a dialética hegeliana funciona através de qual sequência?",
+    "alternativas": [
+      "Tese, antítese e síntese",
+      "Lei, ordem e progresso",
+      "Estado, governo e povo",
+      "Fé, política e cultura"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila descreve a dialética hegeliana como o conflito entre tese e antítese gerando síntese.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 18
+    }
+  },
+  {
+    "id": "OCP-014",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, quem inaugurou a primeira nação comunista chamada URSS?",
+    "alternativas": ["Lênin", "Stalin", "Marx", "Trotsky"],
+    "correta": 0,
+    "explicacao": "O texto afirma que Lênin inaugurou a URSS em 1917.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 21
+    }
+  },
+  {
+    "id": "OCP-015",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, como Marx via a religião?",
+    "alternativas": [
+      "Como vanguarda do conservadorismo",
+      "Como base da revolução",
+      "Como elemento neutro",
+      "Como instrumento econômico"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que Marx via a religião como vanguarda do conservadorismo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 22
+    }
+  },
+  {
+    "id": "OCP-016",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, qual teoria é atribuída a Antonio Gramsci como uma das mais conhecidas?",
+    "alternativas": [
+      "Teoria da hegemonia",
+      "Materialismo científico",
+      "Teoria monetária",
+      "Teoria contratual"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que uma das teorias mais conhecidas de Gramsci é a teoria da hegemonia.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 26
+    }
+  },
+  {
+    "id": "OCP-017",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, quais estruturas são apontadas como fonte moral e consolidação do caráter?",
+    "alternativas": [
+      "Igreja e família",
+      "Estado e escolas",
+      "Empresas e mídia",
+      "Partidos e sindicatos"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que a igreja é fonte moral e a família consolida e multiplica esses valores.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 28
+    }
+  },
+  {
+    "id": "OCP-018",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Qual estratégia atribuída a Saul Alinsky consiste em induzir a erro ou falsa impressão da realidade?",
+    "alternativas": ["Desinformação", "Dialética", "Hegemonia", "Consenso"],
+    "correta": 0,
+    "explicacao": "A apostila define desinformação como uso de técnicas de comunicação para induzir ao erro.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 32
+    }
+  },
+  {
+    "id": "OCP-019",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, o que quebrou a hegemonia da informação restrita a grandes grupos de mídia?",
+    "alternativas": [
+      "As redes sociais",
+      "Os jornais impressos",
+      "Os partidos políticos",
+      "Os governos locais"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que as redes sociais quebraram o monopólio e a hegemonia da informação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 33
+    }
+  },
+  {
+    "id": "OCP-020",
+    "disciplina": "O Cristão e a Politica",
+    "enunciado": "Segundo a apostila, por que plataformas de redes sociais buscam manter o usuário o máximo de tempo possível na tela?",
+    "alternativas": [
+      "Porque mais tempo significa mais investimentos publicitários",
+      "Para reduzir custos de internet",
+      "Para diminuir anúncios",
+      "Para limitar informações"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que tempo de exposição significa maiores oportunidades de publicidade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila O Cristão e a Politica",
+      "pagina": 34
+    }
+  }
+]

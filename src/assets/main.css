@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+/* Modo escuro via classe no elemento raiz */
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+
+  /* Paleta principal */
+  --color-brand-50: #f0f0ff;
+  --color-brand-100: #e2e1ff;
+  --color-brand-400: #8b84f8;
+  --color-brand-500: #6c63f6;
+  --color-brand-600: #5548e8;
+  --color-brand-700: #4338ca;
+
+  /* Superfícies dark */
+  --color-surface-900: #0f0e17;
+  --color-surface-800: #16141f;
+  --color-surface-700: #1e1b2e;
+  --color-surface-600: #272440;
+}
+
+*,
+*::before,
+*::after {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #6c63f620;
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #6c63f640;
+}
+
+/* Cursor pointer em todos os elementos interativos */
+button,
+[role="button"],
+[role="switch"],
+summary,
+label[for] {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: not-allowed;
+}

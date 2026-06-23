@@ -1,0 +1,347 @@
+[
+  {
+    "id": "IAT-001",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, qual é o significado etimológico do termo teologia?",
+    "alternativas": [
+      "A ciência que estuda os discursos ou tratados sobre Deus e fatos a Ele relacionados",
+      "O conjunto de regras religiosas criadas pela Igreja",
+      "O estudo das culturas antigas relacionadas à religião",
+      "A prática de rituais para contato com a divindade"
+    ],
+    "correta": 0,
+    "explicacao": "Baseado na página 3, onde é afirmado que teologia vem de Theos + logia e é definida como a ciência que estuda os discursos ou tratados sobre Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "IAT-002",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "De acordo com a apostila, qual classificação da teologia está voltada para questões da prática cristã?",
+    "alternativas": [
+      "Teologia Exegética",
+      "Teologia Histórica",
+      "Teologia Bíblica",
+      "Teologia Prática"
+    ],
+    "correta": 3,
+    "explicacao": "Na página 3, a Teologia Prática é descrita como aquela que atenta para questões da prática cristã, como ética, educação, liturgia e pregação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "IAT-003",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, costume é definido como:",
+    "alternativas": [
+      "Uma revelação divina registrada nas Escrituras",
+      "A maneira de viver de um povo e suas práticas sociais",
+      "Um conjunto de dogmas oficiais",
+      "Uma prática exclusiva das religiões"
+    ],
+    "correta": 1,
+    "explicacao": "Página 4: costume é definido como a maneira de viver de um povo e suas práticas sociais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "IAT-004",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, religião consiste em:",
+    "alternativas": [
+      "Ensinos registrados nas Escrituras",
+      "Afirmações filosóficas oficiais",
+      "Ritos realizados pelos homens com vistas ao contato com a divindade",
+      "Práticas sociais desenvolvidas por um povo"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, religião é definida como os ritos realizados pelos homens visando o contato com a divindade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "IAT-005",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Quanto à origem, a apostila afirma que a doutrina é:",
+    "alternativas": ["Humana", "Divina", "Local", "Temporária"],
+    "correta": 1,
+    "explicacao": "Na página 4, a comparação entre doutrina e costume afirma que a doutrina possui origem divina.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "IAT-006",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, qual característica pertence à doutrina e não ao dogma?",
+    "alternativas": [
+      "Pode ser humana ou demoníaca",
+      "É suscetível ao erro",
+      "É aprovada pelas Escrituras",
+      "É declaração do homem acerca da verdade"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 5, a apostila afirma que a doutrina é aprovada pelas Escrituras.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "IAT-007",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, podemos conhecer a Deus porque:",
+    "alternativas": [
+      "A filosofia explica Sua natureza",
+      "A tradição preservou Seu conhecimento",
+      "Ele se revelou",
+      "Os homens desenvolveram dogmas"
+    ],
+    "correta": 2,
+    "explicacao": "Página 5: a apostila afirma que só podemos conhecer Deus porque Ele se revelou.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "IAT-008",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, os anjos foram criados:",
+    "alternativas": [
+      "Ao longo de diferentes eras",
+      "Em grupos separados",
+      "De maneira progressiva",
+      "De uma única vez"
+    ],
+    "correta": 3,
+    "explicacao": "Na página 6, está escrito que os anjos foram criados por Deus de uma única vez.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "IAT-009",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, o homem é considerado um ser:",
+    "alternativas": [
+      "Dicotômico",
+      "Materialista",
+      "Tricotômico",
+      "Apenas espiritual"
+    ],
+    "correta": 2,
+    "explicacao": "Página 6: a apostila afirma que o homem possui alma, espírito e corpo, sendo tricotômico.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "IAT-010",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, pecar significa, em síntese:",
+    "alternativas": [
+      "Negar a religião",
+      "Errar o alvo",
+      "Ignorar costumes",
+      "Praticar apenas injustiças"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 6, a apostila define pecado, em síntese, como errar o alvo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "IAT-011",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Qual termo listado na apostila significa 'errar o alvo'?",
+    "alternativas": ["Parabasis", "Adikia", "Hamartia", "Asebeia"],
+    "correta": 2,
+    "explicacao": "Página 6: Hamartia é definido como errar o alvo ou fracassar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "IAT-012",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, qual característica do fruto atraiu a mulher pela concupiscência da carne?",
+    "alternativas": [
+      "Era agradável aos olhos",
+      "Era desejável para dar entendimento",
+      "Era bom para comer",
+      "Possuía valor espiritual"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 6, o texto afirma que o fruto era bom para comer, associado à concupiscência da carne.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "IAT-013",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, uma consequência do pecado original foi:",
+    "alternativas": [
+      "O desaparecimento da natureza",
+      "A eliminação do livre-arbítrio",
+      "A desarmonia entre Deus e o homem",
+      "O fim da morte física"
+    ],
+    "correta": 2,
+    "explicacao": "Página 7: o texto apresenta a desarmonia entre Deus e o homem como consequência do pecado original.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "IAT-014",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, Jesus exerceu qual tríplice ministério?",
+    "alternativas": [
+      "Pastor, mestre e diácono",
+      "Profeta, evangelista e sacerdote",
+      "Rei, sacerdote e profeta",
+      "Juiz, sacerdote e mestre"
+    ],
+    "correta": 2,
+    "explicacao": "Página 7: a apostila afirma que Jesus exerceu o tríplice ministério de Rei, Sacerdote e Profeta.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "IAT-015",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, quem idealizou a salvação?",
+    "alternativas": ["Jesus", "O Espírito Santo", "Os apóstolos", "Deus"],
+    "correta": 3,
+    "explicacao": "Página 7: o texto afirma que Deus idealizou, Jesus executou e o Espírito Santo aplica a salvação.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "IAT-016",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, o Espírito Santo convence-nos do:",
+    "alternativas": [
+      "Juízo humano",
+      "Pecado",
+      "Conhecimento filosófico",
+      "Costume religioso"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 7, está escrito que o Espírito Santo convence-nos do pecado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "IAT-017",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, a Igreja é definida como:",
+    "alternativas": [
+      "Uma organização social",
+      "O templo construído pelos homens",
+      "O Corpo de Cristo na terra",
+      "Uma instituição política"
+    ],
+    "correta": 2,
+    "explicacao": "Página 8: a apostila define a Igreja como o Corpo de Cristo na terra.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "IAT-018",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Escatologia, segundo a apostila, estuda:",
+    "alternativas": [
+      "As práticas litúrgicas",
+      "As primeiras doutrinas cristãs",
+      "As últimas coisas que hão de acontecer",
+      "As religiões antigas"
+    ],
+    "correta": 2,
+    "explicacao": "Página 8: Escatologia é definida como a disciplina que estuda as últimas coisas que hão de acontecer.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "IAT-019",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a conclusão da apostila, a saúde espiritual depende:",
+    "alternativas": [
+      "Da tradição religiosa",
+      "Da compreensão que temos de Deus e das coisas a Ele relacionadas",
+      "Da quantidade de rituais praticados",
+      "Do conhecimento filosófico"
+    ],
+    "correta": 1,
+    "explicacao": "Página 8: o texto afirma que a saúde espiritual depende da compreensão que temos de Deus e das coisas relacionadas a Ele.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "IAT-020",
+    "disciplina": "Iniciação à Teologia",
+    "enunciado": "Segundo a apostila, qual conselho de Pedro é citado na conclusão?",
+    "alternativas": [
+      "Buscai primeiro o Reino",
+      "Ide por todo mundo",
+      "Crescei na graça e conhecimento de nosso Senhor e Salvador Jesus Cristo",
+      "Vigiai e orai"
+    ],
+    "correta": 2,
+    "explicacao": "Página 8: a conclusão cita 2 Pedro 3.18 incentivando crescer na graça e conhecimento de Jesus Cristo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Iniciação à Teologia",
+      "pagina": 8
+    }
+  }
+]

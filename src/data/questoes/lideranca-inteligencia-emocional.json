@@ -1,0 +1,357 @@
+[
+  {
+    "id": "LIE-001",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, o que é inteligência emocional?",
+    "alternativas": [
+      "A capacidade de reconhecer, entender e gerenciar as próprias emoções e as dos outros",
+      "A capacidade de memorizar informações complexas rapidamente",
+      "A habilidade de resolver problemas matemáticos avançados",
+      "A habilidade de adquirir conhecimento técnico especializado"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila define inteligência emocional como a capacidade de reconhecer, entender e gerenciar emoções próprias e alheias na página 2.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-002",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Qual dos itens abaixo é citado como um dos 5 pilares da inteligência emocional?",
+    "alternativas": [
+      "Autoconhecimento",
+      "Velocidade de raciocínio",
+      "Capacidade matemática",
+      "Memorização técnica"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 2, autoconhecimento aparece como o primeiro dos cinco pilares da inteligência emocional.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-003",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "O autoconhecimento é descrito na apostila como:",
+    "alternativas": [
+      "A habilidade de reconhecer e compreender suas próprias emoções",
+      "A capacidade de decorar informações rapidamente",
+      "A prática de eliminar emoções negativas",
+      "O estudo científico do cérebro"
+    ],
+    "correta": 0,
+    "explicacao": "A página 2 afirma que autoconhecimento é reconhecer e compreender as próprias emoções.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-004",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "O controle emocional (autorregulação) envolve principalmente:",
+    "alternativas": [
+      "Controlar ou redirecionar impulsos e humores",
+      "Ignorar emoções negativas",
+      "Eliminar completamente o estresse",
+      "Evitar situações difíceis"
+    ],
+    "correta": 0,
+    "explicacao": "A página 2 descreve controle emocional como a capacidade de controlar ou redirecionar impulsos e humores.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-005",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, automotivação significa:",
+    "alternativas": [
+      "Utilizar as emoções a favor das metas",
+      "Eliminar emoções negativas permanentemente",
+      "Evitar desafios para reduzir ansiedade",
+      "Depender exclusivamente de incentivos externos"
+    ],
+    "correta": 0,
+    "explicacao": "A página 2 define automotivação como usar emoções em favor das metas pessoais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-006",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Empatia é apresentada como:",
+    "alternativas": [
+      "Capacidade de se colocar no lugar do outro e entender suas emoções",
+      "Habilidade de persuadir pessoas rapidamente",
+      "Capacidade de controlar sentimentos alheios",
+      "Conhecimento técnico aplicado"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 2, empatia é definida como colocar-se no lugar do outro e compreender emoções.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-007",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Gestão de relacionamentos envolve:",
+    "alternativas": [
+      "Gerenciar relacionamentos interpessoais de forma eficaz",
+      "Evitar conflitos a qualquer custo",
+      "Priorizar resultados acima das pessoas",
+      "Desenvolver apenas habilidades técnicas"
+    ],
+    "correta": 0,
+    "explicacao": "A página 2 afirma que gestão de relacionamentos envolve habilidades interpessoais eficazes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LIE-008",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Pessoas com QE elevado tendem a se destacar porque conseguem:",
+    "alternativas": [
+      "Manter a calma, controlar emoções e tomar decisões racionais",
+      "Memorizar informações mais rápido",
+      "Eliminar completamente emoções",
+      "Evitar ambientes complexos"
+    ],
+    "correta": 0,
+    "explicacao": "A página 3 relaciona QE elevado à capacidade de manter a calma e decidir racionalmente.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-009",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, líderes com alto QE são mais eficazes em:",
+    "alternativas": [
+      "Inspirar e motivar equipes",
+      "Executar cálculos complexos",
+      "Eliminar conflitos permanentemente",
+      "Substituir treinamento técnico"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 3, a apostila afirma que líderes com alto QE inspiram e motivam melhor suas equipes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-010",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "O QI mede principalmente capacidades relacionadas a:",
+    "alternativas": [
+      "Lógica, linguagem e raciocínio",
+      "Empatia, resiliência e motivação",
+      "Espiritualidade e propósito",
+      "Controle emocional e liderança"
+    ],
+    "correta": 0,
+    "explicacao": "A página 3 afirma que o QI mede capacidades cognitivas ligadas à lógica, linguagem e raciocínio.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-011",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, aproximadamente quanto do sucesso pode ser atribuído ao QI?",
+    "alternativas": ["20%", "50%", "75%", "100%"],
+    "correta": 0,
+    "explicacao": "A página 3 afirma que apenas cerca de 20% do sucesso pode ser atribuído ao QI.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-012",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "O que é neuroplasticidade?",
+    "alternativas": [
+      "Capacidade do cérebro de se reorganizar formando novas conexões neurais",
+      "Capacidade do cérebro de impedir mudanças estruturais",
+      "Habilidade exclusiva de crianças aprenderem",
+      "Processo que elimina emoções negativas"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 3, neuroplasticidade é definida como reorganização cerebral com novas conexões neurais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-013",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, habilidades emocionais podem ser desenvolvidas porque:",
+    "alternativas": [
+      "O cérebro é altamente moldável",
+      "A genética determina tudo",
+      "As emoções desaparecem com a idade",
+      "Somente líderes conseguem desenvolver emoções"
+    ],
+    "correta": 0,
+    "explicacao": "A página 3 afirma que o cérebro é moldável, permitindo desenvolvimento emocional.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-014",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "A dopamina é apresentada como:",
+    "alternativas": [
+      "Um neurotransmissor fundamental no circuito de recompensa",
+      "Uma técnica de meditação",
+      "Um tipo de inteligência emocional",
+      "Um processo de aprendizagem cognitiva"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 3, a dopamina é descrita como neurotransmissor importante no circuito de recompensa.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-015",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "A inteligência espiritual (QS) refere-se à capacidade de:",
+    "alternativas": [
+      "Acessar significado, propósito e conexão com algo maior",
+      "Resolver problemas matemáticos complexos",
+      "Controlar todas as emoções negativas",
+      "Substituir completamente o QE"
+    ],
+    "correta": 0,
+    "explicacao": "A página 3 descreve QS como capacidade relacionada a significado, propósito e conexão.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LIE-016",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, meditação e oração impactam o cérebro:",
+    "alternativas": [
+      "Ativando áreas relacionadas à autorregulação emocional e bem-estar",
+      "Reduzindo permanentemente emoções",
+      "Eliminando necessidade de autocontrole",
+      "Aumentando apenas habilidades cognitivas"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 4, meditação e oração são associadas à ativação de áreas ligadas ao bem-estar.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "LIE-017",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a apostila, o chamado “Ponto de Deus” está associado a:",
+    "alternativas": [
+      "Experiências espirituais profundas",
+      "Capacidade matemática avançada",
+      "Controle total do comportamento",
+      "Aprendizagem automática"
+    ],
+    "correta": 0,
+    "explicacao": "A página 4 relaciona o chamado Ponto de Deus a experiências espirituais profundas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "LIE-018",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "A resiliência é definida como:",
+    "alternativas": [
+      "Capacidade de se recuperar de dificuldades",
+      "Capacidade de evitar desafios",
+      "Ausência completa de emoções",
+      "Domínio exclusivo da inteligência espiritual"
+    ],
+    "correta": 0,
+    "explicacao": "A página 4 define resiliência como a capacidade de se recuperar de dificuldades.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "LIE-019",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo estudos citados na apostila, praticar empatia ativa:",
+    "alternativas": [
+      "Neurônios-espelho no cérebro",
+      "Somente áreas ligadas à memória",
+      "Exclusivamente o hemisfério esquerdo",
+      "Regiões relacionadas apenas à linguagem"
+    ],
+    "correta": 0,
+    "explicacao": "A página 4 afirma que a prática da empatia ativa neurônios-espelho.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "LIE-020",
+    "disciplina": "Liderança e Inteligência Emocional",
+    "enunciado": "Segundo a conclusão da apostila, a chave está em:",
+    "alternativas": [
+      "Buscar continuamente autodesenvolvimento e compreensão profunda",
+      "Priorizar apenas habilidades cognitivas",
+      "Depender exclusivamente do talento natural",
+      "Abandonar aspectos emocionais"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 4, a conclusão afirma que a chave está na busca contínua pelo autodesenvolvimento.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Liderança e Inteligência Emocional",
+      "pagina": 4
+    }
+  }
+]

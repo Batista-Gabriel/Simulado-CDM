@@ -1,0 +1,352 @@
+[
+  {
+    "id": "FTP-001",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, qual evento bíblico é considerado o relato mais significativo que fundamenta a Teologia Pentecostal?",
+    "alternativas": [
+      "O Pentecostes descrito em Atos 2",
+      "A crucificação de Jesus",
+      "A criação do mundo",
+      "A saída do Egito"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que o evento do Pentecostes, descrito em Atos 2, é o relato mais significativo que fundamenta a Teologia Pentecostal.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FTP-002",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "De acordo com a apostila, qual característica define a Teologia Pentecostal?",
+    "alternativas": [
+      "Ênfase na tradição filosófica",
+      "Ênfase na experiência direta e pessoal com Deus",
+      "Ênfase exclusiva no Antigo Testamento",
+      "Ênfase apenas na liturgia formal"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila descreve a Teologia Pentecostal como uma ramificação do cristianismo que enfatiza a experiência direta e pessoal com Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FTP-003",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, o batismo no Espírito Santo é entendido como:",
+    "alternativas": [
+      "Parte obrigatória da criação do mundo",
+      "Evento separado e posterior à conversão",
+      "Sinônimo de santificação",
+      "Prática exclusiva dos apóstolos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que o batismo no Espírito Santo é visto como um evento separado e posterior à conversão.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "FTP-004",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Qual é considerada a primeira manifestação do batismo no Espírito, segundo a apostila?",
+    "alternativas": [
+      "Profecia",
+      "Cura divina",
+      "Falar em línguas",
+      "Evangelização"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila declara que a primeira manifestação do batismo no Espírito é o falar em línguas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "FTP-005",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, a cura divina é compreendida como:",
+    "alternativas": [
+      "Algo restrito ao Novo Testamento",
+      "Uma prática abandonada pela igreja",
+      "Uma realidade ainda presente nos dias atuais",
+      "Algo simbólico apenas"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma que Deus continua realizando curas miraculosas nos dias atuais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "FTP-006",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "O retorno iminente de Jesus Cristo é associado, na apostila, a qual termo?",
+    "alternativas": ["Êxodo", "Pentecostes", "Arrebatamento", "Santificação"],
+    "correta": 2,
+    "explicacao": "A apostila menciona o retorno iminente de Cristo utilizando o termo arrebatamento.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "FTP-007",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, qual evento está associado à origem do Pentecostalismo Moderno?",
+    "alternativas": [
+      "Concílio de Niceia",
+      "Reavivamento da Rua Azusa",
+      "Reforma Protestante",
+      "Grande Avivamento Inglês"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que a origem do Pentecostalismo Moderno está associada ao reavivamento da Rua Azusa.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "FTP-008",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Quem liderou o reavivamento da Rua Azusa, segundo a apostila?",
+    "alternativas": [
+      "Charles Parham",
+      "Luigi Francescon",
+      "William J. Seymour",
+      "Daniel Berg"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila identifica William J. Seymour como líder do reavivamento da Rua Azusa.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "FTP-009",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Em que ano Gunnar Vingren e Daniel Berg chegaram ao Brasil, conforme a apostila?",
+    "alternativas": ["1901", "1906", "1910", "1920"],
+    "correta": 2,
+    "explicacao": "O texto informa que Gunnar Vingren e Daniel Berg desembarcaram em Belém do Pará em 1910.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "FTP-010",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, a Missão de Fé Apostólica posteriormente tornou-se qual denominação?",
+    "alternativas": [
+      "Congregação Cristã no Brasil",
+      "Igreja Universal",
+      "Assembleia de Deus",
+      "Igreja do Evangelho Quadrangular"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que a Missão de Fé Apostólica tornou-se posteriormente a Assembleia de Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "FTP-011",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, qual movimento começou dentro de denominações tradicionais na década de 1960?",
+    "alternativas": [
+      "Primeira Onda",
+      "Movimento Carismático",
+      "Movimento de Santidade",
+      "Movimento Missionário"
+    ],
+    "correta": 1,
+    "explicacao": "A Segunda Onda é apresentada como Movimento Carismático iniciado dentro de denominações tradicionais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "FTP-012",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "A Terceira Onda do Pentecostalismo é frequentemente associada a:",
+    "alternativas": [
+      "Roger Stronstad e Walter Brunelli",
+      "William Seymour e Charles Parham",
+      "Peter Wagner e John Wimber",
+      "Daniel Berg e Gunnar Vingren"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que a Terceira Onda é frequentemente associada a Peter Wagner e John Wimber.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "FTP-013",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, a santificação é entendida como:",
+    "alternativas": [
+      "Evento único após a conversão",
+      "Processo contínuo de crescimento espiritual",
+      "Prática exclusiva do clero",
+      "Sinônimo de arrebatamento"
+    ],
+    "correta": 1,
+    "explicacao": "O texto descreve a santificação como um processo contínuo de crescimento espiritual e moral.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "FTP-014",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a soteriologia pentecostal apresentada na apostila, a salvação começa quando:",
+    "alternativas": [
+      "A pessoa fala em línguas",
+      "A pessoa aceita Jesus como Salvador",
+      "A pessoa é batizada nas águas",
+      "A pessoa participa de missões"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que a salvação começa quando uma pessoa aceita Jesus Cristo como Salvador.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "FTP-015",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a escatologia pentecostal apresentada na apostila, qual posição é defendida sobre o arrebatamento?",
+    "alternativas": [
+      "Pós-tribulacional",
+      "Amilenista",
+      "Pré-tribulacional",
+      "Sem arrebatamento"
+    ],
+    "correta": 2,
+    "explicacao": "O texto afirma explicitamente que a Teologia Pentecostal acredita no arrebatamento pré-tribulacional.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "FTP-016",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, o que acontecerá após o milênio?",
+    "alternativas": [
+      "Novo Pentecostes",
+      "Juízo final",
+      "Fim da evangelização",
+      "Nova tribulação"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que após o milênio ocorrerá o juízo final.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "FTP-017",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "A hermenêutica pentecostal dá grande ênfase a quê?",
+    "alternativas": [
+      "Somente à análise textual",
+      "Experiências pessoais e comunitárias com Deus",
+      "Somente à tradição histórica",
+      "Exclusivamente ao estudo acadêmico"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila destaca que a hermenêutica pentecostal enfatiza experiências pessoais e comunitárias com Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "FTP-018",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, os cultos pentecostais são marcados por:",
+    "alternativas": [
+      "Silêncio absoluto",
+      "Estrutura rígida",
+      "Intensa adoração e manifestações espirituais",
+      "Ausência de música"
+    ],
+    "correta": 2,
+    "explicacao": "O texto descreve cultos pentecostais como marcados por intensa adoração, oração e manifestações espirituais.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "FTP-019",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, qual característica marca a liturgia pentecostal em comparação com outras tradições?",
+    "alternativas": [
+      "Maior formalidade",
+      "Ausência de pregação",
+      "Menor flexibilidade",
+      "Menos estrutura e maior abertura espontânea"
+    ],
+    "correta": 3,
+    "explicacao": "A apostila afirma que a liturgia pentecostal é menos estruturada e mais aberta a intervenções espontâneas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "FTP-020",
+    "disciplina": "Fundamentos da Teologia Pentecostal",
+    "enunciado": "Segundo a apostila, o culto pentecostal é descrito como:",
+    "alternativas": [
+      "Celebração dinâmica e emocional da fé",
+      "Cerimônia exclusivamente litúrgica",
+      "Evento exclusivamente intelectual",
+      "Prática centrada apenas na leitura"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila conclui que o culto pentecostal é uma celebração dinâmica e emocional da fé.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Fundamentos da Teologia Pentecostal",
+      "pagina": 12
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "CE-001",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, em qual elemento da comunicação está centrada a função emotiva da linguagem?",
+    "alternativas": ["No emissor", "No receptor", "No contexto", "No canal"],
+    "correta": 0,
+    "explicacao": "Baseado no trecho da página 5 que afirma: 'EMOTIVA centrada no EMISSOR'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "CE-002",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo a apostila, a variação linguística é consequência de quê?",
+    "alternativas": [
+      "De uma escola ineficaz",
+      "Da ausência de leitura",
+      "Não é consequência de uma escola ineficaz",
+      "Do uso exclusivo da linguagem formal"
+    ],
+    "correta": 2,
+    "explicacao": "Página 5: 'VARIAÇÃO LINGUÍSTICA NÃO É CONSEQUÊNCIA DE UMA ESCOLA INEFICAZ'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "CE-003",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Qual expressão é apresentada como exemplo de língua coloquial?",
+    "alternativas": [
+      "Nós acreditamos em Deus",
+      "Não vou",
+      "A gente acredita em Deus",
+      "Vocês estão bem"
+    ],
+    "correta": 2,
+    "explicacao": "Página 6 apresenta 'A gente acredita em Deus' como exemplo de uso coloquial.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "CE-004",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, a língua coloquial caracteriza-se principalmente por:",
+    "alternativas": [
+      "Seguir rigidamente a gramática normativa",
+      "Ser utilizada apenas em ambientes acadêmicos",
+      "Ser uma variante espontânea usada em relações informais",
+      "Eliminar expressões populares"
+    ],
+    "correta": 2,
+    "explicacao": "Página 6: 'A língua coloquial (...) é uma variante mais espontânea, utilizada nas relações informais'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "CE-005",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Para que a comunicação ocorra com eficiência, segundo o texto, é necessário:",
+    "alternativas": [
+      "Usar linguagem técnica",
+      "Adequar a linguagem à situação",
+      "Eliminar regionalismos",
+      "Utilizar apenas norma culta"
+    ],
+    "correta": 1,
+    "explicacao": "Página 7 afirma que é necessária 'adequação da linguagem àquela situação de comunicação'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "CE-006",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, ortoepia trata de quê?",
+    "alternativas": [
+      "Grafia correta",
+      "Pronúncia correta das palavras",
+      "Formação das frases",
+      "Uso de figuras de linguagem"
+    ],
+    "correta": 1,
+    "explicacao": "Página 15: 'A ortoepia/ortoépia trata da pronúncia normal e correta das palavras'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 15
+    }
+  },
+  {
+    "id": "CE-007",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Qual pronúncia correta é apresentada no material?",
+    "alternativas": ["Frustado", "Previlégio", "Poblema", "Frustrado"],
+    "correta": 3,
+    "explicacao": "Página 15 apresenta 'FRUSTRADO E NÃO FRUSTADO'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 15
+    }
+  },
+  {
+    "id": "CE-008",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Como se chama a pronúncia incorreta de uma palavra?",
+    "alternativas": ["Prosódia", "Metafonia", "Cacoépia", "Regência"],
+    "correta": 2,
+    "explicacao": "Página 16: 'A pronúncia incorreta de uma palavra chama-se cacoépia'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 16
+    }
+  },
+  {
+    "id": "CE-009",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, plural metafônico ocorre quando:",
+    "alternativas": [
+      "A palavra muda de classe gramatical",
+      "O sentido muda completamente",
+      "Há mudança de timbre no plural",
+      "A palavra perde acento"
+    ],
+    "correta": 2,
+    "explicacao": "Página 17 explica que ocorre mudança de timbre do singular para o plural.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 17
+    }
+  },
+  {
+    "id": "CE-010",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, 'gratuito' é classificado como:",
+    "alternativas": [
+      "Oxítona",
+      "Paroxítona",
+      "Proparoxítona",
+      "Monossílabo tônico"
+    ],
+    "correta": 1,
+    "explicacao": "Página 18 apresenta 'GRATUITO' como exemplo de palavra paroxítona.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 18
+    }
+  },
+  {
+    "id": "CE-011",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo a apostila, ortografia depende basicamente de:",
+    "alternativas": [
+      "Improvisação",
+      "Memorização visual e leitura constante",
+      "Uso exclusivo da oralidade",
+      "Decoração de regras isoladas"
+    ],
+    "correta": 1,
+    "explicacao": "Página 19 cita memorização visual, automatização, uso, leitura constante e consulta a dicionários.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 19
+    }
+  },
+  {
+    "id": "CE-012",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, o adjetivo possui qual função?",
+    "alternativas": [
+      "Nomear diretamente um ser",
+      "Ligar palavras",
+      "Modificar o substantivo atribuindo qualidade ou estado",
+      "Exprimir emoção"
+    ],
+    "correta": 2,
+    "explicacao": "Página 20 define adjetivo como elemento que modifica o substantivo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 20
+    }
+  },
+  {
+    "id": "CE-013",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Qual frase é considerada adequada segundo o material?",
+    "alternativas": [
+      "Entre eu e o pastor existe amizade",
+      "Entre mim e o pastor existe amizade",
+      "Entre eu e mim existe amizade",
+      "Entre pastor e eu existe amizade"
+    ],
+    "correta": 1,
+    "explicacao": "Página 22 indica como adequado: 'Entre MIM e o PASTOR existe...'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 22
+    }
+  },
+  {
+    "id": "CE-014",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, verbos impessoais possuem:",
+    "alternativas": [
+      "Sempre sujeito oculto",
+      "Dois sujeitos",
+      "Nenhum sujeito",
+      "Sujeito composto"
+    ],
+    "correta": 2,
+    "explicacao": "Página 24 afirma que verbos impessoais 'não possuem sujeito'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 24
+    }
+  },
+  {
+    "id": "CE-015",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, qual forma está adequada?",
+    "alternativas": [
+      "Haviam muitos ingressos",
+      "Houveram eleições",
+      "Havia muitos ingressos",
+      "Hão muitos anos"
+    ],
+    "correta": 2,
+    "explicacao": "Página 24 apresenta 'Havia muitos ingressos à venda' como forma adequada.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 24
+    }
+  },
+  {
+    "id": "CE-016",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, regência é:",
+    "alternativas": [
+      "Mudança de timbre das palavras",
+      "Mecanismo de interdependência entre palavras",
+      "Pronúncia correta das sílabas",
+      "Repetição de ideias"
+    ],
+    "correta": 1,
+    "explicacao": "Página 25 define regência como mecanismo de interdependência entre palavras.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 25
+    }
+  },
+  {
+    "id": "CE-017",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, concordância verbal ocorre quando:",
+    "alternativas": [
+      "O verbo concorda com o predicado",
+      "O verbo concorda com o sujeito em número e pessoa",
+      "O substantivo concorda com o artigo",
+      "O pronome concorda com o advérbio"
+    ],
+    "correta": 1,
+    "explicacao": "Página 27: 'Na concordância verbal, o verbo concorda em número e pessoa com seu sujeito'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 27
+    }
+  },
+  {
+    "id": "CE-018",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Quando o pronome é colocado depois do verbo, essa colocação recebe o nome de:",
+    "alternativas": ["Próclise", "Mesóclise", "Ênclise", "Metáclise"],
+    "correta": 2,
+    "explicacao": "Página 28 define ênclise como pronome colocado depois do verbo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 28
+    }
+  },
+  {
+    "id": "CE-019",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, eufemismo corresponde a:",
+    "alternativas": [
+      "Exagero na mensagem",
+      "Repetição de conectivos",
+      "Suavização de ideia desagradável",
+      "Substituição por apelido"
+    ],
+    "correta": 2,
+    "explicacao": "Página 31 define eufemismo como 'suavização de uma ideia desagradável'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 31
+    }
+  },
+  {
+    "id": "CE-020",
+    "disciplina": "Comunicação Eficaz",
+    "enunciado": "Segundo o material, qual expressão significa oposição, choque ou colisão?",
+    "alternativas": [
+      "Ao encontro de",
+      "De encontro a",
+      "Ao lado de",
+      "Junto de"
+    ],
+    "correta": 1,
+    "explicacao": "Página 36 afirma: 'DE ENCONTRO A = OPOSIÇÃO, CHOQUE, COLISÃO'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Comunicação Eficaz",
+      "pagina": 36
+    }
+  }
+]

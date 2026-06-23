@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ATL-001",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, quais fatores modificaram profundamente a maneira como as pessoas se relacionam, consomem informação e constroem opinião?",
+    "alternativas": [
+      "Tecnologias digitais, redes sociais, inteligência artificial e sistemas automatizados",
+      "Somente jornais impressos e televisão",
+      "Exclusivamente campanhas políticas",
+      "Apenas o crescimento populacional"
+    ],
+    "correta": 0,
+    "explicacao": "A apostila afirma que o avanço das tecnologias digitais, redes sociais, inteligência artificial e sistemas automatizados modificou profundamente essas práticas (página 2).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "ATL-002",
+    "disciplina": "Atualidades",
+    "enunciado": "Na atualidade, comunicar significa apenas transmitir uma mensagem?",
+    "alternativas": [
+      "Sim, apenas transmitir mensagens",
+      "Não, envolve compreender o comportamento humano em ambientes digitais conectados",
+      "Sim, desde que seja por vídeo",
+      "Não, significa apenas vender produtos"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que comunicar atualmente também significa compreender o comportamento humano em ambientes digitais altamente conectados (página 2).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "ATL-003",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, o que representa o conceito de atualidade?",
+    "alternativas": [
+      "Somente acontecimentos do dia",
+      "O estado de convergência entre vida real e vida digital",
+      "Apenas fatos históricos",
+      "Exclusivamente tendências econômicas"
+    ],
+    "correta": 1,
+    "explicacao": "O texto define atualidade como o estado de convergência entre vida real e vida digital (página 3).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "ATL-004",
+    "disciplina": "Atualidades",
+    "enunciado": "Como a comunicação atual é caracterizada pela apostila?",
+    "alternativas": [
+      "Linear e previsível",
+      "Centralizada e lenta",
+      "Dinâmica, interativa e personalizada",
+      "Restrita a empresas"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila afirma que a comunicação deixou de ser linear e tornou-se dinâmica, interativa e personalizada (página 3).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "ATL-005",
+    "disciplina": "Atualidades",
+    "enunciado": "O que é algoritmo, segundo a apostila?",
+    "alternativas": [
+      "Um programa usado apenas para segurança",
+      "Um conjunto de regras e instruções usadas para organizar, selecionar e recomendar conteúdos",
+      "Um equipamento físico para armazenar dados",
+      "Um método exclusivo de programação"
+    ],
+    "correta": 1,
+    "explicacao": "O material define algoritmo como conjunto de regras e instruções utilizadas pelas plataformas digitais para organizar e recomendar conteúdos (página 4).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "ATL-006",
+    "disciplina": "Atualidades",
+    "enunciado": "Qual informação abaixo é analisada pelos algoritmos segundo a apostila?",
+    "alternativas": [
+      "Tipo sanguíneo",
+      "Curtidas",
+      "Altura do usuário",
+      "Endereço residencial obrigatório"
+    ],
+    "correta": 1,
+    "explicacao": "Entre os dados citados estão curtidas, comentários, tempo de visualização, compartilhamentos e histórico de pesquisas (página 4).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "ATL-007",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, o que tende a acontecer quando uma publicação possui maior engajamento?",
+    "alternativas": [
+      "Ela é removida automaticamente",
+      "Sua distribuição tende a aumentar",
+      "Ela perde relevância",
+      "Ela fica restrita ao criador"
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma que quanto maior o engajamento de uma publicação, maior tende a ser sua distribuição (página 5).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "ATL-008",
+    "disciplina": "Atualidades",
+    "enunciado": "Qual dos itens abaixo é apresentado como impacto dos algoritmos na comunicação?",
+    "alternativas": [
+      "Fim das redes sociais",
+      "Eliminação das opiniões",
+      "Formação de bolhas informacionais",
+      "Redução total da competição por atenção"
+    ],
+    "correta": 2,
+    "explicacao": "Entre os impactos listados estão personalização, bolhas informacionais e influência direta na opinião pública (página 5).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "ATL-009",
+    "disciplina": "Atualidades",
+    "enunciado": "Qual é o objetivo principal do Teste A/B segundo a apostila?",
+    "alternativas": [
+      "Substituir algoritmos",
+      "Otimizar resultados por meio da análise de dados",
+      "Eliminar publicidade",
+      "Criar apenas campanhas pagas"
+    ],
+    "correta": 1,
+    "explicacao": "O material afirma que o objetivo do Teste A/B é otimizar resultados através da análise de dados (página 6).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "ATL-010",
+    "disciplina": "Atualidades",
+    "enunciado": "Como funciona o Teste A/B segundo o material?",
+    "alternativas": [
+      "Usando apenas uma versão do conteúdo",
+      "Comparando diferentes empresas",
+      "Apresentando versões diferentes para grupos distintos",
+      "Substituindo dados por opiniões"
+    ],
+    "correta": 2,
+    "explicacao": "A apostila explica que duas versões de um conteúdo são apresentadas para grupos diferentes para medir desempenho (página 6).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "ATL-011",
+    "disciplina": "Atualidades",
+    "enunciado": "Qual métrica abaixo é citada pela apostila como analisada em Testes A/B?",
+    "alternativas": [
+      "Quantidade de funcionários",
+      "Cliques",
+      "Temperatura do servidor",
+      "Cor favorita do usuário"
+    ],
+    "correta": 1,
+    "explicacao": "Entre os resultados avaliados estão cliques, curtidas, conversões, tempo de permanência e alcance (página 6).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "ATL-012",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, qual benefício o Teste A/B oferece?",
+    "alternativas": [
+      "Reduz erros e aumenta eficiência",
+      "Elimina custos completamente",
+      "Dispensa análise de dados",
+      "Substitui estratégias"
+    ],
+    "correta": 0,
+    "explicacao": "O texto afirma que o Teste A/B reduz erros e aumenta a eficiência da comunicação (página 7).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "ATL-013",
+    "disciplina": "Atualidades",
+    "enunciado": "O que é Marketing de Influência segundo a apostila?",
+    "alternativas": [
+      "Venda direta sem comunicação",
+      "Uso de influenciadores digitais para conectar mensagens a públicos específicos",
+      "Criação exclusiva de anúncios impressos",
+      "Uso apenas de celebridades"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila define Marketing de Influência como estratégia de usar criadores de conteúdo para conectar mensagens e marcas ao público (página 8).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "ATL-014",
+    "disciplina": "Atualidades",
+    "enunciado": "Qual objetivo abaixo pertence ao Marketing de Influência segundo a apostila?",
+    "alternativas": [
+      "Eliminar comunidades digitais",
+      "Diminuir identificação do público",
+      "Aumentar autoridade",
+      "Reduzir alcance"
+    ],
+    "correta": 2,
+    "explicacao": "Entre os objetivos apresentados estão gerar identificação, aumentar autoridade e fortalecer comunidades digitais (página 8).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "ATL-015",
+    "disciplina": "Atualidades",
+    "enunciado": "Como a apostila caracteriza os mega influenciadores?",
+    "alternativas": [
+      "Possuem poucos seguidores",
+      "Possuem milhões de seguidores",
+      "Atuam apenas localmente",
+      "Não possuem alcance amplo"
+    ],
+    "correta": 1,
+    "explicacao": "Mega influenciadores são descritos como perfis com milhões de seguidores e grande alcance (página 9).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "ATL-016",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, quantos seguidores possuem os micro influenciadores?",
+    "alternativas": [
+      "Até mil seguidores",
+      "Entre 10 mil e 100 mil seguidores",
+      "Acima de 10 milhões",
+      "Exatamente 500 mil"
+    ],
+    "correta": 1,
+    "explicacao": "O material afirma que micro influenciadores possuem entre 10 mil e 100 mil seguidores (página 10).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "ATL-017",
+    "disciplina": "Atualidades",
+    "enunciado": "Por que muitas empresas preferem nano influenciadores, segundo a apostila?",
+    "alternativas": [
+      "Porque possuem maior custo",
+      "Porque geram alto nível de confiança",
+      "Porque substituem publicidade",
+      "Porque alcançam todo o mercado"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila afirma que muitas empresas preferem nano influenciadores devido ao alto nível de confiança gerado (página 10).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "ATL-018",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, para que a Inteligência Artificial é utilizada na comunicação moderna?",
+    "alternativas": [
+      "Somente para criar jogos",
+      "Automatizar tarefas, analisar dados e otimizar processos",
+      "Exclusivamente para programação",
+      "Apenas para entretenimento"
+    ],
+    "correta": 1,
+    "explicacao": "A apostila informa que IA é utilizada para automatizar tarefas, analisar dados, prever comportamentos e otimizar processos (página 11).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "ATL-019",
+    "disciplina": "Atualidades",
+    "enunciado": "Qual aplicação abaixo aparece como exemplo de uso da IA na comunicação?",
+    "alternativas": [
+      "Construção civil",
+      "Atendimento automatizado por chatbots",
+      "Extração mineral",
+      "Produção agrícola"
+    ],
+    "correta": 1,
+    "explicacao": "Entre as aplicações citadas estão chatbots, produção de conteúdo, segmentação e automação de campanhas (página 11).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "ATL-020",
+    "disciplina": "Atualidades",
+    "enunciado": "Segundo a apostila, qual característica descreve a IA Generativa?",
+    "alternativas": [
+      "Executa apenas cálculos matemáticos",
+      "É usada somente em segurança",
+      "Cria textos, imagens, vídeos e músicas",
+      "Funciona apenas em call centers"
+    ],
+    "correta": 2,
+    "explicacao": "O material afirma que IA Generativa é capaz de criar textos, imagens, vídeos e músicas (página 12).",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Atualidades",
+      "pagina": 12
+    }
+  }
+]

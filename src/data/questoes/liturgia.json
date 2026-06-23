@@ -1,0 +1,342 @@
+[
+  {
+    "id": "LT-001",
+    "disciplina": "Liturgia",
+    "enunciado": "Qual é o significado da palavra liturgia segundo sua origem grega?",
+    "alternativas": [
+      "Obra pública ou dever público",
+      "Adoração coletiva organizada",
+      "Reunião de sacerdotes",
+      "Cerimônia religiosa formal"
+    ],
+    "correta": 0,
+    "explicacao": "Página 2 afirma que a palavra liturgia vem do grego 'leitourgia' e significa 'Obra pública ou dever público'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "LT-002",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, o que significa a palavra Igreja (Eclésia)?",
+    "alternativas": [
+      "Grupo de líderes espirituais",
+      "Convocação de pessoas para fora de suas casas para assuntos comuns",
+      "Reunião exclusiva de sacerdotes",
+      "Lugar físico destinado ao culto"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 3, a apostila define Eclésia como 'a convocação de pessoas para fora de suas casas, a fim de tratarem de assuntos de interesse comum'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LT-003",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, qual é o papel espiritual da liturgia?",
+    "alternativas": [
+      "Organizar eventos sociais",
+      "Garantir maior duração dos cultos",
+      "Promover a adoração",
+      "Formar líderes ministeriais"
+    ],
+    "correta": 2,
+    "explicacao": "A página 3 afirma: 'O Papel Espiritual da Liturgia é a Adoração'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LT-004",
+    "disciplina": "Liturgia",
+    "enunciado": "Qual é a principal necessidade de estudar a Liturgia Cristã segundo a apostila?",
+    "alternativas": [
+      "Criar novas cerimônias",
+      "Aumentar o tempo dos cultos",
+      "Formar pregadores experientes",
+      "Coibir extremos do formalismo e da desorganização"
+    ],
+    "correta": 3,
+    "explicacao": "Página 3: 'A principal necessidade de se estudar a Liturgia Cristã é coibir os extremos do formalismo e da desorganização'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LT-005",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, muita liturgia pode causar qual consequência?",
+    "alternativas": [
+      "Engessar o culto e esfriar a adoração coletiva",
+      "Eliminar completamente a emoção",
+      "Criar excesso de espiritualidade",
+      "Impedir a participação pastoral"
+    ],
+    "correta": 0,
+    "explicacao": "Página 3 afirma que 'Muita liturgia pode engessar o culto e torná-lo muito formal, esfriando a adoração coletiva'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "LT-006",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, quem está autorizado a realizar cerimônias de casamento na ADVEC?",
+    "alternativas": [
+      "Diáconos filiados",
+      "Qualquer ministro religioso",
+      "Somente pastores com ata registrada em cartório",
+      "Presbíteros autorizados"
+    ],
+    "correta": 2,
+    "explicacao": "Página 4 afirma que somente pastores com ata de ordenação registrada estão autorizados.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "LT-007",
+    "disciplina": "Liturgia",
+    "enunciado": "De acordo com a apostila, quem é responsável por preparar o cerimonial do casamento?",
+    "alternativas": [
+      "O pastor celebrante",
+      "Os padrinhos",
+      "A secretaria da igreja",
+      "Os noivos"
+    ],
+    "correta": 3,
+    "explicacao": "Página 6: 'Não é incumbência do Celebrante preparar cerimonial. É competência dos noivos.'",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "LT-008",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, qual é considerada uma formalidade essencial na celebração do casamento?",
+    "alternativas": [
+      "A presença dos padrinhos",
+      "O momento do SIM",
+      "A troca das alianças",
+      "A oração final"
+    ],
+    "correta": 1,
+    "explicacao": "Página 6 afirma explicitamente: 'Uma formalidade essencial ocorre no momento do SIM'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "LT-009",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, em qual dedo a aliança deve ser colocada durante a cerimônia?",
+    "alternativas": [
+      "Indicador esquerdo",
+      "Anular da mão esquerda",
+      "Polegar direito",
+      "Médio esquerdo"
+    ],
+    "correta": 1,
+    "explicacao": "Página 24 informa que o pastor deve instruir que a aliança seja colocada 'nos dedos anulares da mão esquerda'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 24
+    }
+  },
+  {
+    "id": "LT-010",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, a Santa Ceia é considerada o quê?",
+    "alternativas": [
+      "Uma tradição opcional",
+      "Uma ordenança da Igreja",
+      "Uma celebração anual",
+      "Uma prática exclusiva pastoral"
+    ],
+    "correta": 1,
+    "explicacao": "Página 25 afirma: 'Devemos ter em mente que a Santa Ceia é uma ordenança da Igreja'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 25
+    }
+  },
+  {
+    "id": "LT-011",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, o culto de Santa Ceia não deve exceder qual duração?",
+    "alternativas": ["90 minutos", "3 horas", "2 horas", "1 hora"],
+    "correta": 2,
+    "explicacao": "Página 25 apresenta a observação: 'O Culto não deve exceder o tempo de 2 horas'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 25
+    }
+  },
+  {
+    "id": "LT-012",
+    "disciplina": "Liturgia",
+    "enunciado": "Quais duas práticas formam a dupla ordenança da Igreja segundo a apostila?",
+    "alternativas": [
+      "Batismo e casamento",
+      "Santa Ceia e casamento",
+      "Batismo e Santa Ceia",
+      "Batismo e apresentação infantil"
+    ],
+    "correta": 2,
+    "explicacao": "Página 26 afirma que 'o Batismo, juntamente com a Santa Ceia, forma a dupla ordenança da Igreja'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 26
+    }
+  },
+  {
+    "id": "LT-013",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, como os batizandos devem ser batizados?",
+    "alternativas": [
+      "Parcialmente submersos",
+      "Somente com aspersão",
+      "Totalmente submersos e retirados imediatamente",
+      "Com derramamento de água"
+    ],
+    "correta": 2,
+    "explicacao": "Página 26 afirma que os batizandos devem ser 'totalmente submersos e imediatamente retirados'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 26
+    }
+  },
+  {
+    "id": "LT-014",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, normalmente em qual momento do culto ocorre a apresentação de crianças?",
+    "alternativas": [
+      "No início",
+      "Durante a oferta",
+      "No meio da pregação",
+      "No final do culto"
+    ],
+    "correta": 3,
+    "explicacao": "Página 27 afirma: 'Normalmente deixamos para o final do Culto'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 27
+    }
+  },
+  {
+    "id": "LT-015",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, qual deve ser a característica principal do sermão em festas de 15 anos?",
+    "alternativas": [
+      "Longo e detalhado",
+      "Objetivo",
+      "Expositivo",
+      "Doutrinário"
+    ],
+    "correta": 1,
+    "explicacao": "Página 27 afirma em destaque: 'SEJA OBJETIVO NO SEU SERMÃO!'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 27
+    }
+  },
+  {
+    "id": "LT-016",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, aproximadamente quanto tempo deve durar uma cerimônia fúnebre?",
+    "alternativas": ["15 minutos", "1 hora", "30 minutos", "2 horas"],
+    "correta": 2,
+    "explicacao": "Página 28 informa que 'A cerimônia fúnebre deve ter em torno de 30 minutos'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 28
+    }
+  },
+  {
+    "id": "LT-017",
+    "disciplina": "Liturgia",
+    "enunciado": "Qual é a duração máxima indicada para o Culto de Adoração?",
+    "alternativas": ["3 horas", "2 horas", "90 minutos", "45 minutos"],
+    "correta": 1,
+    "explicacao": "Página 29 informa: 'Culto de Adoração – Duração de no máximo 2 horas'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 29
+    }
+  },
+  {
+    "id": "LT-018",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, quantos cultos de celebração aos domingos existem atualmente?",
+    "alternativas": ["1", "2", "3", "4"],
+    "correta": 1,
+    "explicacao": "Página 29 afirma: 'Hoje temos dois Cultos de Celebração aos domingos'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 29
+    }
+  },
+  {
+    "id": "LT-019",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, qual frase resume a filosofia adotada pela ADVEC em relação aos cultos?",
+    "alternativas": [
+      "Mais é melhor",
+      "O importante é improvisar",
+      "Menos é mais",
+      "Quanto maior, melhor"
+    ],
+    "correta": 2,
+    "explicacao": "Página 29 e 30 repetem a expressão: 'Na ADVEC, menos é mais'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 29
+    }
+  },
+  {
+    "id": "LT-020",
+    "disciplina": "Liturgia",
+    "enunciado": "Segundo a apostila, qual é o principal objetivo dos cultos temáticos?",
+    "alternativas": [
+      "Treinar novos pregadores",
+      "Celebrar departamentos",
+      "Promover ensino doutrinário",
+      "Motivar a membresia a trazer convidados"
+    ],
+    "correta": 3,
+    "explicacao": "Página 30 afirma que os cultos temáticos têm finalidade de 'motivar a membresia da ADVEC a trazer convidados'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Liturgia",
+      "pagina": 30
+    }
+  }
+]

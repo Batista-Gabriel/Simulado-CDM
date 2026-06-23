@@ -1,0 +1,342 @@
+[
+  {
+    "id": "BMF-001",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a apostila, quem é considerado o autor da Bíblia?",
+    "alternativas": ["Deus", "Os profetas", "Os apóstolos", "A Igreja"],
+    "correta": 0,
+    "explicacao": "Página 2: a apostila afirma que a Bíblia é a revelação de Deus à humanidade, tendo Deus como autor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "BMF-002",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "De acordo com a apostila, quem é apresentado como o intérprete da Bíblia?",
+    "alternativas": [
+      "O Espírito Santo",
+      "Os teólogos",
+      "Os escritores bíblicos",
+      "A tradição oral"
+    ],
+    "correta": 0,
+    "explicacao": "Página 2: o material afirma que o Espírito Santo é o intérprete da Bíblia.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "BMF-003",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo o material, qual é o tema central da Bíblia?",
+    "alternativas": ["Jesus Cristo", "Israel", "A Igreja", "Os profetas"],
+    "correta": 0,
+    "explicacao": "Página 2: a apostila afirma que o tema central da Bíblia é o Senhor Jesus Cristo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "BMF-004",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "O que significa dizer que a Bíblia utiliza linguagem antropomórfica?",
+    "alternativas": [
+      "Atribui formas humanas a Deus",
+      "Atribui emoções humanas a Deus",
+      "Traduz textos antigos",
+      "Aplica símbolos animais a Deus"
+    ],
+    "correta": 0,
+    "explicacao": "Página 3-4: antropomorfismo é definido como atribuição de formas humanas a Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "BMF-005",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a apostila, como são chamados os manuscritos originais saídos das mãos dos escritores bíblicos?",
+    "alternativas": ["Autógrafos", "Códices", "Pergaminhos", "Apócrifos"],
+    "correta": 0,
+    "explicacao": "Página 4: o texto afirma que os manuscritos originais são chamados de autógrafos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "BMF-006",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Quais são as duas principais línguas originais da Bíblia segundo a apostila?",
+    "alternativas": [
+      "Hebraico e grego",
+      "Latim e hebraico",
+      "Grego e latim",
+      "Aramaico e latim"
+    ],
+    "correta": 0,
+    "explicacao": "Página 5: o material afirma que as principais línguas são hebraico para o AT e grego para o NT.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "BMF-007",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Quando a expressão 'Palavra de Deus' é usada como pessoa, a quem ela se refere?",
+    "alternativas": [
+      "Jesus Cristo",
+      "Moisés",
+      "O Espírito Santo",
+      "Os profetas"
+    ],
+    "correta": 0,
+    "explicacao": "Página 5: a apostila afirma que Jesus Cristo é a Palavra de Deus personificada.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "BMF-008",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a apostila, o que caracteriza a revelação geral?",
+    "alternativas": [
+      "É destinada a todos os homens indistintamente",
+      "É restrita aos profetas",
+      "Foi dada apenas aos judeus",
+      "Depende exclusivamente de sonhos"
+    ],
+    "correta": 0,
+    "explicacao": "Página 6: a revelação geral é apresentada como destinada a todos os homens indistintamente.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "BMF-009",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Qual é uma das vantagens da Palavra de Deus transmitida de forma escrita segundo o material?",
+    "alternativas": [
+      "Preservação das palavras para gerações futuras",
+      "Redução da necessidade de estudo",
+      "Substituição completa da memória",
+      "Limitação do acesso aos estudiosos"
+    ],
+    "correta": 0,
+    "explicacao": "Página 8: a apostila destaca a preservação das palavras de Deus para gerações seguintes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "BMF-010",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Como a apostila define inspiração das Escrituras?",
+    "alternativas": [
+      "Influência sobrenatural do Espírito Santo sobre os autores",
+      "Capacidade intelectual dos escritores",
+      "Tradição oral preservada",
+      "Interpretação dos líderes religiosos"
+    ],
+    "correta": 0,
+    "explicacao": "Página 8: inspiração é definida como influência sobrenatural do Espírito Santo sobre os autores das Escrituras.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "BMF-011",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a apostila, a Bíblia afirma sua inspiração como o quê?",
+    "alternativas": ["Um fato", "Uma hipótese", "Uma tradição", "Uma metáfora"],
+    "correta": 0,
+    "explicacao": "Página 9: o texto afirma que a Bíblia trata sua inspiração como um fato.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "BMF-012",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Quantos livros e aproximadamente quantos escritores são mencionados na composição da Bíblia?",
+    "alternativas": [
+      "66 livros e cerca de 40 escritores",
+      "39 livros e 12 escritores",
+      "73 livros e 70 escritores",
+      "27 livros e 12 escritores"
+    ],
+    "correta": 0,
+    "explicacao": "Página 10: a apostila menciona 66 livros escritos por cerca de 40 escritores.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "BMF-013",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a apostila, o que significa a autoridade das Escrituras?",
+    "alternativas": [
+      "Que todas as palavras das Escrituras são palavras de Deus",
+      "Que somente parte da Bíblia possui autoridade",
+      "Que apenas o Novo Testamento é inspirado",
+      "Que a autoridade depende da interpretação pessoal"
+    ],
+    "correta": 0,
+    "explicacao": "Página 12: autoridade das Escrituras significa que todas as palavras das Escrituras são palavras de Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "BMF-014",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo o material, por que os escritos de Paulo são considerados Escritura autorizada?",
+    "alternativas": [
+      "Porque foram reconhecidos como Escritura pelos apóstolos autorizados",
+      "Porque Paulo foi discípulo direto de Jesus durante todo o ministério",
+      "Porque foram escritos em hebraico",
+      "Porque foram encontrados em Qumran"
+    ],
+    "correta": 0,
+    "explicacao": "Página 14: a apostila afirma que os escritos de Paulo foram reconhecidos como Escritura pelos apóstolos autorizados.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 14
+    }
+  },
+  {
+    "id": "BMF-015",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "O que afirma a doutrina da inerrância segundo a apostila?",
+    "alternativas": [
+      "Que a Bíblia é totalmente confiável em todos os seus ensinos",
+      "Que a Bíblia contém apenas verdades espirituais",
+      "Que somente os manuscritos originais eram confiáveis",
+      "Que existem erros históricos aceitáveis"
+    ],
+    "correta": 0,
+    "explicacao": "Página 16: a doutrina da inerrância afirma que a Bíblia é totalmente confiável em todos os seus ensinos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 16
+    }
+  },
+  {
+    "id": "BMF-016",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a apostila, qual doutrina ensina que a Bíblia pode ser compreendida por todos que a leem buscando auxílio de Deus?",
+    "alternativas": [
+      "Clareza das Escrituras",
+      "Inerrância",
+      "Inspiração",
+      "Infalibilidade"
+    ],
+    "correta": 0,
+    "explicacao": "Página 20: a doutrina da clareza das Escrituras ensina que seus ensinamentos podem ser compreendidos por todos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 20
+    }
+  },
+  {
+    "id": "BMF-017",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a doutrina da necessidade das Escrituras, o que aconteceria sem a revelação especial?",
+    "alternativas": [
+      "Ficaríamos dependentes da limitada revelação geral",
+      "Teríamos conhecimento completo de Deus",
+      "Não precisaríamos estudar a Bíblia",
+      "A tradição substituiria as Escrituras"
+    ],
+    "correta": 0,
+    "explicacao": "Página 20: a apostila afirma que sem a Bíblia ficaríamos dependentes da limitada revelação geral.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 20
+    }
+  },
+  {
+    "id": "BMF-018",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a doutrina da suficiência das Escrituras, precisamos de outra fonte de autoridade divina além da Bíblia?",
+    "alternativas": [
+      "Não, a Bíblia é suficiente",
+      "Sim, novas revelações são necessárias",
+      "Somente tradições complementares são obrigatórias",
+      "Apenas escritos históricos são necessários"
+    ],
+    "correta": 0,
+    "explicacao": "Página 21: a apostila afirma que não precisamos e não podemos ter outra fonte de autoridade divina além da Bíblia.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 21
+    }
+  },
+  {
+    "id": "BMF-019",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "O que ensina a doutrina da infalibilidade das Escrituras?",
+    "alternativas": [
+      "Que as promessas e palavras de Deus não falham",
+      "Que toda interpretação humana é infalível",
+      "Que apenas profecias são confiáveis",
+      "Que erros menores são aceitáveis"
+    ],
+    "correta": 0,
+    "explicacao": "Página 21: a infalibilidade afirma que as promessas, profecias e palavras de Deus jamais falham.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 21
+    }
+  },
+  {
+    "id": "BMF-020",
+    "disciplina": "A Bíblia como Manual de Fé",
+    "enunciado": "Segundo a conclusão da apostila, para que o homem deve ler a Bíblia?",
+    "alternativas": [
+      "Para ser sábio",
+      "Para obter riqueza",
+      "Para substituir toda educação",
+      "Para memorizar histórias"
+    ],
+    "correta": 0,
+    "explicacao": "Página 22: a conclusão afirma que o homem deve ler a Bíblia para ser sábio.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Biblia manual de fé",
+      "pagina": 22
+    }
+  }
+]

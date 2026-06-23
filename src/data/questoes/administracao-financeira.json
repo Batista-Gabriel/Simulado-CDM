@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ADF-001",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, qual princípio espiritual é apresentado em Provérbios 3:9-10?",
+    "alternativas": [
+      "Honrar ao Senhor com os bens e ganhos",
+      "Acumular riquezas acima de tudo",
+      "Evitar qualquer contribuição financeira",
+      "Buscar prosperidade apenas material"
+    ],
+    "correta": 0,
+    "explicacao": "Na página 2, a apostila afirma que Provérbios 3:9-10 ensina a honrar ao Senhor com os bens e com a primeira parte dos ganhos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "ADF-002",
+    "disciplina": "Administração Financeira",
+    "enunciado": "De acordo com a apostila, o que representa Mamom em Mateus 6:24?",
+    "alternativas": [
+      "A liderança espiritual",
+      "As riquezas e o materialismo",
+      "A administração financeira",
+      "A generosidade cristã"
+    ],
+    "correta": 1,
+    "explicacao": "A página 2 explica que Mamom representa as riquezas e o materialismo, governando a vida daqueles que não conhecem a Deus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "ADF-003",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, qual é um princípio fundamental para uma vida financeira saudável?",
+    "alternativas": [
+      "Gastar tudo o que se ganha",
+      "Ganhar mais do que investir",
+      "Gastar menos do que se ganha",
+      "Evitar qualquer tipo de despesa"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 3, a apostila afirma que um dos princípios mais importantes é gastar menos do que se ganha.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "ADF-004",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Na comparação da gestão financeira com um time de futebol, receitas representam:",
+    "alternativas": ["A defesa", "Os reservas", "O ataque", "O treinador"],
+    "correta": 2,
+    "explicacao": "Na página 4, receitas são comparadas ao ataque e despesas à defesa.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "ADF-005",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, liberdade financeira significa:",
+    "alternativas": [
+      "Possuir carros caros",
+      "Ser milionário",
+      "Não precisar administrar dinheiro",
+      "Não depender exclusivamente do trabalho para viver"
+    ],
+    "correta": 3,
+    "explicacao": "A página 4 define liberdade financeira como não depender exclusivamente do trabalho para viver.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "ADF-006",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Qual alternativa apresenta um exemplo de renda passiva citado na apostila?",
+    "alternativas": [
+      "Salário mensal",
+      "Comissões de vendas",
+      "Aluguéis de imóveis",
+      "Horas extras"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, a apostila apresenta aluguéis de imóveis como exemplo de renda passiva.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "ADF-007",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a explicação baseada em Robert Kiyosaki, ativos são aquilo que:",
+    "alternativas": [
+      "Tiram dinheiro do bolso",
+      "Geram dívidas",
+      "Colocam dinheiro no bolso",
+      "Precisam ser evitados"
+    ],
+    "correta": 2,
+    "explicacao": "A página 4 afirma que ativos são aquilo que coloca dinheiro no bolso.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "ADF-008",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Qual exemplo é apresentado como armadilha financeira na seção sobre golpes?",
+    "alternativas": [
+      "Tesouro direto",
+      "Esquema de pirâmide",
+      "Conta poupança",
+      "Orçamento familiar"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 5, o esquema de pirâmide é citado como exemplo clássico de armadilha financeira.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "ADF-009",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, especular significa:",
+    "alternativas": [
+      "Aplicar recursos em fundamentos sólidos",
+      "Arriscar em algo incerto sem entender fundamentos",
+      "Construir patrimônio a longo prazo",
+      "Diversificar investimentos"
+    ],
+    "correta": 1,
+    "explicacao": "A página 5 diferencia especular como arriscar em algo incerto sem entender os fundamentos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "ADF-010",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Quais são as três áreas particularmente perigosas para o ministro segundo a apostila?",
+    "alternativas": [
+      "Saúde, fama e política",
+      "Orgulho, dinheiro e relações sexuais",
+      "Tecnologia, finanças e comunicação",
+      "Gestão, liderança e marketing"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 5, a apostila afirma que orgulho, dinheiro e relações sexuais são áreas particularmente perigosas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "ADF-011",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Qual exemplo bíblico é usado para ilustrar o perigo da ganância relacionada ao dinheiro?",
+    "alternativas": ["Noé", "José", "Acã", "Timóteo"],
+    "correta": 2,
+    "explicacao": "Na página 6, Acã é apresentado como exemplo clássico de destruição causada pela ganância.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "ADF-012",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, qual cuidado o ministro deve ter em relação aos dons recebidos de Deus?",
+    "alternativas": [
+      "Transformá-los em negócio",
+      "Cobrar por bênçãos",
+      "Evitar compartilhar",
+      "Não colocar valor financeiro naquilo que recebeu de graça"
+    ],
+    "correta": 3,
+    "explicacao": "Na página 7, a apostila afirma que o ministro não deve colocar valor financeiro no que recebeu de graça.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "ADF-013",
+    "disciplina": "Administração Financeira",
+    "enunciado": "De acordo com a apostila, o orçamento serve principalmente para:",
+    "alternativas": [
+      "Aumentar impostos",
+      "Controlar receitas e despesas",
+      "Substituir investimentos",
+      "Eliminar planejamento"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 8, o orçamento é definido como planejamento financeiro que controla receitas e despesas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "ADF-014",
+    "disciplina": "Administração Financeira",
+    "enunciado": "O exemplo dos sacerdotes mantendo a chama do altar acesa demonstra a importância de:",
+    "alternativas": [
+      "Improvisação",
+      "Planejamento e gerenciamento de recursos",
+      "Redução de pessoal",
+      "Aumento de ofertas"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 8, a manutenção contínua do altar é apresentada como exemplo de planejamento e controle de recursos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "ADF-015",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, o dinheiro na igreja deve ser tratado como:",
+    "alternativas": [
+      "Recurso comum",
+      "Investimento privado",
+      "Algo secundário",
+      "Algo sagrado"
+    ],
+    "correta": 3,
+    "explicacao": "Na página 8, a apostila afirma explicitamente que o dinheiro na igreja é sagrado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "ADF-016",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Qual solução foi adotada na primeira crise administrativa da igreja primitiva?",
+    "alternativas": [
+      "Fechar as atividades",
+      "Nomear diáconos",
+      "Aumentar impostos",
+      "Dividir a igreja"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 9, a apostila relata que diáconos foram nomeados para cuidar da parte administrativa.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "ADF-017",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, qual é a principal diferença entre líder e gestor?",
+    "alternativas": [
+      "O gestor inspira pessoas",
+      "O líder aponta o caminho e o gestor organiza recursos",
+      "O líder controla orçamento",
+      "Não existe diferença"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 10, o líder é descrito como quem aponta o caminho, enquanto o gestor organiza recursos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "ADF-018",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo o PMBOK citado na apostila, um projeto é:",
+    "alternativas": [
+      "Uma atividade permanente",
+      "Um esforço temporário para criar resultado único",
+      "Qualquer tarefa administrativa",
+      "Um investimento financeiro"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 10, projeto é definido como esforço temporário realizado para criar produto, serviço ou resultado único.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "ADF-019",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Na parábola dos talentos, qual atitude recebeu reprovação?",
+    "alternativas": [
+      "Investir os recursos",
+      "Dobrar o valor recebido",
+      "Compartilhar recursos",
+      "Enterrar o talento e não administrá-lo"
+    ],
+    "correta": 3,
+    "explicacao": "Na página 11, o terceiro servo é repreendido por não fazer nada com o que recebeu.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "ADF-020",
+    "disciplina": "Administração Financeira",
+    "enunciado": "Segundo a apostila, qual prática ajuda a evitar custos elevados causados por urgências?",
+    "alternativas": [
+      "Comprar imediatamente",
+      "Ignorar orçamento",
+      "Planejar com antecedência",
+      "Centralizar decisões em uma pessoa"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 12, a apostila afirma que planejar com antecedência ajuda a evitar gastos desnecessários causados por urgências.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Administração Financeira",
+      "pagina": 12
+    }
+  }
+]

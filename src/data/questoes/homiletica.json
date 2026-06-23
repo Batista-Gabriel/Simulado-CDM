@@ -1,0 +1,357 @@
+[
+  {
+    "id": "HML-001",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, qual definição melhor descreve homilética?",
+    "alternativas": [
+      "A arte de pregar sermões",
+      "Apenas o estudo de línguas bíblicas",
+      "Uma técnica exclusiva para leitura bíblica",
+      "Um método de memorização de textos"
+    ],
+    "correta": 0,
+    "explicacao": "Página 1 afirma que homilética é 'a arte de pregar sermões', sendo apresentada como ciência ligada ao ministério da Palavra.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 1
+    }
+  },
+  {
+    "id": "HML-002",
+    "disciplina": "Homilética",
+    "enunciado": "De acordo com os conceitos básicos apresentados, o que é exegese?",
+    "alternativas": [
+      "Arte de falar em público",
+      "Interpretação, explicação ou comentário de textos",
+      "Capacidade de falar fluentemente",
+      "Ação de persuadir pessoas"
+    ],
+    "correta": 1,
+    "explicacao": "Na página 2, exegese é definida como interpretação, explicação ou comentário de textos, principalmente da Bíblia.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "HML-003",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, qual elemento NÃO faz parte dos cinco pilares importantes na vida do pregador?",
+    "alternativas": ["Conhecimento", "Observação", "Memorização", "Leitura"],
+    "correta": 2,
+    "explicacao": "A página 2-3 apresenta cinco pilares: conhecimento, identidade, convicção, observação e leitura.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "HML-004",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, o sucesso da mensagem depende também de quê?",
+    "alternativas": [
+      "Da quantidade de ilustrações usadas",
+      "Da convicção do pregador",
+      "Do tempo da mensagem",
+      "Do uso de recursos audiovisuais"
+    ],
+    "correta": 1,
+    "explicacao": "Página 3 afirma que o sucesso da mensagem depende também da convicção que o pregador tem daquilo que transmite.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "HML-005",
+    "disciplina": "Homilética",
+    "enunciado": "Qual prática é apresentada como uma das grandes obrigações do pregador?",
+    "alternativas": [
+      "Jejum diário",
+      "Leitura constante e sistemática",
+      "Pregações improvisadas",
+      "Memorização completa dos sermões"
+    ],
+    "correta": 1,
+    "explicacao": "Página 3 declara que uma das grandes obrigações do pregador é a leitura constante e sistemática.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "HML-006",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, qual comportamento deve ser evitado no púlpito?",
+    "alternativas": [
+      "Respeitar horários",
+      "Usar vocabulário vulgar",
+      "Observar características da igreja",
+      "Considerar a ocasião"
+    ],
+    "correta": 1,
+    "explicacao": "Página 3 lista como aspecto errado usar vocabulário vulgar durante a ministração.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "HML-007",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, a pregação bíblica envolve:",
+    "alternativas": [
+      "Somente leitura da Bíblia",
+      "Apenas exegese histórica",
+      "Transferir cuidadosamente o texto bíblico para a situação atual da igreja",
+      "Uso obrigatório de comentários teológicos"
+    ],
+    "correta": 2,
+    "explicacao": "Página 4 afirma que a pregação bíblica envolve remover cuidadosamente o texto do contexto original e transferi-lo para a situação atual da igreja.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "HML-008",
+    "disciplina": "Homilética",
+    "enunciado": "Qual tipo de sermão é descrito como aquele que 'faz dormir'?",
+    "alternativas": [
+      "Sermão reportagem",
+      "Sermão marketing",
+      "Sermão sedativo",
+      "Sermão metralhadora"
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, o sermão sedativo é descrito explicitamente como aquele que faz dormir.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "HML-009",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a pesquisa citada na apostila, qual foi o maior medo apontado pelas pessoas?",
+    "alternativas": [
+      "Morte",
+      "Problemas financeiros",
+      "Falar em público",
+      "Altura"
+    ],
+    "correta": 2,
+    "explicacao": "Página 5 mostra pesquisa indicando falar em público com 41%, sendo o maior medo listado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "HML-010",
+    "disciplina": "Homilética",
+    "enunciado": "Qual recomendação é dada para lidar com o medo de falar em público?",
+    "alternativas": [
+      "Evitar oportunidades de exposição",
+      "Ignorar completamente o nervosismo",
+      "Estar bem preparado e saber o que vai dizer",
+      "Falar apenas lendo manuscritos"
+    ],
+    "correta": 2,
+    "explicacao": "Página 5 afirma que o melhor remédio contra medo e nervosismo é estar bem preparado e saber o que será dito.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "HML-011",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, a interpretação histórica é importante porque:",
+    "alternativas": [
+      "Substitui a exegese",
+      "Evita o uso de contexto",
+      "Ajuda a compreender a mensagem bíblica e seu significado atual",
+      "Elimina a necessidade de pesquisa"
+    ],
+    "correta": 2,
+    "explicacao": "Página 6 explica que a exegese histórica é importante para compreender a mensagem bíblica e determinar seu significado na atualidade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "HML-012",
+    "disciplina": "Homilética",
+    "enunciado": "Qual método de apresentação de sermão é descrito como 'ideias previamente preparadas'?",
+    "alternativas": [
+      "Memorização",
+      "Manuscrito",
+      "Improvisado",
+      "Extemporâneo"
+    ],
+    "correta": 3,
+    "explicacao": "Página 6 define sermão extemporâneo como aquele com ideias previamente preparadas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "HML-013",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, quais são as três partes essenciais da estrutura do sermão?",
+    "alternativas": [
+      "Tema, texto e apelo",
+      "Introdução, desenvolvimento e conclusão",
+      "Exegese, aplicação e convite",
+      "Leitura, exposição e oração"
+    ],
+    "correta": 1,
+    "explicacao": "Página 7 afirma que as partes essenciais do sermão são introdução, desenvolvimento e conclusão.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "HML-014",
+    "disciplina": "Homilética",
+    "enunciado": "Qual característica NÃO pertence a uma boa introdução segundo a apostila?",
+    "alternativas": [
+      "Ser breve",
+      "Ser interessante",
+      "Prometer muito",
+      "Ser cuidadosamente preparada"
+    ],
+    "correta": 2,
+    "explicacao": "Página 8 afirma que a introdução deve ser simples, sem arrogância e sem prometer muito.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "HML-015",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, qual é o principal objetivo da ilustração no sermão?",
+    "alternativas": [
+      "Substituir o desenvolvimento",
+      "Facilitar a compreensão da mensagem",
+      "Aumentar o tempo da pregação",
+      "Produzir humor"
+    ],
+    "correta": 1,
+    "explicacao": "Página 8 afirma que o objetivo principal da ilustração é facilitar a compreensão do assunto ou mensagem.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "HML-016",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo os requisitos necessários a uma boa oratória, qual item aparece listado na apostila?",
+    "alternativas": [
+      "Arqueologia",
+      "Expressividade",
+      "Improvisação",
+      "Memorização"
+    ],
+    "correta": 1,
+    "explicacao": "Página 9 inclui expressividade entre os requisitos necessários a uma boa oratória.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "HML-017",
+    "disciplina": "Homilética",
+    "enunciado": "No sermão temático, a divisão deriva-se principalmente de quê?",
+    "alternativas": [
+      "Do contexto histórico",
+      "Do texto original apenas",
+      "Do tema ou assunto apresentado",
+      "Das aplicações pessoais"
+    ],
+    "correta": 2,
+    "explicacao": "Página 10 afirma que a divisão do sermão temático deriva do tema ou assunto apresentado.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "HML-018",
+    "disciplina": "Homilética",
+    "enunciado": "Nos sermões textuais, as ideias são retiradas de:",
+    "alternativas": [
+      "Experiências pessoais",
+      "Um texto escolhido pelo pregador",
+      "Diversos livros simultaneamente",
+      "Comentários teológicos"
+    ],
+    "correta": 1,
+    "explicacao": "Página 11 afirma que no sermão textual as ideias são retiradas de um texto escolhido pelo pregador.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "HML-019",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, o sermão expositivo significa:",
+    "alternativas": [
+      "Ler versículos consecutivos",
+      "Expor experiências pessoais",
+      "Mostrar uma verdade contida no texto das Escrituras",
+      "Usar apenas interpretação histórica"
+    ],
+    "correta": 2,
+    "explicacao": "Página 13 explica que sermão expositivo significa colocar fora, mostrar e exibir uma verdade contida num texto bíblico.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "HML-020",
+    "disciplina": "Homilética",
+    "enunciado": "Segundo a apostila, uma boa conclusão do sermão deve ser:",
+    "alternativas": [
+      "Longa e detalhada",
+      "Pequena e clara",
+      "Cheia de novos argumentos",
+      "Sem aplicação prática"
+    ],
+    "correta": 1,
+    "explicacao": "Página 15 afirma que uma boa conclusão deve ser clara, específica, pequena e proporcionar satisfação aos ouvintes.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila de Homilética",
+      "pagina": 15
+    }
+  }
+]
