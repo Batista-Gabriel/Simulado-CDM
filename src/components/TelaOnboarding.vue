@@ -310,7 +310,7 @@ div {
     --ob-grad: #0f0e17;
 }
 
-:root:not(.dark) .onboarding-bg {
+:root:not(.dark) div {
     --ob-bg: #f9fafb;
     --ob-text: #111827;
     --ob-muted: #6b7280;
