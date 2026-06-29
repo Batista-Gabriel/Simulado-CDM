@@ -23,15 +23,15 @@ const disciplinasDisponiveis = computed(() =>
 const selecionadas = ref<string[]>([...disciplinasDisponiveis.value])
 const todasOn = computed(() => selecionadas.value.length === disciplinasDisponiveis.value.length)
 
-const quantDisponivel = computed(() => {
-    const total = questoes.filter((q) => selecionadas.value.includes(q.disciplina)).length
-    return Math.min(total, LIMITE)
-})
-const quantidade = ref(Math.min(quantDisponivel.value, LIMITE))
+const quantDisponivel = computed(() =>
+    questoes.filter((q) => selecionadas.value.includes(q.disciplina)).length
+)
+const quantidade = ref(Math.min(LIMITE, quantDisponivel.value))
 
 watch(quantDisponivel, (max) => {
-    if (quantidade.value > max) quantidade.value = max
-    if (max >= LIMITE && quantidade.value < LIMITE) quantidade.value = LIMITE
+    if (quantidade.value > max) {
+        quantidade.value = max
+    }
 })
 
 const mostrarImediato = ref(false)
