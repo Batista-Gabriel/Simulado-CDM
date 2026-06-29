@@ -40,7 +40,9 @@ const LETRAS = ['A', 'B', 'C', 'D', 'E']
 
 <template>
   <main v-if="sessao" class="min-h-screen bg-gray-50 dark:bg-[#0f0e17] p-4 pb-16">
-    <div class="max-w-2xl mx-auto pt-8 pr-12 space-y-6">
+    <div class="h-16 flex justify-end items-center">
+    </div>
+    <div class="max-w-2xl mx-auto pt-8 space-y-6">
 
       <!-- Hero resultado -->
       <div :class="['rounded-2xl border p-6 text-center space-y-2 animate-fadein', nivel.bg]">
