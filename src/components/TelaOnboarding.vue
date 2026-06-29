@@ -144,7 +144,7 @@ const btnLabel = computed(() => step.value === 2 ? 'Iniciar Simulado' : 'Continu
 
                 <!-- Título desliza junto com o conteúdo -->
                 <div class="relative min-h-14 overflow-hidden">
-                    <Transition :name="direcao === 'forward' ? 'slide-fwd' : 'slide-back'" mode="out-in">
+                    <Transition name="fade-step" mode="out-in">
                         <div :key="step">
                             <h2 class="text-2xl font-extrabold tracking-tight text-onboarding">
                                 {{ stepTitulo[step] }}
@@ -157,7 +157,7 @@ const btnLabel = computed(() => step.value === 2 ? 'Iniciar Simulado' : 'Continu
 
             <!-- Área de conteúdo animada -->
             <div class="relative flex-1 min-h-0">
-                <Transition :name="direcao === 'forward' ? 'slide-fwd' : 'slide-back'" mode="out-in">
+                <Transition name="fade-step" mode="out-in">
 
                     <!-- Step 0: nome -->
                     <div v-if="step === 0" key="s0" class="space-y-3">
@@ -419,33 +419,14 @@ div {
 }
 
 /* ── Transições de slide ─────────────────────────────────────────────────── */
-.slide-fwd-enter-active,
-.slide-fwd-leave-active,
-.slide-back-enter-active,
-.slide-back-leave-active {
-    transition: opacity 0.22s ease, transform 0.22s ease;
-    position: absolute;
-    width: 100%;
+.fade-step-enter-active,
+.fade-step-leave-active {
+    transition: opacity .22s ease;
 }
 
-.slide-fwd-enter-from {
+.fade-step-enter-from,
+.fade-step-leave-to {
     opacity: 0;
-    transform: translateX(32px);
-}
-
-.slide-fwd-leave-to {
-    opacity: 0;
-    transform: translateX(-32px);
-}
-
-.slide-back-enter-from {
-    opacity: 0;
-    transform: translateX(-32px);
-}
-
-.slide-back-leave-to {
-    opacity: 0;
-    transform: translateX(32px);
 }
 
 /* Hint fade */
