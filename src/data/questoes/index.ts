@@ -12,12 +12,14 @@ import evangelismoDiscipuladoMissao from "./evangelismo-discipulado-missao.json"
 import familia from "./familia.json";
 import fatorOracao from "./fator-oracao.json";
 import fundamentosTeologiaPentecostal from "./fundamentos-teologia-pentecostal.json";
+import gestaoEquipes from "./gestao-equipes.json";
 import hermeneutica from "./hermeneutica.json";
 import homiletica from "./homiletica.json";
 import inciacaoTeologia from "./inciacao-teologia.json";
 import liderancaInteligenciaEmocional from "./lideranca-inteligencia-emocional.json";
 import liturgia from "./liturgia.json";
 import obreiroAprovado from "./obreiro-aprovado.json";
+import relacionamentos from "./relacionamentos.json";
 import saudeIntegralObreiro from "./saude-integral-obreiro.json";
 import vocacaoMinisterial from "./vocacao-ministerial.json";
 
@@ -34,12 +36,14 @@ export const todasQuestoes: Questao[] = [
   ...(familia as Questao[]),
   ...(fatorOracao as Questao[]),
   ...(fundamentosTeologiaPentecostal as Questao[]),
+  ...(gestaoEquipes as Questao[]),
   ...(hermeneutica as Questao[]),
   ...(homiletica as Questao[]),
   ...(inciacaoTeologia as Questao[]),
   ...(liderancaInteligenciaEmocional as Questao[]),
   ...(liturgia as Questao[]),
   ...(obreiroAprovado as Questao[]),
+  ...(relacionamentos as Questao[]),
   ...(saudeIntegralObreiro as Questao[]),
   ...(vocacaoMinisterial as Questao[]),
 ];

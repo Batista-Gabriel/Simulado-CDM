@@ -1,0 +1,362 @@
+[
+  {
+    "id": "GDE-001",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Segundo a citação de Alvin Toffler presente na apostila, como deve ser definida a ação de gerenciar na atualidade?",
+    "alternativas": [
+      "O aperfeiçoamento das pessoas.",
+      "A direção estrita das coisas.",
+      "O controle rígido de processos e tarefas.",
+      "A maximização dos lucros financeiros."
+    ],
+    "correta": 0,
+    "explicacao": "A apostila cita expressamente Alvin Toffler ao afirmar que 'Gerenciar não é mais a direção da coisa, mas o aperfeiçoamento das pessoas'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-002",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Com base na perspectiva bíblica apresentada no texto (Rm 12:6-8), a gestão é classificada como:",
+    "alternativas": [
+      "Uma imposição humana secular.",
+      "Um dos dons de Deus.",
+      "Um cargo puramente administrativo.",
+      "Uma habilidade desenvolvida apenas por treinamento."
+    ],
+    "correta": 1,
+    "explicacao": "O texto afirma explicitamente na página 2 que 'A gestão é um dos dons de Deus. Rm 12:6-8.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-003",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "De acordo com Lucas 14:28-30, qual é a principal característica comportamental dos bons administradores?",
+    "alternativas": [
+      "Eles agem por impulso e intuição.",
+      "Eles delegam todas as suas responsabilidades.",
+      "Eles planejam com antecedência.",
+      "Eles focam exclusivamente na execução imediata."
+    ],
+    "correta": 2,
+    "explicacao": "A apostila aponta na página 2 que 'Os bons administradores planejam com antecedência. Lc 14:28-30.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-004",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Considerando a referência a Êxodo 18:21, qual princípio da gestão é explicitamente destacado na apostila?",
+    "alternativas": [
+      "A centralização das decisões.",
+      "A divisão do trabalho.",
+      "A automatização dos processos.",
+      "O monitoramento constante e individual."
+    ],
+    "correta": 1,
+    "explicacao": "O texto estabelece que 'A gestão tem como um dos princípios, a divisão do trabalho. Ex 18:21.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-005",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "O conceito de gestão evoca um conjunto de elementos fundamentais. Qual das seguintes alternativas apresenta termos associados diretamente a esse conceito na apostila?",
+    "alternativas": [
+      "Improviso, intuição e informalidade.",
+      "Ordem, método de trabalho e planejamento.",
+      "Individualismo, competição e sigilo.",
+      "Crescimento acelerado, independência e criatividade livre."
+    ],
+    "correta": 1,
+    "explicacao": "Na página 2 consta que 'Gestão lembra ordem, método de trabalho, estrutura, conformação, planejamento, preparo, definição de objetivos.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-006",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "O que a apostila afirma a respeito do 'crescimento sem ordem' nas organizações ou ministérios?",
+    "alternativas": [
+      "Ele é sustentável a longo prazo.",
+      "Ele é necessário para a inovação.",
+      "Ele é aparente e infrutífero.",
+      "Ele deve ser incentivado no início de qualquer projeto."
+    ],
+    "correta": 2,
+    "explicacao": "O texto declara textualmente na página 2 que 'O crescimento sem ordem é aparente e infrutífero.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-007",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Quais são as vantagens diretas de se aplicar uma boa gestão de equipes de acordo com o texto?",
+    "alternativas": [
+      "Eliminação completa de riscos e redução da equipe de trabalho.",
+      "Maior eficiência no uso de recursos humanos, planejamento apurado e melhores resultados com menor exposição a risco.",
+      "Independência total de cada membro e eliminação da necessidade de liderança.",
+      "Aumento da competitividade interna e centralização total do controle de resultados."
+    ],
+    "correta": 1,
+    "explicacao": "Conforme a página 2, uma boa gestão de equipes torna mais eficiente a utilização dos recursos humanos, o planejamento mais apurado e aumenta a capacidade de apresentar melhores resultados com menor exposição a risco.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-008",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Fazendo uma analogia com a Parábola do Semeador, a apostila ressalta que os frutos gerados em um projeto dependem de qual fator além da qualidade da semente?",
+    "alternativas": [
+      "Da quantidade de pessoas assistindo ao plantio.",
+      "De como a semente é plantada.",
+      "Exclusivamente do acaso e da sorte.",
+      "Da velocidade com que a semente é espalhada."
+    ],
+    "correta": 1,
+    "explicacao": "A apostila traz como uma verdade na página 2 que 'Os frutos não dependem apenas da qualidade da semente, mas de como ela é plantada.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-009",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Em relação à atividade de semear, qual é a orientação explícita deixada no texto quanto à natureza desse trabalho?",
+    "alternativas": [
+      "É um trabalho puramente braçal e automático.",
+      "Deve ser conduzido sem planejamento para permitir a espontaneidade.",
+      "Não é apenas um trabalho braçal, mas também deve ser feito com inteligência.",
+      "Depende unicamente de recursos financeiros abundantes."
+    ],
+    "correta": 2,
+    "explicacao": "Na página 2, o texto indica: 'Semear não é apenas um trabalho braçal. Ele também deve ser feito com inteligência.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "GDE-010",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "De acordo com o texto, o que se espera que aconteça com toda semente que é plantada?",
+    "alternativas": [
+      "Que floresça imediatamente sem dificuldades.",
+      "Que permaneça imutável independentemente do ambiente.",
+      "Que resista a alguma prova de fogo.",
+      "Que seja transferida para um local protegido do clima."
+    ],
+    "correta": 2,
+    "explicacao": "Na página 3, a apostila assevera que 'Toda semente plantada deve resistir a alguma prova de fogo.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "GDE-011",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Para realizar uma gestão de equipes eficiente, que tipo de perspectiva o gestor precisa ter, segundo a analogia com o semeador?",
+    "alternativas": [
+      "Visão focada exclusivamente no resultado final.",
+      "Visão completa da semeadura (semente, clima, terra, adubos, etc.).",
+      "Visão restrita apenas aos problemas e falhas da equipe.",
+      "Visão voltada unicamente para o controle de horários."
+    ],
+    "correta": 1,
+    "explicacao": "Na página 3, o documento afirma: 'Assim como um semeador, o gestor precisa ter a visão completa da semeadura (semente, clima, terra, adubos, etc.)'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "GDE-012",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Com base em I Coríntios 3.6 ('Eu plantei, Apolo regou; mas Deus deu o crescimento'), a colheita e o desenvolvimento são definidos como:",
+    "alternativas": [
+      "Um esforço estritamente individual do líder principal.",
+      "Um trabalho coletivo em que a parte mais importante é a do Senhor.",
+      "Um processo automático que dispensa cuidados humanos.",
+      "Um resultado direto da qualidade técnica do plantador."
+    ],
+    "correta": 1,
+    "explicacao": "A página 3 esclarece que 'a colheita, segundo a Bíblia, é um trabalho coletivo em que a parte mais importante é a do Senhor: I Coríntios 3. 6 diz: `Eu plantei, Apolo regou; mas Deus deu o crescimento`.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "GDE-013",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Entre as técnicas de Gestão de Equipes utilizadas por Jesus listadas na apostila, destaca-se a descentralização de papéis. Qual item corresponde a essa ação?",
+    "alternativas": [
+      "Jesus escolheu bem sua equipe de trabalho.",
+      "Jesus delegou autoridade.",
+      "Jesus usou a comunicação bilateral.",
+      "Jesus era organizado em seu trabalho."
+    ],
+    "correta": 1,
+    "explicacao": "Na página 3, o item 2 das técnicas usadas por Jesus cita expressamente: 'Jesus delegou autoridade'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "GDE-014",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Qual técnica de gestão de equipes de Jesus reflete a abertura para o diálogo e a troca mútua de informações, conforme elencado na apostila?",
+    "alternativas": [
+      "Jesus valorizou a importância das pessoas.",
+      "Jesus deu ênfase ao trabalho, à produção, à meta.",
+      "Jesus usou a comunicação bilateral.",
+      "Jesus não descuidou do planejamento."
+    ],
+    "correta": 2,
+    "explicacao": "O item 3 das técnicas de gestão utilizadas por Jesus na página 3 é: 'Jesus usou a comunicação bilateral'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "GDE-015",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Para se tornar um gestor capaz de 'energizar' equipes, qual perfil de pessoas o líder deve procurar ter ao seu redor?",
+    "alternativas": [
+      "Pessoas totalmente submissas que nunca discordam.",
+      "Pessoas sem experiência na área de atuação.",
+      "Pessoas questionadoras.",
+      "Pessoas que executam tarefas sem entender o propósito."
+    ],
+    "correta": 2,
+    "explicacao": "Na seção 'Como se tornar um gestor que `energiza` equipes?' na página 3, orienta-se: 'Cerque-se de pessoas questionadoras'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "GDE-016",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "No contexto das competências essenciais para gerir equipes, o que significa possuir a 'Capacidade de influenciar pessoas'?",
+    "alternativas": [
+      "Querer assumir a responsabilidade pelos outros, definir alternativas, avaliar, fazer escolhas e controlar o trabalho das pessoas.",
+      "Apenas mandar nos subordinados de forma impositiva e autocrática.",
+      "Evitar feedbacks negativos para manter a equipe unida e satisfeita.",
+      "Delegar todas as decisões cruciais para que o grupo resolva sozinho."
+    ],
+    "correta": 0,
+    "explicacao": "A apostila define essa competência na página 4 afirmando: 'Capacidade de influenciar pessoas: É preciso querer assumir a responsabilidade pelos outros, definir alternativas, avaliar, fazer escolhas e controlar o trabalho das pessoas.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "GDE-017",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Sobre a competência de 'Saber tomar decisões', qual posicionamento a apostila defende explicitamente?",
+    "alternativas": [
+      "Deve-se sempre adiar a decisão até se obter 100% de certeza absoluta.",
+      "O não fazer, o não tomar decisão é muito pior do que fazer alguma escolha, mesmo que não seja a ideal.",
+      "Decisões ideais são fáceis e nunca envolvem riscos ou dúvidas.",
+      "O gestor não deve assumir riscos, repassando as decisões polêmicas para a diretoria."
+    ],
+    "correta": 1,
+    "explicacao": "Na página 4, ao tratar de tomada de decisão, o texto salienta: 'Porém, o não fazer, o não tomar decisão é muito pior do que fazer alguma escolha, mesmo que não seja a ideal.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "GDE-018",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Como a apostila define o papel do líder que possui 'Visão estratégica'?",
+    "alternativas": [
+      "É aquele que adivinha o futuro por meio de intuições puras.",
+      "É aquele que avalia e prevê o que vai acontecer, entendendo que antecipar é estabelecer prioridades e interesses.",
+      "É aquele que altera as metas da equipe diariamente sem aviso prévio.",
+      "É aquele que foca unicamente no que aconteceu no passado distante."
+    ],
+    "correta": 1,
+    "explicacao": "A página 4 define: 'Visão estratégica: O bom líder é aquele que avalia e prevê o que vai acontecer. Antecipar é estabelecer prioridades e interesses.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "GDE-019",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "De acordo com o texto, de que maneira a demonstração de emoções ligadas ao 'Otimismo' impacta os liderados?",
+    "alternativas": [
+      "Provoca dispersão, distração e perda de prazos de entrega.",
+      "Reduz emoções negativas e provoca um aumento de capacidade cognitiva, da criatividade e da produtividade.",
+      "Gera um sentimento de falsa segurança que diminui a qualidade técnica.",
+      "Inibe a capacidade de os liderados criticarem construtivamente os processos."
+    ],
+    "correta": 1,
+    "explicacao": "Na página 4, explica-se que demonstrar emoções positivas ligadas ao otimismo ajuda a 'reduzir emoções negativas e provocam um aumento de capacidade cognitiva, da criatividade e da produtividade das pessoas.'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "GDE-020",
+    "disciplina": "Gestão de Equipes",
+    "enunciado": "Dentre os 5 fatos importantes que todo gestor deveria saber sobre gestão de equipes, qual é a conduta correta recomendada para lidar com elogios e correções?",
+    "alternativas": [
+      "Elogie em particular e corrija em público.",
+      "Elogie em público e corrija em particular.",
+      "Evite elogiar para não gerar soberba e corrija sempre em público.",
+      "Elogie e corrija sempre de forma coletiva, sem focar nos indivíduos."
+    ],
+    "correta": 1,
+    "explicacao": "O item 3 dos fatos importantes na página 4 determina explicitamente: 'Elogie em público e corrija em particular'.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Gestão de Equipes",
+      "pagina": 4
+    }
+  }
+]

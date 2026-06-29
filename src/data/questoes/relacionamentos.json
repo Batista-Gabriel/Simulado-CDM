@@ -1,0 +1,362 @@
+[
+  {
+    "id": "RLC-001",
+    "disciplina": "Relacionamento",
+    "enunciado": "Qual foi o impacto do pecado no projeto original de Deus para o homem?",
+    "alternativas": [
+      "Ele desorganizou o propósito divino de relacionamento.",
+      "Ele anulou definitivamente a capacidade de o homem viver em sociedade.",
+      "Ele alterou apenas a relação do homem com a natureza.",
+      "Ele limitou o acesso do homem aos recursos materiais da Terra."
+    ],
+    "correta": 0,
+    "explicacao": "Conforme a página 2, Deus criou o ser humano visando o relacionamento, mas o pecado acabou por desorganizar tudo, gerando a necessidade de resgatar esse projeto original.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "RLC-002",
+    "disciplina": "Relacionamento",
+    "enunciado": "O que é apontado como um requisito fundamental para que uma pessoa esteja apta a entrar no Reino dos céus?",
+    "alternativas": [
+      "Dominar conhecimentos teológicos profundos sobre as escrituras.",
+      "Realizar grandes obras de caridade visíveis à sociedade.",
+      "Aprender a se relacionar com o próximo em paz, harmonia e amor.",
+      "Evitar completamente qualquer tipo de contato com o lixo emocional do mundo."
+    ],
+    "correta": 2,
+    "explicacao": "A página 2 expressa claramente que a aptidão para entrar no Reino dos céus está diretamente ligada a aprendermos a nos relacionar em paz, harmonia e amor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "RLC-003",
+    "disciplina": "Relacionamento",
+    "enunciado": "De acordo com a introdução da apostila, como deve ser compreendida a vida humana na Terra?",
+    "alternativas": [
+      "Como um estágio e um treinamento preparatório para a eternidade.",
+      "Como a única oportunidade de obter satisfação e prazer pleno para a carne.",
+      "Como um período de punição decorrente do pecado original de Adão.",
+      "Como um fim em si mesma, sem desdobramentos espirituais futuros."
+    ],
+    "correta": 0,
+    "explicacao": "Na página 2, a autora define a vida terrena como um estágio ou um treinamento preparatório voltado para a nossa entrada na eternidade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "RLC-004",
+    "disciplina": "Relacionamento",
+    "enunciado": "O que a carta de João afirma sobre o indivíduo que declara amar a Deus, mas não demonstra amor pelo seu irmão?",
+    "alternativas": [
+      "Que ele possui uma fé fraca, mas que será aperfeiçoada com o tempo.",
+      "Que essa pessoa é mentirosa e, por isso, não herdará o Reino dos céus.",
+      "Que ele necessita apenas de maior instrução teológica formal.",
+      "Que sua conduta é aceitável, desde que mantenha o temor a Deus em secreto."
+    ],
+    "correta": 1,
+    "explicacao": "Segundo a página 2, baseando-se na carta de João, a pessoa que alega amar a Deus sem amar o irmão é classificada como mentirosa, correndo o risco de ficar de fora do Reino dos céus.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "RLC-005",
+    "disciplina": "Relacionamento",
+    "enunciado": "Por que os relacionamentos interpessoais tendem a se tornar mais difíceis à medida que ganham intimidade?",
+    "alternativas": [
+      "Em razão do pecado original, que ergueu um muro de inimizade.",
+      "Devido à falta de afinidade cultural e de interesses socioeconômicos comuns.",
+      "Porque a distância geográfica impede a manutenção de laços saudáveis.",
+      "Por causa da barreira tecnológica que afasta os indivíduos na era moderna."
+    ],
+    "correta": 0,
+    "explicacao": "De acordo com a página 2, o aumento da intimidade evidencia as dificuldades relacionais provocadas pelo pecado original, que estabeleceu um muro de inimizade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "RLC-006",
+    "disciplina": "Relacionamento",
+    "enunciado": "Quais sentimentos motivaram o primeiro homicídio registrado na história da humanidade, conforme o texto?",
+    "alternativas": [
+      "A ganância por terras e a soberba espiritual.",
+      "O ciúme, a inveja e a ira entre irmãos.",
+      "O medo da rejeição social e a falta de recursos.",
+      "A intolerância religiosa e a disputa pelo direito de primogenitura."
+    ],
+    "correta": 1,
+    "explicacao": "A página 2 aponta explicitamente que o ciúme, a inveja e a ira foram as causas emocionais que levaram ao primeiro assassinato entre irmãos.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "RLC-007",
+    "disciplina": "Relacionamento",
+    "enunciado": "Qual foi a advertência e orientação dada por Deus a Caim antes de ele cometer o seu erro?",
+    "alternativas": [
+      "Que ele deveria se afastar de seu irmão Abel imediatamente para evitar contendas.",
+      "Que o mal estava no coração dele, mas que cabia a ele dominar esse desejo contra si.",
+      "Que o seu sacrifício seria aceito se ele mudasse o semblante decaído.",
+      "Que a punição pelo pecado seria aplicada de forma severa e instantânea."
+    ],
+    "correta": 1,
+    "explicacao": "Conforme as páginas 2 e 3, Deus alertou Caim de que seu desejo seria contra si mesmo e que ele possuía a responsabilidade de dominá-lo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "RLC-008",
+    "disciplina": "Relacionamento",
+    "enunciado": "No contexto do relacionamento intrapessoal, o que acontece se o indivíduo não reconhecer suas próprias pendências emocionais?",
+    "alternativas": [
+      "Ele desenvolverá imediatamente uma doença física incurável.",
+      "Ele conseguirá estabelecer uma conexão espiritual mais pura e isolada.",
+      "Ele passará a projetar no próximo aquilo que pertence a si mesmo.",
+      "Ele perderá totalmente a memória de sua história de vida e convívio familiar."
+    ],
+    "correta": 2,
+    "explicacao": "A página 3 destaca que o não reconhecimento das pendências emocionais intrapessoais faz com que a pessoa projete no outro os seus próprios problemas e traumas.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "RLC-009",
+    "disciplina": "Relacionamento",
+    "enunciado": "Quais fatores históricos e contextuais possuem o poder de marcar profundamente o desenvolvimento de uma pessoa, segundo o texto?",
+    "alternativas": [
+      "Exclusivamente os traumas vivenciados na fase adulta da vida profissional.",
+      "Apenas as escolhas religiosas feitas de forma consciente na adolescência.",
+      "A história de vida desde antes do nascimento, englobando o convívio dos pais e o contexto político-econômico.",
+      "Somente as influências tecnológicas assimiladas após a maioridade."
+    ],
+    "correta": 2,
+    "explicacao": "Conforme explicitado na página 3, o desenvolvimento humano é marcado profundamente por uma gama de fatores que se estende desde antes do nascimento, incluindo o ambiente familiar, cultural, político e econômico.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "RLC-010",
+    "disciplina": "Relacionamento",
+    "enunciado": "Qual é a tendência comportamental descrita na apostila no que diz respeito ao estado emocional interno de um indivíduo?",
+    "alternativas": [
+      "Uma pessoa ferida tende a ferir, enquanto uma pessoa curada tem o potencial de curar outras.",
+      "Uma pessoa curada sempre se isola para não correr o risco de ser contaminada.",
+      "Uma pessoa ferida automaticamente se cura ao tentar aconselhar o próximo.",
+      "O estado emocional interno não interfere na forma como tratamos os outros."
+    ],
+    "correta": 0,
+    "explicacao": "A página 3 apresenta o princípio de que o estado emocional determina as ações nos relacionamentos: indivíduos feridos tendem a ferir, ao passo que os curados podem promover a cura.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "RLC-011",
+    "disciplina": "Relacionamento",
+    "enunciado": "Quais são as consequências diretas apontadas no texto para a presença de uma 'raiz de amargura'?",
+    "alternativas": [
+      "Aumenta o discernimento teológico e acelera a maturidade da liderança.",
+      "Gera arrependimento genuíno e promove a restauração das famílias.",
+      "Ela resseca os ossos e tem a capacidade de contaminar a muitos.",
+      "Ela atua exclusivamente na esfera espiritual, sem qualquer efeito na saúde física."
+    ],
+    "correta": 2,
+    "explicacao": "De acordo com a página 3, a raiz de amargura é altamente nociva, trazendo prejuízos que ressecam os ossos e contaminam as pessoas ao redor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "RLC-012",
+    "disciplina": "Relacionamento",
+    "enunciado": "Qual é a razão fundamental apresentada para a existência e manutenção de uma briga ou contenda interpessoal?",
+    "alternativas": [
+      "A incompatibilidade irremediável de temperamentos herdados.",
+      "O fato de haver uma reação ou resposta por parte do outro.",
+      "A intervenção externa de terceiros que julgam a situação.",
+      "O resgate involuntário de memórias anteriores ao nascimento."
+    ],
+    "correta": 1,
+    "explicacao": "A página 4 resume a dinâmica dos conflitos interpessoais afirmando de forma direta que uma briga só acontece porque há uma resposta oferecida.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "RLC-013",
+    "disciplina": "Relacionamento",
+    "enunciado": "Onde se manifestam de forma prática as chamadas 'obras da carne' descritas em Gálatas 5.19-21?",
+    "alternativas": [
+      "Exclusivamente no ambiente de pensamentos íntimos e secretos do ser humano.",
+      "Nos relacionamentos interpessoais, por meio de brigas, ciúmes, divisões e iras.",
+      "Unicamente em ambientes externos e alheios à comunidade cristã.",
+      "Em rituais litúrgicos antigos que foram abolidos no Novo Testamento."
+    ],
+    "correta": 1,
+    "explicacao": "Conforme a página 4, as obras da carne (como inimizade, discórdia, facções e invejas) encontram seu terreno de manifestação prática justamente dentro das relações com o próximo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "RLC-014",
+    "disciplina": "Relacionamento",
+    "enunciado": "A quem pertence a responsabilidade pelo estado de felicidade ou infelicidade do coração, segundo a perspectiva apresentada sobre o 'outro'?",
+    "alternativas": [
+      "Ao próximo, cujas atitudes determinam diretamente a nossa alegria.",
+      "À liderança ministerial, que deve gerenciar as nossas emoções.",
+      "Não pertence ao outro, pois ele não guarda essa chave em nosso coração.",
+      "Ao contexto socioeconômico e político em que estamos inseridos."
+    ],
+    "correta": 2,
+    "explicacao": "Na página 4, desconstrói-se a dependência emocional externa ao afirmar que o outro não detém o controle ou a chave da felicidade ou infelicidade do nosso coração.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "RLC-015",
+    "disciplina": "Relacionamento",
+    "enunciado": "Qual instrução bíblica é fornecida a respeito do ato de julgar o irmão nos relacionamentos?",
+    "alternativas": [
+      "Devemos julgar com rigor para ajudar o irmão a identificar seus erros.",
+      "Não fomos constituídos juízes e não devemos julgar para não recebermos a mesma medida de julgamento.",
+      "O julgamento é permitido, desde que fundamentado estritamente nas leis humanas.",
+      "Cabe aos cristãos maduros julgar e aplicar punições emocionais aos mais novos."
+    ],
+    "correta": 1,
+    "explicacao": "Conforme a página 4, Deus não deu ao homem o papel de juiz de seu semelhante, advertindo que o julgamento desferido retornará na mesma medida.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "RLC-016",
+    "disciplina": "Relacionamento",
+    "enunciado": "Como se caracteriza a natureza do amor exigido pela ordem bíblica nos relacionamentos?",
+    "alternativas": [
+      "É um sentimento retributivo, que depende do bom comportamento alheio.",
+      "É condicional e deve ser aplicado apenas aos que compartilham da mesma fé.",
+      "É incondicional, independente da atitude alheia e fruto de amadurecimento espiritual.",
+      "É uma reação emocional espontânea baseada na simpatia mútua."
+    ],
+    "correta": 2,
+    "explicacao": "A página 4 detalha que o verdadeiro amor cristão não funciona por retribuição, devendo ser incondicional e refletir a maturidade da vida espiritual do indivíduo.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "RLC-017",
+    "disciplina": "Relacionamento",
+    "enunciado": "Qual é o privilégio atual do cristão obediente em comparação com a comunhão que ocorria no Jardim do Éden?",
+    "alternativas": [
+      "No Éden a comunhão era plena e hoje ela se tornou apenas simbólica e distante.",
+      "Hoje, além de conversar, Deus faz morada no homem por meio do Espírito Santo se houver busca e obediência.",
+      "Atualmente o homem não precisa mais buscar a santificação para falar com Deus.",
+      "No Éden Deus habitava fisicamente dentro do coração de Adão e Eva o tempo todo."
+    ],
+    "correta": 1,
+    "explicacao": "Conforme a página 5, a dispensação atual confere o privilégio de o Espírito Santo fazer morada no interior do homem que O busca de coração, indo além das conversas diárias promovidas no Éden.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "RLC-018",
+    "disciplina": "Relacionamento",
+    "enunciado": "Como se expressa de maneira verdadeira e prática o amor a Deus, conforme o texto?",
+    "alternativas": [
+      "Através de declarações verbais públicas e posturas litúrgicas teatrais.",
+      "Por meio do cumprimento exclusivo das obrigações civis e leis dos homens.",
+      "Fazendo a Sua vontade, vivendo e obedecendo aos Seus mandamentos.",
+      "Contando unicamente com o trabalho árduo no ministério sem necessidade de devocional."
+    ],
+    "correta": 2,
+    "explicacao": "Na página 5, enfatiza-se que o amor a Deus transcende o discurso verbal e se materializa na obediência prática aos mandamentos divinos e na execução de Sua vontade.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "RLC-019",
+    "disciplina": "Relacionamento",
+    "enunciado": "O que é apontado explicitamente como o fundamento ou base do relacionamento do ser humano com Deus?",
+    "alternativas": [
+      "A quantidade de serviços prestados na igreja local.",
+      "O temor do Senhor.",
+      "O conhecimento acadêmico da história de Israel.",
+      "A ausência total de conflitos internos com familiares."
+    ],
+    "correta": 1,
+    "explicacao": "A página 5 estabelece de forma categórica que a estrutura base do relacionamento com Deus está firmada sobre o temor do Senhor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "RLC-020",
+    "disciplina": "Relacionamento",
+    "enunciado": "Citando Hebreus 12.14, quais são as duas condições essenciais apresentadas na apostila para que alguém possa ver o Senhor?",
+    "alternativas": [
+      "A abundância material e o sucesso eclesiástico.",
+      "O isolamento social e o jejum perpétuo.",
+      "A paz e a santificação.",
+      "O conhecimento das leis humanas e a oratória eloquente."
+    ],
+    "correta": 2,
+    "explicacao": "De acordo com a exegese textual contida na página 6, a busca constante pela paz e pela santificação constitui critério indispensável para que o homem veja o Senhor.",
+    "fonte": {
+      "tipo": "apostila",
+      "descricao": "Apostila Relacionamento",
+      "pagina": 6
+    }
+  }
+]
